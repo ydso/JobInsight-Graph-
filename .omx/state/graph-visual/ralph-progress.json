@@ -1,0 +1,12 @@
+{
+  "score": 95,
+  "verdict": "pass",
+  "category_match": true,
+  "differences": [
+    "上一次修改把图谱限制为最大 760px 宽，当前版本已恢复为铺满主面板宽度。",
+    "当前视口下主面板可用宽度约 626px，图谱容器宽 625px，高 620px，满足宽不变、高变大。"
+  ],
+  "suggestions": [],
+  "reasoning": "图谱宽度回到原来的全宽布局，只通过高度提升改善拥挤感。下方补充图表和右侧图谱桶保持不变。",
+  "next_actions": []
+}

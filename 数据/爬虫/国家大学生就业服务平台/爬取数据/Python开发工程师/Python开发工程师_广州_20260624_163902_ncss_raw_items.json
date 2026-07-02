@@ -1,0 +1,88 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "广州",
+    "code": "440100",
+    "query": "广州"
+  },
+  "keyword": "Python开发工程师",
+  "items": [
+    {
+      "page": 1,
+      "url": "https://www.ncss.cn/student/jobs/jobslist/ajax/?jobName=Python%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&areaCode=440100&offset=1&limit=10",
+      "captured_at": "2026-06-24T16:39:03.222277",
+      "items": [
+        {
+          "index": 1,
+          "source_job_id": "DG9nutbNJm5PiNbzciSyNN",
+          "job_title": "Python开发工程师",
+          "company_name": "广东赛博威信息科技有限公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/DG9nutbNJm5PiNbzciSyNN/detail.html",
+          "card_text": "Python开发工程师\n广东赛博威信息科技有限公司\n广东\n本科及以上\n其他\n计算机科学与技术(双语班),计算机类,计算机科学与技术(全英创新班)",
+          "api_item": {
+            "jobName": "Python开发工程师",
+            "highMonthPay": 12.0,
+            "updateDate": 1778148000000,
+            "lowMonthPay": 8.0,
+            "headCount": 3,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1778148000000,
+            "degreeName": "本科及以上",
+            "recName": "广东赛博威信息科技有限公司",
+            "recLogo": "",
+            "areaCodeName": "广东",
+            "jobId": "DG9nutbNJm5PiNbzciSyNN",
+            "recScale": null,
+            "sortPriority": 0,
+            "sourcesNameCh": "华南理工大学",
+            "sourcesType": "12",
+            "recTags": "",
+            "major": "计算机科学与技术(双语班),计算机类,计算机科学与技术(全英创新班)",
+            "recProperty": "其他",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "nlienp69uztxk4q8ikyu61issohbja7h"
+          }
+        },
+        {
+          "index": 2,
+          "source_job_id": "4ub4QSu9TPSCUUs1PEQTm4",
+          "job_title": "python开发工程师",
+          "company_name": "广州市派客朴食人工智能科技有限公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/4ub4QSu9TPSCUUs1PEQTm4/detail.html",
+          "card_text": "python开发工程师\n广州市派客朴食人工智能科技有限公司\n广东\n本科及以上\n100-499人",
+          "api_item": {
+            "jobName": "python开发工程师",
+            "highMonthPay": 20.0,
+            "updateDate": 1780246804000,
+            "lowMonthPay": 15.0,
+            "headCount": 1,
+            "memberLevel": "0",
+            "recruitType": "1",
+            "publishDate": 1753942629006,
+            "degreeName": "本科及以上",
+            "recName": "广州市派客朴食人工智能科技有限公司",
+            "recLogo": "",
+            "areaCodeName": "广东",
+            "jobId": "4ub4QSu9TPSCUUs1PEQTm4",
+            "recScale": "100-499人",
+            "sortPriority": 0,
+            "sourcesNameCh": "易展翅",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "1fgc34ei0xf5ure5ce82cxtwz4ovq6gf"
+          }
+        }
+      ]
+    }
+  ]
+}

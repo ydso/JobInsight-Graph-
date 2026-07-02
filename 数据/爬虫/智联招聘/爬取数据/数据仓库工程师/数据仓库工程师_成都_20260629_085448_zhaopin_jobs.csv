@@ -1,0 +1,247 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据仓库工程师,成都,801,40768307102,http://jobs.zhaopin.com/CC166866410J40768307102.htm,2026-06-29T09:02:17,70cd0c4a9e3b2099,9be5e61bf4993809,数据仓库工程师,四川杏林医药连锁有限责任公司,成都,武侯,1.2-1.8万,12000,18000,12,本科,本科,3-5年,3-5年,3,5,区间,全职,医药批发/零售,1000-9999人,民营,2026-05-25,2026-05-25 17:14:03,,,not_provided,计算机|数学,计算机类|数学,计算机类=>工学 || 数学=>理学,相关专业优先,"计算机类=>1、本科以上学历，计算机，数学等相关专业
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先 || 数学=>1、本科以上学历，计算机，数学等相关专业
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先",description,仅依据岗位正文中的专业要求语境抽取,"岗位职责：
+1、深入理解并梳理零售业务，根据业务抽象数仓模型；
+2、参与数据中台或仓库的建设，包括但不限定：数据分层建模.数据开发.数据管理规范设计.ETL流程优化等；
+3、参与数据仓库或中台的数据质量监控设计和治理工作。
+任职资格：
+1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。
+福利待遇：
+1、周末双休+带薪年假+法定节假日+五险一金+节日礼品+生日礼品+定期体检+爱心拍卖+享受爱心基金+工龄工资
+2、千人以上企业，平台稳定，优秀者可以快进晋升。
+上班时间:9:00-12:00;13:30-18:00","岗位职责：
+1、深入理解并梳理零售业务，根据业务抽象数仓模型；
+2、参与数据中台或仓库的建设，包括但不限定：数据分层建模.数据开发.数据管理规范设计.ETL流程优化等；
+3、参与数据仓库或中台的数据质量监控设计和治理工作。
+任职资格：
+1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。
+福利待遇：
+1、周末双休+带薪年假+法定节假日+五险一金+节日礼品+生日礼品+定期体检+爱心拍卖+享受爱心基金+工龄工资
+2、千人以上企业，平台稳定，优秀者可以快进晋升。
+上班时间:9:00-12:00;13:30-18:00","1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。","1、深入理解并梳理零售业务，根据业务抽象数仓模型；
+2、参与数据中台或仓库的建设，包括但不限定：数据分层建模.数据开发.数据管理规范设计.ETL流程优化等；
+3、参与数据仓库或中台的数据质量监控设计和治理工作。",数仓开发|数据建模|ETL开发|Python|ODPS sql|Spark sql|Flink sql|Oracle|MySQL|本科|3-5年|周末双休|带薪年假|法定节假日|五险一金|节日礼品|生日礼品|定期体检|带薪假期|节日慰问|体检福利,Python|SQL|Spark|数据仓库|MySQL|Oracle|ClickHouse|Hadoop|Hive|Flink|Power BI|ETL|数据建模|Linux|Spark SQL|Hive SQL|Kettle|Trino|SQL Server,Python|SQL|Spark|数据仓库|MySQL|Oracle|ClickHouse|Hadoop|Hive|Flink|Power BI|ETL|数据建模|Linux|Spark SQL|Hive SQL|Kettle|Trino|SQL Server,Python|SQL|Spark|数据仓库|MySQL|Oracle|ClickHouse|Hadoop|Hive|Flink|Power BI|ETL|数据建模|Linux|Spark SQL|Hive SQL|Kettle|Trino|SQL Server,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || 数据仓库=>数据工程 || MySQL=>数据库 || Oracle=>数据库 || ClickHouse=>数据库 || Hadoop=>大数据框架 || Hive=>大数据框架 || Flink=>大数据框架 || Power BI=>数据可视化 || ETL=>数据工程 || 数据建模=>数据工程 || Linux=>操作系统 || Spark SQL=>大数据框架 || Hive SQL=>大数据框架 || Kettle=>ETL工具 || Trino=>查询引擎 || SQL Server=>数据库,"Python=>数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。 || SQL=>据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。 || Spark=>S、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、m || 数据仓库=>1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟 || MySQL=>k.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparks || Oracle=>.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力， || ClickHouse=>k 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见 || Hadoop=>熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库 || Hive=>工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracl || Flink=>STAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、c || Power BI=>化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术； || ETL=>设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop. || 数据建模=>验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATAS || Linux=>O等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有 || Spark SQL=>、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘 || Hive SQL=>qlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。 || Kettle=>2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Pre || Trino=>TLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlse || SQL Server=>resto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.",requirement_text,
+2,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据仓库工程师,成都,801,40840266309,http://jobs.zhaopin.com/CC120409680J40840266309.htm,2026-06-29T09:02:17,d0fcc234b4f3348d,eb83ad5bad169971,数据仓库工程师（成都BI）,新讯数字科技(杭州)有限公司北京分公司,成都,双流,8000-12000元,8000,12000,12,学历不限,学历不限,1-3年,1-3年,1,3,区间,全职,通信运营商/电信增值服务,1000-9999人,民营,2026-05-15,2026-05-15 10:34:58,,,not_provided,计算机,计算机类,计算机类=>工学,相关专业优先,"计算机类=>1、计算机或相关专业专科及以上学历，2年以上数据仓库设计开发经验
+3、有运营商经分、数据仓库建模经验",description,仅依据岗位正文中的专业要求语境抽取,"岗位职责
+1、负责离线、实时数据模型（含ODS、DWD、DWS等层级）的设计、开发与实现，搭建完善的数据监控体系，及时排查并解决数据开发及运行过程中的各类技术问题。
+2、深入对接业务需求，提供大数据技术解决方案，支撑现有业务数据处理需求，同时具备前瞻性，能应对未来业务快速增长带来的海量数据处理挑战。
+3、提供面向业务方的报表、数据提取等数据服务；
+任职要求：
+1、计算机或相关专业专科及以上学历，2年以上数据仓库设计开发经验；
+2、具备较好的沟通能力、适应能力和理解能力；
+3、有运营商经分、数据仓库建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的实战经验。
+5、深入了解大数据在不同场景下的读写业务流程及优化原理，具备Hive/Spark/Flink等组件的性能调优能力；能快速定位分布式系统中的数据延迟、计算瓶颈等问题并给出解决方案。
+6、掌握至少一门主流编程语言（Java/Scala/Python/Shell等），能熟练运用其进行大数据相关脚本开发、任务调度及自动化工具实现。","岗位职责
+1、负责离线、实时数据模型（含ODS、DWD、DWS等层级）的设计、开发与实现，搭建完善的数据监控体系，及时排查并解决数据开发及运行过程中的各类技术问题。
+2、深入对接业务需求，提供大数据技术解决方案，支撑现有业务数据处理需求，同时具备前瞻性，能应对未来业务快速增长带来的海量数据处理挑战。
+3、提供面向业务方的报表、数据提取等数据服务；
+任职要求：
+1、计算机或相关专业专科及以上学历，2年以上数据仓库设计开发经验；
+2、具备较好的沟通能力、适应能力和理解能力；
+3、有运营商经分、数据仓库建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的实战经验。
+5、深入了解大数据在不同场景下的读写业务流程及优化原理，具备Hive/Spark/Flink等组件的性能调优能力；能快速定位分布式系统中的数据延迟、计算瓶颈等问题并给出解决方案。
+6、掌握至少一门主流编程语言（Java/Scala/Python/Shell等），能熟练运用其进行大数据相关脚本开发、任务调度及自动化工具实现。","1、计算机或相关专业专科及以上学历，2年以上数据仓库设计开发经验；
+2、具备较好的沟通能力、适应能力和理解能力；
+3、有运营商经分、数据仓库建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的实战经验。
+5、深入了解大数据在不同场景下的读写业务流程及优化原理，具备Hive/Spark/Flink等组件的性能调优能力；能快速定位分布式系统中的数据延迟、计算瓶颈等问题并给出解决方案。
+6、掌握至少一门主流编程语言（Java/Scala/Python/Shell等），能熟练运用其进行大数据相关脚本开发、任务调度及自动化工具实现。","1、负责离线、实时数据模型（含ODS、DWD、DWS等层级）的设计、开发与实现，搭建完善的数据监控体系，及时排查并解决数据开发及运行过程中的各类技术问题。
+2、深入对接业务需求，提供大数据技术解决方案，支撑现有业务数据处理需求，同时具备前瞻性，能应对未来业务快速增长带来的海量数据处理挑战。
+3、提供面向业务方的报表、数据提取等数据服务；",数仓开发|数据建模|数据采集|数据调研|ETL开发|数据清洗|数据治理|数据运维|1-3年,Python|SQL|Spark|数据仓库|Java|Scala|Hadoop|Hive|Flink|Kafka|HBase|数据建模|Hive SQL|DataX|Flume|Doris,Python|SQL|Spark|数据仓库|Java|Scala|Hadoop|Hive|Flink|Kafka|HBase|Hive SQL|DataX|Flume|Doris,Python|SQL|Spark|数据仓库|Java|Scala|Hadoop|Hive|Flink|Kafka|HBase|Hive SQL|DataX|Flume|Doris,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || 数据仓库=>数据工程 || Java=>编程语言 || Scala=>编程语言 || Hadoop=>大数据框架 || Hive=>大数据框架 || Flink=>大数据框架 || Kafka=>消息与流处理 || HBase=>数据库 || Hive SQL=>大数据框架 || DataX=>数据同步 || Flume=>数据采集 || Doris=>数据库,"Python=>延迟、计算瓶颈等问题并给出解决方案。
+6、掌握至少一门主流编程语言（Java/Scala/Python/Shell等），能熟练运用其进行大数据相关脚本开发、任务调度及自动化工具实现。 || SQL=>；
+3、有运营商经分、数据仓库建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapR || Spark=>Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海 || 数据仓库=>1、计算机或相关专业专科及以上学历，2年以上数据仓库设计开发经验；
+2、具备较好的沟通能力、适应能力和理解能力；
+3、有运营商经分、数据仓库建 || Java=>定位分布式系统中的数据延迟、计算瓶颈等问题并给出解决方案。
+6、掌握至少一门主流编程语言（Java/Scala/Python/Shell等），能熟练运用其进行大数据相关脚本开发、任务调度及 || Scala=>系统中的数据延迟、计算瓶颈等问题并给出解决方案。
+6、掌握至少一门主流编程语言（Java/Scala/Python/Shell等），能熟练运用其进行大数据相关脚本开发、任务调度及自动化工具实 || Hadoop=>建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、 || Hive=>较好的沟通能力、适应能力和理解能力；
+3、有运营商经分、数据仓库建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验 || Flink=>生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、 || Kafka=>包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的实战经验。 || HBase=>化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、Data || Hive SQL=>和理解能力；
+3、有运营商经分、数据仓库建模经验者优先；
+4、精通Hive编程，能编写复杂Hive SQL并具备性能优化能力；熟悉Hadoop生态相关技术及实践经验，包括但不限于HDFS、MapR || DataX=>Base、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的实战经验。
+5、深入了解大数据在不同场景下的读写业务流程 || Flume=>duce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的实战经验。
+5、深入了解大数据在不同场景下的 || Doris=>及实践经验，包括但不限于HDFS、MapReduce、HBase、Spark、Flink、Doris、Kafka、Zookeeper、Flume、DataX等；具备海量数据加工、处理与分析的",requirement_text,
+3,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据仓库工程师,成都,801,40829572713,http://jobs.zhaopin.com/CCL1509501650J40829572713.htm,2026-06-29T09:02:17,723292be3a4484c7,97371eaae0ba29a6,数据开发工程师（ETL / 数据仓库方向）,四川汇融农链科技有限公司,成都,武侯,8000-16000元,8000,16000,12,本科,本科,5-10年,5-10年,5,10,区间,全职,软件/IT服务,20-99人,民营,2026-05-13,2026-05-13 17:11:02,,,not_provided,计算机|统计学|信息管理|大数据技术|电商,计算机类|统计学|信息管理|大数据技术|电子商务,计算机类=>工学 || 统计学=>理学 || 信息管理=>管理学 || 大数据技术=>工学 || 电子商务=>管理学,相关专业优先,"计算机类=>具（Airflow、Azkaban）使用经验者优先
+3、经验与学历要求： 本科及以上学历，计算机、大数据、统计学、信息管理等相关专业优先
+3-6 年及以上数据开发 / ETL 相关工作经 || 统计学=>w、Azkaban）使用经验者优先
+3、经验与学历要求： 本科及以上学历，计算机、大数据、统计学、信息管理等相关专业优先
+3-6 年及以上数据开发 / ETL 相关工作经验，有数据仓库搭 || 信息管理=>kaban）使用经验者优先
+3、经验与学历要求： 本科及以上学历，计算机、大数据、统计学、信息管理等相关专业优先
+3-6 年及以上数据开发 / ETL 相关工作经验，有数据仓库搭建、企业级 || 大数据技术=>大数据技术能力：熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spa || 电子商务=>数据开发 / ETL 相关工作经验，有数据仓库搭建、企业级数据链路建设经验者优先
+有金融、电商、零售等行业数据处理经验者优先（根据公司业务调整）",description,仅依据岗位正文中的专业要求语境抽取,"1、岗位职责：
+负责数据抽取、清洗、转换、加载（ETL）全流程开发与优化，对接业务系统数据源（如业务库、日志、API 等），设计全量 / 增量抽取策略，定义数据清洗、脱敏、标准化规则，保障数据一致性、准确性与时效性。
+维护 MySQL、Oracle、PostgreSQL 等主流关系型数据库，负责表结构设计、索引优化、SQL 查询性能调优，处理千万级以上数据量的存储与查询需求，解决数据库运维中的性能瓶颈与异常问题。
+基于Hadoop 生态（HDFS、YARN）、Spark（Spark SQL/PySpark）、Hive、HBase 等大数据技术，处理 TB/PB 级海量数据，完成数据聚合、分析及业务指标计算，支撑大数据应用场景落地。
+参与数据仓库搭建，结合业务需求进行数据建模（维度建模、关系建模），设计星型 / 雪花模型，划分业务主题域（如用户、订单、商品），搭建数据分层架构（ODS、DW、DM），支撑数据分析与业务决策。
+编写 Shell 脚本实现 ETL 任务自动化调度、数据备份、日志清理等运维工作；使用 Python（Pandas/NumPy/PySpark）开发数据处理脚本，完成批量数据校验、异常数据修复及跨系统数据交互。
+配合数据分析师、业务团队梳理数据需求，提供数据支持；监控 ETL 任务运行状态，及时排查任务失败、数据延迟等问题，建立任务监控与告警机制，保障数据链路稳定。
+2. 岗位要求：
+关系型数据库能力：熟练操作 MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多表关联、子查询、窗口函数）编写能力，掌握表结构设计、索引优化、分区表配置及数据库性能调优技巧，能处理千万级数据量的存储与查询场景。
+大数据技术能力：熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完成海量数据清洗、转换、聚合，有 TB/PB 级数据处理经验者优先。
+ETL 全流程能力：精通 ETL 工艺全流程，理解数据抽取（全量 / 增量）、转换（清洗、脱敏、逻辑计算）、加载（全量覆盖 / 增量追加）的核心逻辑；熟悉至少 1 种 ETL 工具（如 Kettle、DataX、Flink CDC、Talend），能解决 ETL 过程中的数据一致性、异常重试、任务依赖等问题，有 ETL 调度工具（Airflow、Azkaban）使用经验者优先。
+数据建模能力：具备基础数据建模能力，熟悉维度建模、关系建模方法论，能结合业务场景设计星型 / 雪花模型，完成业务主题域划分、指标定义及数据仓库分层（ODS→DW→DM）设计，理解业务数据与指标逻辑的对应关系。
+脚本与 Linux 能力：熟练掌握 Linux 操作系统常用命令（文件管理、进程监控、权限配置、日志分析）；能独立编写 Shell 脚本实现自动化任务（如 ETL 任务调度、数据备份、批量执行 SQL）；熟练使用 Python 进行数据处理，掌握 Pandas、NumPy、PySpark 等库，能开发脚本解决数据校验、批量处理需求。
+3、经验与学历要求： 本科及以上学历，计算机、大数据、统计学、信息管理等相关专业优先；3-6 年及以上数据开发 / ETL 相关工作经验，有数据仓库搭建、企业级数据链路建设经验者优先；有金融、电商、零售等行业数据处理经验者优先（根据公司业务调整）。
+4、薪酬：8k--25k","1、岗位职责：
+负责数据抽取、清洗、转换、加载（ETL）全流程开发与优化，对接业务系统数据源（如业务库、日志、API 等），设计全量 / 增量抽取策略，定义数据清洗、脱敏、标准化规则，保障数据一致性、准确性与时效性。
+维护 MySQL、Oracle、PostgreSQL 等主流关系型数据库，负责表结构设计、索引优化、SQL 查询性能调优，处理千万级以上数据量的存储与查询需求，解决数据库运维中的性能瓶颈与异常问题。
+基于Hadoop 生态（HDFS、YARN）、Spark（Spark SQL/PySpark）、Hive、HBase 等大数据技术，处理 TB/PB 级海量数据，完成数据聚合、分析及业务指标计算，支撑大数据应用场景落地。
+参与数据仓库搭建，结合业务需求进行数据建模（维度建模、关系建模），设计星型 / 雪花模型，划分业务主题域（如用户、订单、商品），搭建数据分层架构（ODS、DW、DM），支撑数据分析与业务决策。
+编写 Shell 脚本实现 ETL 任务自动化调度、数据备份、日志清理等运维工作；使用 Python（Pandas/NumPy/PySpark）开发数据处理脚本，完成批量数据校验、异常数据修复及跨系统数据交互。
+配合数据分析师、业务团队梳理数据需求，提供数据支持；监控 ETL 任务运行状态，及时排查任务失败、数据延迟等问题，建立任务监控与告警机制，保障数据链路稳定。
+2. 岗位要求：
+关系型数据库能力：熟练操作 MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多表关联、子查询、窗口函数）编写能力，掌握表结构设计、索引优化、分区表配置及数据库性能调优技巧，能处理千万级数据量的存储与查询场景。
+大数据技术能力：熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完成海量数据清洗、转换、聚合，有 TB/PB 级数据处理经验者优先。
+ETL 全流程能力：精通 ETL 工艺全流程，理解数据抽取（全量 / 增量）、转换（清洗、脱敏、逻辑计算）、加载（全量覆盖 / 增量追加）的核心逻辑；熟悉至少 1 种 ETL 工具（如 Kettle、DataX、Flink CDC、Talend），能解决 ETL 过程中的数据一致性、异常重试、任务依赖等问题，有 ETL 调度工具（Airflow、Azkaban）使用经验者优先。
+数据建模能力：具备基础数据建模能力，熟悉维度建模、关系建模方法论，能结合业务场景设计星型 / 雪花模型，完成业务主题域划分、指标定义及数据仓库分层（ODS→DW→DM）设计，理解业务数据与指标逻辑的对应关系。
+脚本与 Linux 能力：熟练掌握 Linux 操作系统常用命令（文件管理、进程监控、权限配置、日志分析）；能独立编写 Shell 脚本实现自动化任务（如 ETL 任务调度、数据备份、批量执行 SQL）；熟练使用 Python 进行数据处理，掌握 Pandas、NumPy、PySpark 等库，能开发脚本解决数据校验、批量处理需求。
+3、经验与学历要求： 本科及以上学历，计算机、大数据、统计学、信息管理等相关专业优先；3-6 年及以上数据开发 / ETL 相关工作经验，有数据仓库搭建、企业级数据链路建设经验者优先；有金融、电商、零售等行业数据处理经验者优先（根据公司业务调整）。
+4、薪酬：8k--25k","关系型数据库能力：熟练操作 MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多表关联、子查询、窗口函数）编写能力，掌握表结构设计、索引优化、分区表配置及数据库性能调优技巧，能处理千万级数据量的存储与查询场景。
+大数据技术能力：熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完成海量数据清洗、转换、聚合，有 TB/PB 级数据处理经验者优先。
+ETL 全流程能力：精通 ETL 工艺全流程，理解数据抽取（全量 / 增量）、转换（清洗、脱敏、逻辑计算）、加载（全量覆盖 / 增量追加）的核心逻辑；熟悉至少 1 种 ETL 工具（如 Kettle、DataX、Flink CDC、Talend），能解决 ETL 过程中的数据一致性、异常重试、任务依赖等问题，有 ETL 调度工具（Airflow、Azkaban）使用经验者优先。
+数据建模能力：具备基础数据建模能力，熟悉维度建模、关系建模方法论，能结合业务场景设计星型 / 雪花模型，完成业务主题域划分、指标定义及数据仓库分层（ODS→DW→DM）设计，理解业务数据与指标逻辑的对应关系。
+脚本与 Linux 能力：熟练掌握 Linux 操作系统常用命令（文件管理、进程监控、权限配置、日志分析）；能独立编写 Shell 脚本实现自动化任务（如 ETL 任务调度、数据备份、批量执行 SQL）；熟练使用 Python 进行数据处理，掌握 Pandas、NumPy、PySpark 等库，能开发脚本解决数据校验、批量处理需求。
+3、经验与学历要求： 本科及以上学历，计算机、大数据、统计学、信息管理等相关专业优先；3-6 年及以上数据开发 / ETL 相关工作经验，有数据仓库搭建、企业级数据链路建设经验者优先；有金融、电商、零售等行业数据处理经验者优先（根据公司业务调整）。
+4、薪酬：8k--25k","负责数据抽取、清洗、转换、加载（ETL）全流程开发与优化，对接业务系统数据源（如业务库、日志、API 等），设计全量 / 增量抽取策略，定义数据清洗、脱敏、标准化规则，保障数据一致性、准确性与时效性。
+维护 MySQL、Oracle、PostgreSQL 等主流关系型数据库，负责表结构设计、索引优化、SQL 查询性能调优，处理千万级以上数据量的存储与查询需求，解决数据库运维中的性能瓶颈与异常问题。
+基于Hadoop 生态（HDFS、YARN）、Spark（Spark SQL/PySpark）、Hive、HBase 等大数据技术，处理 TB/PB 级海量数据，完成数据聚合、分析及业务指标计算，支撑大数据应用场景落地。
+参与数据仓库搭建，结合业务需求进行数据建模（维度建模、关系建模），设计星型 / 雪花模型，划分业务主题域（如用户、订单、商品），搭建数据分层架构（ODS、DW、DM），支撑数据分析与业务决策。
+编写 Shell 脚本实现 ETL 任务自动化调度、数据备份、日志清理等运维工作；使用 Python（Pandas/NumPy/PySpark）开发数据处理脚本，完成批量数据校验、异常数据修复及跨系统数据交互。
+配合数据分析师、业务团队梳理数据需求，提供数据支持；监控 ETL 任务运行状态，及时排查任务失败、数据延迟等问题，建立任务监控与告警机制，保障数据链路稳定。",SQL|Python|Java|Kettle|Oracle|MySQL|数据开发|数据清洗|Hadoop|本科|5-10年,Python|SQL|Spark|数据仓库|MySQL|PostgreSQL|Oracle|Hadoop|Hive|Flink|HBase|Airflow|Pandas|NumPy|ETL|数据建模|Linux|PySpark|Spark SQL|Hive SQL|DataX|Kettle,Python|SQL|Spark|数据仓库|MySQL|PostgreSQL|Oracle|Hadoop|Hive|Flink|HBase|Airflow|Pandas|NumPy|ETL|数据建模|Linux|PySpark|Spark SQL|Hive SQL|DataX|Kettle,Python|SQL|Spark|数据仓库|MySQL|PostgreSQL|Oracle|Hadoop|Hive|Flink|HBase|Airflow|Pandas|NumPy|ETL|数据建模|Linux|PySpark|Spark SQL|Hive SQL|DataX|Kettle,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || 数据仓库=>数据工程 || MySQL=>数据库 || PostgreSQL=>数据库 || Oracle=>数据库 || Hadoop=>大数据框架 || Hive=>大数据框架 || Flink=>大数据框架 || HBase=>数据库 || Airflow=>工作流调度 || Pandas=>数据处理库 || NumPy=>数据处理库 || ETL=>数据工程 || 数据建模=>数据工程 || Linux=>操作系统 || PySpark=>大数据框架 || Spark SQL=>大数据框架 || Hive SQL=>大数据框架 || DataX=>数据同步 || Kettle=>ETL工具,"Python=>ell 脚本实现自动化任务（如 ETL 任务调度、数据备份、批量执行 SQL）；熟练使用 Python 进行数据处理，掌握 Pandas、NumPy、PySpark 等库，能开发脚本解决数据校 || SQL=>MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多表关联、子查询、窗口函数）编写能力，掌握表结构设计、索引优化、分区表配置及数据库性能调 || Spark=>据技术能力：熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等 || 数据仓库=>建模、关系建模方法论，能结合业务场景设计星型 / 雪花模型，完成业务主题域划分、指标定义及数据仓库分层（ODS→DW→DM）设计，理解业务数据与指标逻辑的对应关系。
+脚本与 Linux 能 || MySQL=>关系型数据库能力：熟练操作 MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多 || PostgreSQL=>关系型数据库能力：熟练操作 MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多表关联、子查询、窗口函数）编写能力， || Oracle=>关系型数据库能力：熟练操作 MySQL、Oracle、PostgreSQL 等至少 2 种主流关系型数据库，具备复杂 SQL（多表关联、子查询 || Hadoop=>区表配置及数据库性能调优技巧，能处理千万级数据量的存储与查询场景。
+大数据技术能力：熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL || Hive=>、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完成海量数据清 || Flink=>/ 增量追加）的核心逻辑；熟悉至少 1 种 ETL 工具（如 Kettle、DataX、Flink CDC、Talend），能解决 ETL 过程中的数据一致性、异常重试、任务依赖等问题，有 || HBase=>握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完成海量数据清洗、转换、聚合，有 TB/PB 级数据 || Airflow=>d），能解决 ETL 过程中的数据一致性、异常重试、任务依赖等问题，有 ETL 调度工具（Airflow、Azkaban）使用经验者优先。
+数据建模能力：具备基础数据建模能力，熟悉维度建模、关系 || Pandas=>TL 任务调度、数据备份、批量执行 SQL）；熟练使用 Python 进行数据处理，掌握 Pandas、NumPy、PySpark 等库，能开发脚本解决数据校验、批量处理需求。
+3、经验与学历 || NumPy=>、数据备份、批量执行 SQL）；熟练使用 Python 进行数据处理，掌握 Pandas、NumPy、PySpark 等库，能开发脚本解决数据校验、批量处理需求。
+3、经验与学历要求： 本科 || ETL=>用，能基于大数据框架完成海量数据清洗、转换、聚合，有 TB/PB 级数据处理经验者优先。
+ETL 全流程能力：精通 ETL 工艺全流程，理解数据抽取（全量 / 增量）、转换（清洗、脱敏、 || 数据建模=>、任务依赖等问题，有 ETL 调度工具（Airflow、Azkaban）使用经验者优先。
+数据建模能力：具备基础数据建模能力，熟悉维度建模、关系建模方法论，能结合业务场景设计星型 / 雪花 || Linux=>定义及数据仓库分层（ODS→DW→DM）设计，理解业务数据与指标逻辑的对应关系。
+脚本与 Linux 能力：熟练掌握 Linux 操作系统常用命令（文件管理、进程监控、权限配置、日志分析）； || PySpark=>生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完 || Spark SQL=>熟悉 Hadoop 生态体系（HDFS、YARN、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能 || Hive SQL=>、MapReduce），掌握 Spark（Spark SQL、PySpark）、Hive（HQL 编写、分区优化）、HBase 等大数据工具的使用，能基于大数据框架完成海量数据清洗、转换 || DataX=>载（全量覆盖 / 增量追加）的核心逻辑；熟悉至少 1 种 ETL 工具（如 Kettle、DataX、Flink CDC、Talend），能解决 ETL 过程中的数据一致性、异常重试、任务依 || Kettle=>逻辑计算）、加载（全量覆盖 / 增量追加）的核心逻辑；熟悉至少 1 种 ETL 工具（如 Kettle、DataX、Flink CDC、Talend），能解决 ETL 过程中的数据一致性、异常",requirement_text,
+4,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据仓库工程师,成都,801,40910574902,http://jobs.zhaopin.com/CC166866410J40910574902.htm,2026-06-29T09:02:17,2062969b11a8ff1a,c368d32576d18637,数据仓库工程师,四川杏林医药连锁有限责任公司,成都,武侯,1.2-1.8万,12000,18000,12,本科,本科,3-5年,3-5年,3,5,区间,全职,医药批发/零售,1000-9999人,民营,2026-01-29,2026-01-29 10:24:30,,,not_provided,计算机|数学,计算机类|数学,计算机类=>工学 || 数学=>理学,相关专业优先,"计算机类=>1、本科以上学历，计算机，数学等相关专业
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先 || 数学=>1、本科以上学历，计算机，数学等相关专业
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先",description,仅依据岗位正文中的专业要求语境抽取,"未在成都，不能安排线下面试的人 请勿投递
+岗位职责：
+1、深入理解并梳理零售业务，根据业务抽象数仓模型；
+2、参与数据中台或仓库的建设，包括但不限定：数据分层建模.数据开发.数据管理规范设计.ETL流程优化等；
+3、参与数据仓库或中台的数据质量监控设计和治理工作。
+任职资格：
+1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。
+
+福利待遇：
+1、周末双休+带薪年假+法定节假日+五险一金+节日礼品+生日礼品+定期体检+爱心拍卖+享受爱心基金+工龄工资
+2、千人以上企业，平台稳定，优秀者可以快进晋升。
+上班时间:9:00-12:00;13:30-18:00
+如果简历通过，需要线下面试，不在成都的人选暂时先不考虑","未在成都，不能安排线下面试的人 请勿投递
+岗位职责：
+1、深入理解并梳理零售业务，根据业务抽象数仓模型；
+2、参与数据中台或仓库的建设，包括但不限定：数据分层建模.数据开发.数据管理规范设计.ETL流程优化等；
+3、参与数据仓库或中台的数据质量监控设计和治理工作。
+任职资格：
+1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。
+
+福利待遇：
+1、周末双休+带薪年假+法定节假日+五险一金+节日礼品+生日礼品+定期体检+爱心拍卖+享受爱心基金+工龄工资
+2、千人以上企业，平台稳定，优秀者可以快进晋升。
+上班时间:9:00-12:00;13:30-18:00
+如果简历通过，需要线下面试，不在成都的人选暂时先不考虑","1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。","1、深入理解并梳理零售业务，根据业务抽象数仓模型；
+2、参与数据中台或仓库的建设，包括但不限定：数据分层建模.数据开发.数据管理规范设计.ETL流程优化等；
+3、参与数据仓库或中台的数据质量监控设计和治理工作。",数仓开发|数据建模|ETL开发|数据清洗|数据治理|Python|Oracle|MySQL|SQL Server|本科|3-5年|周末双休|带薪年假|法定节假日|五险一金|节日礼品|生日礼品|定期体检|带薪假期|节日慰问|体检福利,Python|SQL|Spark|数据仓库|MySQL|Oracle|ClickHouse|Hadoop|Hive|Flink|Power BI|ETL|数据建模|Linux|Spark SQL|Hive SQL|Kettle|Trino|SQL Server,Python|SQL|Spark|数据仓库|MySQL|Oracle|ClickHouse|Hadoop|Hive|Flink|Power BI|ETL|数据建模|Linux|Spark SQL|Hive SQL|Kettle|Trino|SQL Server,Python|SQL|Spark|数据仓库|MySQL|Oracle|ClickHouse|Hadoop|Hive|Flink|Power BI|ETL|数据建模|Linux|Spark SQL|Hive SQL|Kettle|Trino|SQL Server,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || 数据仓库=>数据工程 || MySQL=>数据库 || Oracle=>数据库 || ClickHouse=>数据库 || Hadoop=>大数据框架 || Hive=>大数据框架 || Flink=>大数据框架 || Power BI=>数据可视化 || ETL=>数据工程 || 数据建模=>数据工程 || Linux=>操作系统 || Spark SQL=>大数据框架 || Hive SQL=>大数据框架 || Kettle=>ETL工具 || Trino=>查询引擎 || SQL Server=>数据库,"Python=>数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有较好的团队协作能力，熟悉医药零售行业优先。 || SQL=>据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。 || Spark=>S、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、m || 数据仓库=>1、本科以上学历，计算机，数学等相关专业。3年以上工作经验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟 || MySQL=>k.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparks || Oracle=>.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力， || ClickHouse=>k 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见 || Hadoop=>熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库 || Hive=>工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracl || Flink=>STAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、c || Power BI=>化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术； || ETL=>设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop. || 数据建模=>验，3年以上数仓建设经验，有完整的数据仓库设计和参与建设经验；
+2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATAS || Linux=>O等开发使用。
+6、了解数据血缘.元数据.主数据.数据生命周期等数据管理技术；
+7、熟悉 Linux 系统环境，熟练使用 Shell.Python 等至少一种脚本语言；
+8、工作认真负责，有 || Spark SQL=>、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。
+6、了解数据血缘 || Hive SQL=>qlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.sparksql等；
+5、熟悉常见报表帆软、润乾、powerBI、sapBO等开发使用。 || Kettle=>2、熟悉数据仓库架构设计及数据建模理论，熟悉数仓建设流程及方法论；
+3、熟悉常见ETL工具KETTLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Pre || Trino=>TLE、SSIS、DATASTAGE等。熟悉主流大数据处理技术如：Hadoop.Hive.Presto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlse || SQL Server=>resto.Spark.Flink 等；
+4、精通sql，熟练应用主流数据库Oracle、sqlserver、mysql、clickhouse等。具备编写.优化复杂SQL的能力，熟悉hivesql.",requirement_text,

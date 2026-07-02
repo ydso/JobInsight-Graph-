@@ -1,0 +1,88 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "西安",
+    "code": "610100",
+    "query": "西安"
+  },
+  "keyword": "数据开发工程师",
+  "items": [
+    {
+      "page": 1,
+      "url": "https://www.ncss.cn/student/jobs/jobslist/ajax/?jobName=%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&areaCode=610100&offset=1&limit=10",
+      "captured_at": "2026-06-24T14:24:20.483872",
+      "items": [
+        {
+          "index": 1,
+          "source_job_id": "SCJYiARc1bhrpuXjwokRmY",
+          "job_title": "数据开发工程师",
+          "company_name": "华为技术有限公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/SCJYiARc1bhrpuXjwokRmY/detail.html",
+          "card_text": "数据开发工程师\n华为技术有限公司\n陕西\n本科及以上\n5000以上",
+          "api_item": {
+            "jobName": "数据开发工程师",
+            "highMonthPay": 6.0,
+            "updateDate": 1779764445000,
+            "lowMonthPay": 3.0,
+            "headCount": 0,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1779764445000,
+            "degreeName": "本科及以上",
+            "recName": "华为技术有限公司",
+            "recLogo": "",
+            "areaCodeName": "陕西",
+            "jobId": "SCJYiARc1bhrpuXjwokRmY",
+            "recScale": "5000以上",
+            "sortPriority": 0,
+            "sourcesNameCh": "boss直聘",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "2000846399"
+          }
+        },
+        {
+          "index": 2,
+          "source_job_id": "Kg6pVVF2yythBzBjacjEtV",
+          "job_title": "西安-大数据开发工程师",
+          "company_name": "中国电信集团",
+          "detail_url": "https://www.ncss.cn/student/jobs/Kg6pVVF2yythBzBjacjEtV/detail.html",
+          "card_text": "西安-大数据开发工程师\n中国电信集团\n陕西\n本科及以上\n计算机科学与技术,网络工程",
+          "api_item": {
+            "jobName": "西安-大数据开发工程师",
+            "highMonthPay": 0.0,
+            "updateDate": 1781722821000,
+            "lowMonthPay": 0.0,
+            "headCount": 0,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1772474627472,
+            "degreeName": "本科及以上",
+            "recName": "中国电信集团",
+            "recLogo": "",
+            "areaCodeName": "陕西",
+            "jobId": "Kg6pVVF2yythBzBjacjEtV",
+            "recScale": null,
+            "sortPriority": 0,
+            "sourcesNameCh": "前程无忧",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "计算机科学与技术,网络工程",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "19etdf5giehhg58vzrf5m0en8hldvkvw"
+          }
+        }
+      ]
+    }
+  ]
+}

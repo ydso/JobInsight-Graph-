@@ -1,0 +1,8 @@
+{
+  "input_csv": "../爬虫/总爬虫数据分析/分析结果/总爬取数据.csv",
+  "fallback_input_csv": "../爬虫/总爬虫数据分析/分析结果/unified_jobs_clean.csv",
+  "input_encoding": "GB18030",
+  "output_dir": "输出",
+  "max_text_length": 300,
+  "min_role_skill_count": 1
+}

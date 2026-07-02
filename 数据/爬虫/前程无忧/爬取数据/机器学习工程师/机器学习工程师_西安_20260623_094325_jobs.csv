@@ -1,0 +1,64 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-23.1,2026-06-18.1,2026-06-18.1,机器学习工程师,西安,200200,172558283,https://jobs.51job.com/xian-ytq/172558283.html,2026-06-23T09:43:32.171426,d44526051c8b7a75,11e854b1855db631,机器学习工程师,全讯射频科技（无锡）有限公司,西安,雁塔区,1.7-2.2万·13薪,17000,22000,13,硕士,硕士,1-2年,1-2年,1,2,区间,全职,电子技术/半导体/集成电路,1000-5000人,外资（欧美）,2026-06-15,2026-06-15 14:40:05,108.890105,34.236119,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"为高通西安分公司招聘
+
+Detailed Project Description
+1. Focus on the design and implementation of key modules for the Generative AI inference runtime (Genie) and AI co processors, enabling efficient execution of complex models on edge and embedded platforms.
+2. Implement and optimize inference for large language models (LLMs) and multimodal models on embedded and edge platforms, including improvements in execution efficiency, memory management, and resource utilization.
+3. Design and optimize collaboration mechanisms between the inference runtime and AI co processors, enhancing overall system performance and scalability.
+4. Resolve system level performance and stability issues within Generative AI platforms.
+5. Collaborate across teams to drive the adoption of Generative AI inference technologies in platform level use cases.
+
+Skills / Experience Required 
+1. Deep understanding of LLM / LVM inference execution workflows, with system level design and implementation experience.
+2. Proficient with Android / Linux development environments, with hands on experience on embedded or heterogeneous computing platforms.
+3. Familiar with performance, memory, and concurrency optimization techniques in resource constrained environments.
+4. Expert level proficiency in C++, with solid experience using Python and/or Java in system or AI engineering contexts.
+5. Long term ownership experience with AI inference runtimes, AI acceleration technologies, or platform level components is a strong plus.
+6. Experience with Qualcomm NPU deployment and development is highly preferred.
+
+Education Requirements 
+Degree Major, GPA, CoursesMaster’s degree in Computer Science, Electronic Engineering, or Electrical and Computer Engineering preferred.
+Work experience:1-2 years.","为高通西安分公司招聘
+
+Detailed Project Description
+1. Focus on the design and implementation of key modules for the Generative AI inference runtime (Genie) and AI co processors, enabling efficient execution of complex models on edge and embedded platforms.
+2. Implement and optimize inference for large language models (LLMs) and multimodal models on embedded and edge platforms, including improvements in execution efficiency, memory management, and resource utilization.
+3. Design and optimize collaboration mechanisms between the inference runtime and AI co processors, enhancing overall system performance and scalability.
+4. Resolve system level performance and stability issues within Generative AI platforms.
+5. Collaborate across teams to drive the adoption of Generative AI inference technologies in platform level use cases.
+
+Skills / Experience Required
+1. Deep understanding of LLM / LVM inference execution workflows, with system level design and implementation experience.
+2. Proficient with Android / Linux development environments, with hands on experience on embedded or heterogeneous computing platforms.
+3. Familiar with performance, memory, and concurrency optimization techniques in resource constrained environments.
+4. Expert level proficiency in C++, with solid experience using Python and/or Java in system or AI engineering contexts.
+5. Long term ownership experience with AI inference runtimes, AI acceleration technologies, or platform level components is a strong plus.
+6. Experience with Qualcomm NPU deployment and development is highly preferred.
+
+Education Requirements
+Degree Major, GPA, CoursesMaster’s degree in Computer Science, Electronic Engineering, or Electrical and Computer Engineering preferred.
+Work experience:1-2 years.",,,1-2年|硕士|linux|python|机器学习|AI软件|Android|AI模型部署|性能优化|嵌入式|C++|大模型推理|五险一金|年终奖金|定期体检|绩效奖金|专业培训|餐饮补贴|交通补贴|补充医疗保险|弹性工作|股票期权|全薪病假,Python|Java|C++|Linux,,Python|Java|C++|Linux,Python=>编程语言 || Java=>编程语言 || C++=>编程语言 || Linux=>操作系统,"Python=>4. Expert level proficiency in C++, with solid experience using Python and/or Java in system or AI engineering contexts. || Java=>4. Expert level proficiency in C++, with solid experience using Python and/or Java in system or AI engineering contexts. || C++=>4. Expert level proficiency in C++, with solid experience using Python and/or Java in system or AI engineering contexts. || Linux=>2. Proficient with Android / Linux development environments, with hands on experience on embedded or heterogeneous computing platforms.",job_description_fallback,requirement_section_missing|major_missing
+2,51job,2026-06-23.1,2026-06-18.1,2026-06-18.1,机器学习工程师,西安,200200,170103776,https://jobs.51job.com/xian/170103776.html,2026-06-23T09:43:32.172617,02a2570353341f91,fb14e90e6cca7da4,（国企）人工智能平台开发（深度学习、机器学习算法）,前锦网络信息技术（上海）有限公司,西安,,2-4万,20000,40000,12,硕士,硕士,3年以上,3年及以上,3,,下限,全职,专业服务(咨询、人力资源、财会),5000-10000人,已上市,2026-01-04,2026-01-04 17:50:48,108.945729,34.382176,not_supported_by_description,计算机,计算机类,计算机类=>工学,要求,1.教育背景：硕士及以上学历，计算机、通信、电子等相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+1.人工智能服务器硬件架构、软件和仿真系统开发；负责打造基于深度学习、强化学习的AI核心技术、分布式训练框架、整体解决方案；
+2.负责整车应用业务中的人工智能技术的研发与实现，探索和推动人机交互、智能驾驶和整车性能提升等场景的应用落地；
+3.负责人工智能前沿技术的研究，持续优化算法性能，并推动前沿技术落地和通用人工智能的发展。
+
+岗位要求：
+1.教育背景：硕士及以上学历，计算机、通信、电子等相关专业。
+2.工作经验：3年以上人工智能在整车应用（智能座舱、智能驾驶等）或人工智能平台系统开发工作经验。
+3.知识技能：熟悉深度学习、机器学习的各个领域，熟练运用深度学习框架；熟悉目标检测、跟踪和识别领域的ML算法；熟悉基于车辆控制器的AI算法部署测试；掌握模型的剪技和优化，能够独立完成模型剪枝等工作；优秀的C++、Python编程和大型软件开发的工程能力；Github上有开源项目者优先考虑。
+4.素质要求：良好的学习能力、沟通能力，系统性思维。","岗位职责：
+1.人工智能服务器硬件架构、软件和仿真系统开发；负责打造基于深度学习、强化学习的AI核心技术、分布式训练框架、整体解决方案；
+2.负责整车应用业务中的人工智能技术的研发与实现，探索和推动人机交互、智能驾驶和整车性能提升等场景的应用落地；
+3.负责人工智能前沿技术的研究，持续优化算法性能，并推动前沿技术落地和通用人工智能的发展。
+
+岗位要求：
+1.教育背景：硕士及以上学历，计算机、通信、电子等相关专业。
+2.工作经验：3年以上人工智能在整车应用（智能座舱、智能驾驶等）或人工智能平台系统开发工作经验。
+3.知识技能：熟悉深度学习、机器学习的各个领域，熟练运用深度学习框架；熟悉目标检测、跟踪和识别领域的ML算法；熟悉基于车辆控制器的AI算法部署测试；掌握模型的剪技和优化，能够独立完成模型剪枝等工作；优秀的C++、Python编程和大型软件开发的工程能力；Github上有开源项目者优先考虑。
+4.素质要求：良好的学习能力、沟通能力，系统性思维。","1.教育背景：硕士及以上学历，计算机、通信、电子等相关专业。
+2.工作经验：3年以上人工智能在整车应用（智能座舱、智能驾驶等）或人工智能平台系统开发工作经验。
+3.知识技能：熟悉深度学习、机器学习的各个领域，熟练运用深度学习框架；熟悉目标检测、跟踪和识别领域的ML算法；熟悉基于车辆控制器的AI算法部署测试；掌握模型的剪技和优化，能够独立完成模型剪枝等工作；优秀的C++、Python编程和大型软件开发的工程能力；Github上有开源项目者优先考虑。
+4.素质要求：良好的学习能力、沟通能力，系统性思维。","1.人工智能服务器硬件架构、软件和仿真系统开发；负责打造基于深度学习、强化学习的AI核心技术、分布式训练框架、整体解决方案；
+2.负责整车应用业务中的人工智能技术的研发与实现，探索和推动人机交互、智能驾驶和整车性能提升等场景的应用落地；
+3.负责人工智能前沿技术的研究，持续优化算法性能，并推动前沿技术落地和通用人工智能的发展。",3年及以上|硕士|计算机|电子|c++|软件开发|通信|ai|人工智能|机器学习|深度学习|github|五险一金|年终奖金|绩效奖金,Python|机器学习|C++|深度学习,Python|机器学习|C++|深度学习,Python|机器学习|C++|深度学习,Python=>编程语言 || 机器学习=>人工智能 || C++=>编程语言 || 深度学习=>人工智能,Python=>优秀的C++、Python编程和大型软件开发的工程能力； || 机器学习=>3.知识技能：熟悉深度学习、机器学习的各个领域，熟练运用深度学习框架； || C++=>优秀的C++、Python编程和大型软件开发的工程能力； || 深度学习=>3.知识技能：熟悉深度学习、机器学习的各个领域，熟练运用深度学习框架；,requirement_text,platform_major_not_supported|district_missing

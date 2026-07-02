@@ -1,0 +1,122 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,Python开发工程师,深圳,440300,RmzH58PLPDsS53asXPGeVn,https://www.ncss.cn/student/jobs/RmzH58PLPDsS53asXPGeVn/detail.html,2026-06-24T14:39:16.738514,956f993cd2f432da,02fd418ee7a810b1,Python开发工程师,深圳智慧林网络科技有限公司,深圳,,7-12K/月,7000,12000,12,硕士,硕士及以上,,,,,未说明,全职,,1-49人,民营企业,2026-05-26,1779728400000,,,not_supported_by_description,计算机,计算机类,计算机类=>工学,要求,任职资格1. 学历与专业：***硕士毕业，计算机软件相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,岗位职责（一）项目开发与维护1. 负责 Python 相关项目全生命周期管理，涵盖需求分析、架构设计、代码开发及系统维护等核心环节，编写高效、可复用、易维护的 Python 代码，完成模块和系统开发任务。2. 负责现有项目的日常系统维护工作，当系统出现故障时，通过查阅日志、与现场工人视频沟通等方式排查问题根源，完成参数调整及模型数据集的优化调整，3. 及时修复系统缺陷，持续优化代码性能与系统架构，保障项目在客户生产环境中稳定运行。（二）技术研发与实现1. 依据业务需求开发后端 API，熟练运用 Django/flask/FastAPI 等框架并遵循 RESTful 规范;处理爬虫、ETL、数据分析等各类数据相关任务，参与 A/机器学习或自动化脚本的开发工作。2. 开展新项目技术预研工作，聚焦护目镜镜片、耳塞识别物定制场景，完成模型预训练、算法预开发任务；负责数据集标注、模型训练、模型量化及部署全流程工作，对模型精准率负责，并将模型集成至项目功能中。3. 参与边缘节点架构的分析与研发工作，探索异步编程、微服务架构等新技术并落地实践。（三）技术优化与协作1. 参与代码评审工作，提出系统架构及性能优化建议，推动代码质量和系统整体性能提升。2. 与前端、测试、产品等跨团队协作，明确需求边界，保障项目交付质量。（四）文档编写1. 编写完善的技术文档，包括设计文档、接口文档等;2. 负责用户操作手册、部署文档的编写工作。任职资格1. 学历与专业：***硕士毕业，计算机软件相关专业。2. 编程基础：熟练掌握 Python 语言及 requests/pandas/numpy 等常用库；熟悉面向对象编程、设计模式、多线程/协程等核心编程概念；了解 OpenCv，具备数据清洗、数据标注的能力。3. 框架应用能力:（1）Web方向：熟悉 Django/Flask/FastAPI等框架及 RESTfu|规范；（2）数据方向：掌握 Scrapy/Selenium/Pandas/NumPy等数据处理工具；4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库；熟悉SQLAlchemy、Django ORM 等 ORM 框架。5. 工具链堂握：熟悉 Git、Linux 基础命令、Docker 等开发工具；了解 CV/CD 流程（如 Jenkins/GitLab Cl）；熟悉 Linux 系统，能够保障现有项目在客户生产环境稳定运行。6. 工作适配性：能适应项目出差需求，具备较强的自我驱动力，能协助团队完成现场项目的优化与开发工作。7. 软技能：具备良好的逻辑思维能力、快速学习能力和团队沟通能力；能够独立分析并解决技术问题，对代码质量有较高追求。,岗位职责（一）项目开发与维护1. 负责 Python 相关项目全生命周期管理，涵盖需求分析、架构设计、代码开发及系统维护等核心环节，编写高效、可复用、易维护的 Python 代码，完成模块和系统开发任务。2. 负责现有项目的日常系统维护工作，当系统出现故障时，通过查阅日志、与现场工人视频沟通等方式排查问题根源，完成参数调整及模型数据集的优化调整，3. 及时修复系统缺陷，持续优化代码性能与系统架构，保障项目在客户生产环境中稳定运行。（二）技术研发与实现1. 依据业务需求开发后端 API，熟练运用 Django/flask/FastAPI 等框架并遵循 RESTful 规范;处理爬虫、ETL、数据分析等各类数据相关任务，参与 A/机器学习或自动化脚本的开发工作。2. 开展新项目技术预研工作，聚焦护目镜镜片、耳塞识别物定制场景，完成模型预训练、算法预开发任务；负责数据集标注、模型训练、模型量化及部署全流程工作，对模型精准率负责，并将模型集成至项目功能中。3. 参与边缘节点架构的分析与研发工作，探索异步编程、微服务架构等新技术并落地实践。（三）技术优化与协作1. 参与代码评审工作，提出系统架构及性能优化建议，推动代码质量和系统整体性能提升。2. 与前端、测试、产品等跨团队协作，明确需求边界，保障项目交付质量。（四）文档编写1. 编写完善的技术文档，包括设计文档、接口文档等;2. 负责用户操作手册、部署文档的编写工作。任职资格1. 学历与专业：***硕士毕业，计算机软件相关专业。2. 编程基础：熟练掌握 Python 语言及 requests/pandas/numpy 等常用库；熟悉面向对象编程、设计模式、多线程/协程等核心编程概念；了解 OpenCv，具备数据清洗、数据标注的能力。3. 框架应用能力:（1）Web方向：熟悉 Django/Flask/FastAPI等框架及 RESTfu|规范；（2）数据方向：掌握 Scrapy/Selenium/Pandas/NumPy等数据处理工具；4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库；熟悉SQLAlchemy、Django ORM 等 ORM 框架。5. 工具链堂握：熟悉 Git、Linux 基础命令、Docker 等开发工具；了解 CV/CD 流程（如 Jenkins/GitLab Cl）；熟悉 Linux 系统，能够保障现有项目在客户生产环境稳定运行。6. 工作适配性：能适应项目出差需求，具备较强的自我驱动力，能协助团队完成现场项目的优化与开发工作。7. 软技能：具备良好的逻辑思维能力、快速学习能力和团队沟通能力；能够独立分析并解决技术问题，对代码质量有较高追求。,1. 学历与专业：***硕士毕业，计算机软件相关专业。2. 编程基础：熟练掌握 Python 语言及 requests/pandas/numpy 等常用库；熟悉面向对象编程、设计模式、多线程/协程等核心编程概念；了解 OpenCv，具备数据清洗、数据标注的能力。3. 框架应用能力:（1）Web方向：熟悉 Django/Flask/FastAPI等框架及 RESTfu|规范；（2）数据方向：掌握 Scrapy/Selenium/Pandas/NumPy等数据处理工具；4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库；熟悉SQLAlchemy、Django ORM 等 ORM 框架。5. 工具链堂握：熟悉 Git、Linux 基础命令、Docker 等开发工具；了解 CV/CD 流程（如 Jenkins/GitLab Cl）；熟悉 Linux 系统，能够保障现有项目在客户生产环境稳定运行。6. 工作适配性：能适应项目出差需求，具备较强的自我驱动力，能协助团队完成现场项目的优化与开发工作。7. 软技能：具备良好的逻辑思维能力、快速学习能力和团队沟通能力；能够独立分析并解决技术问题，对代码质量有较高追求。,（一）项目开发与维护1. 负责 Python 相关项目全生命周期管理，涵盖需求分析、架构设计、代码开发及系统维护等核心环节，编写高效、可复用、易维护的 Python 代码，完成模块和系统开发任务。2. 负责现有项目的日常系统维护工作，当系统出现故障时，通过查阅日志、与现场工人视频沟通等方式排查问题根源，完成参数调整及模型数据集的优化调整，3. 及时修复系统缺陷，持续优化代码性能与系统架构，保障项目在客户生产环境中稳定运行。（二）技术研发与实现1. 依据业务需求开发后端 API，熟练运用 Django/flask/FastAPI 等框架并遵循 RESTful 规范;处理爬虫、ETL、数据分析等各类数据相关任务，参与 A/机器学习或自动化脚本的开发工作。2. 开展新项目技术预研工作，聚焦护目镜镜片、耳塞识别物定制场景，完成模型预训练、算法预开发任务；负责数据集标注、模型训练、模型量化及部署全流程工作，对模型精准率负责，并将模型集成至项目功能中。3. 参与边缘节点架构的分析与研发工作，探索异步编程、微服务架构等新技术并落地实践。（三）技术优化与协作1. 参与代码评审工作，提出系统架构及性能优化建议，推动代码质量和系统整体性能提升。2. 与前端、测试、产品等跨团队协作，明确需求边界，保障项目交付质量。（四）文档编写1. 编写完善的技术文档，包括设计文档、接口文档等;2. 负责用户操作手册、部署文档的编写工作,,Python|机器学习|MySQL|PostgreSQL|Redis|MongoDB|Pandas|NumPy|ETL|Linux|Git|Docker|Flask|FastAPI|SQLAlchemy|Django|Jenkins,Python|MySQL|PostgreSQL|Redis|MongoDB|Pandas|NumPy|Linux|Git|Docker|Flask|FastAPI|SQLAlchemy|Django|Jenkins,Python|MySQL|PostgreSQL|Redis|MongoDB|Pandas|NumPy|Linux|Git|Docker|Flask|FastAPI|SQLAlchemy|Django|Jenkins,Python=>编程语言 || MySQL=>数据库 || PostgreSQL=>数据库 || Redis=>数据库 || MongoDB=>数据库 || Pandas=>数据处理库 || NumPy=>数据处理库 || Linux=>操作系统 || Git=>开发工具 || Docker=>容器技术 || Flask=>Web框架 || FastAPI=>Web框架 || SQLAlchemy=>数据库工具 || Django=>Web框架 || Jenkins=>DevOps,Python=>2. 编程基础：熟练掌握 Python 语言及 requests/pandas/numpy 等常用库； || MySQL=>4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库； || PostgreSQL=>4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库； || Redis=>4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库； || MongoDB=>4. 数据库能力：熟练使用 MySQL/PostgreSQl等关系型数据库，了解 Redis/MongoDB 等 NoSQL 数据库； || Pandas=>2. 编程基础：熟练掌握 Python 语言及 requests/pandas/numpy 等常用库； || NumPy=>2. 编程基础：熟练掌握 Python 语言及 requests/pandas/numpy 等常用库； || Linux=>5. 工具链堂握：熟悉 Git、Linux 基础命令、Docker 等开发工具； || Git=>5. 工具链堂握：熟悉 Git、Linux 基础命令、Docker 等开发工具； || Docker=>5. 工具链堂握：熟悉 Git、Linux 基础命令、Docker 等开发工具； || Flask=>3. 框架应用能力:（1）Web方向：熟悉 Django/Flask/FastAPI等框架及 RESTfu|规范； || FastAPI=>3. 框架应用能力:（1）Web方向：熟悉 Django/Flask/FastAPI等框架及 RESTfu|规范； || SQLAlchemy=>熟悉SQLAlchemy、Django ORM 等 ORM 框架。 || Django=>3. 框架应用能力:（1）Web方向：熟悉 Django/Flask/FastAPI等框架及 RESTfu|规范； || Jenkins=>了解 CV/CD 流程（如 Jenkins/GitLab Cl）；,requirement_text,platform_major_not_supported|district_missing
+2,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,Python开发工程师,深圳,440300,CNq33CDD4mr1zX9wqoDoLc,https://www.ncss.cn/student/jobs/CNq33CDD4mr1zX9wqoDoLc/detail.html,2026-06-24T14:39:20.706284,5d87d1fb5acb96ed,67194c87cdc0f67e,python开发工程师（ai）,北京触脉信息技术咨询有限公司,深圳,,10-15K/月,10000,15000,12,本科,本科及以上,1年,1年,1,1,精确,实习,,50-99人,,2026-05-09,1778295666000,,,not_provided,计算机|软件工程,计算机类|软件工程,计算机类=>工学 || 软件工程=>工学,要求,1、计算机科学、软件工程或相关专业本科及以上学历，应届毕业生或1年以内实习经验,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"请确保投递的简历中包含以 Python 为主的实习或项目经验，谢谢配合。
+岗位职责：
+1、负责数据产品的功能迭代开发，包括需求分析、方案设计、编码实现及测试部署；
+2、维护和优化现有数据产品的功能和性能，确保系统稳定运行；
+3、参与AI&大语言模型相关组件的开发与集成，包括但不限于预测模型、智能推荐、数据分析、智能对话等模块；
+4、搭建和维护数据处理流水线，确保数据处理的效率和准确性；
+5、编写技术文档，参与代码评审，持续改进开发流程；
+6、配合产品经理和数据分析师，理解业务需求并提供技术解决方案；
+任职要求：
+1、计算机科学、软件工程或相关专业本科及以上学历，应届毕业生或1年以内实习经验；
+2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力；
+3、对AI和大语言模型有兴趣，了解ChatGPT、Claude、Gemini等模型的基本原理，或者有相关课程或个人项目经验者优先；
+4、熟悉常用数据处理库（如Pandas、NumPy），有数据分析或处理的基础经验；
+5、熟悉Linux基本操作和命令，具备初步服务器操作能力者优先；
+6、了解版本控制工具（如Git），具备团队协作意识，能够遵循代码规范并撰写基础文档；
+7、学习能力强，责任心高，乐于探索新技术，能够配合团队完成项目开发。","请确保投递的简历中包含以 Python 为主的实习或项目经验，谢谢配合。
+岗位职责：
+1、负责数据产品的功能迭代开发，包括需求分析、方案设计、编码实现及测试部署；
+2、维护和优化现有数据产品的功能和性能，确保系统稳定运行；
+3、参与AI&大语言模型相关组件的开发与集成，包括但不限于预测模型、智能推荐、数据分析、智能对话等模块；
+4、搭建和维护数据处理流水线，确保数据处理的效率和准确性；
+5、编写技术文档，参与代码评审，持续改进开发流程；
+6、配合产品经理和数据分析师，理解业务需求并提供技术解决方案；
+任职要求：
+1、计算机科学、软件工程或相关专业本科及以上学历，应届毕业生或1年以内实习经验；
+2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力；
+3、对AI和大语言模型有兴趣，了解ChatGPT、Claude、Gemini等模型的基本原理，或者有相关课程或个人项目经验者优先；
+4、熟悉常用数据处理库（如Pandas、NumPy），有数据分析或处理的基础经验；
+5、熟悉Linux基本操作和命令，具备初步服务器操作能力者优先；
+6、了解版本控制工具（如Git），具备团队协作意识，能够遵循代码规范并撰写基础文档；
+7、学习能力强，责任心高，乐于探索新技术，能够配合团队完成项目开发。","1、计算机科学、软件工程或相关专业本科及以上学历，应届毕业生或1年以内实习经验；
+2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力；
+3、对AI和大语言模型有兴趣，了解ChatGPT、Claude、Gemini等模型的基本原理，或者有相关课程或个人项目经验者优先；
+4、熟悉常用数据处理库（如Pandas、NumPy），有数据分析或处理的基础经验；
+5、熟悉Linux基本操作和命令，具备初步服务器操作能力者优先；
+6、了解版本控制工具（如Git），具备团队协作意识，能够遵循代码规范并撰写基础文档；
+7、学习能力强，责任心高，乐于探索新技术，能够配合团队完成项目开发。","1、负责数据产品的功能迭代开发，包括需求分析、方案设计、编码实现及测试部署；
+2、维护和优化现有数据产品的功能和性能，确保系统稳定运行；
+3、参与AI&大语言模型相关组件的开发与集成，包括但不限于预测模型、智能推荐、数据分析、智能对话等模块；
+4、搭建和维护数据处理流水线，确保数据处理的效率和准确性；
+5、编写技术文档，参与代码评审，持续改进开发流程；
+6、配合产品经理和数据分析师，理解业务需求并提供技术解决方案",,Python|SQL|MySQL|PostgreSQL|Pandas|NumPy|Linux|Git|Flask|FastAPI|大语言模型|Django,Python|SQL|MySQL|PostgreSQL|Pandas|NumPy|Linux|Git|Flask|FastAPI|大语言模型|Django,Python|SQL|MySQL|PostgreSQL|Pandas|NumPy|Linux|Git|Flask|FastAPI|大语言模型|Django,Python=>编程语言 || SQL=>查询语言 || MySQL=>数据库 || PostgreSQL=>数据库 || Pandas=>数据处理库 || NumPy=>数据处理库 || Linux=>操作系统 || Git=>开发工具 || Flask=>Web框架 || FastAPI=>Web框架 || 大语言模型=>人工智能 || Django=>Web框架,Python=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力； || SQL=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力； || MySQL=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力； || PostgreSQL=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力； || Pandas=>4、熟悉常用数据处理库（如Pandas、NumPy），有数据分析或处理的基础经验； || NumPy=>4、熟悉常用数据处理库（如Pandas、NumPy），有数据分析或处理的基础经验； || Linux=>5、熟悉Linux基本操作和命令，具备初步服务器操作能力者优先； || Git=>6、了解版本控制工具（如Git），具备团队协作意识，能够遵循代码规范并撰写基础文档； || Flask=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力； || FastAPI=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力； || 大语言模型=>3、对AI和大语言模型有兴趣，了解ChatGPT、Claude、Gemini等模型的基本原理，或者有相关课程或个人项目经验者优先； || Django=>2、熟悉Python编程，掌握Python核心语法和基本数据结构，具备简单项目开发经验，熟悉常用Web框架（如FastAPI、Django、Flask）和数据库基础（MySQL/PostgreSQL等），具备简单的SQL操作能力；,requirement_text,district_missing
+3,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,Python开发工程师,深圳,440300,6sALHLGSBPhxfpJ9YJfiPx,https://www.ncss.cn/student/jobs/6sALHLGSBPhxfpJ9YJfiPx/detail.html,2026-06-24T14:39:24.820361,465df2ecfabde5c0,1d17a5f8ae843ba6,Python开发工程师,深圳市鑫信腾科技股份有限公司,深圳,,6-10K/月,6000,10000,12,本科,本科及以上,,,,,未说明,实习,,,其他,2026-05-07,1778140800000,,,confirmed_by_description,计算机|软件工程|电子信息,计算机类|软件工程|电子信息类,计算机类=>工学 || 软件工程=>工学 || 电子信息类=>工学,优先,1、学历专业： 计算机科学、软件工程、电子信息等相关专业本科及以上学历，有实际项目经验（课程设计、实习、个人技术博客、开源项目贡献等）优先考虑,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"一、工作职责
+1、参与上位机的软件测试开发、测试与部署，编写高质量、可维护的代码。
+2、负责业务数据处理、清洗和分析脚本的编写。
+3、根据产品需求，进行技术方案设计和数据库设计。
+4、协助维护和优化现有系统，定位并解决技术故障。
+5、学习和研究新技术，并尝试将其应用于实际项目以提升效率。
+二、职位要求
+1、学历专业： 计算机科学、软件工程、电子信息等相关专业本科及以上学历，有实际项目经验（课程设计、实习、个人技术博客、开源项目贡献等）优先考虑。
+2、编程基础： 熟练掌握Python语言，理解面向对象编程、常用数据结构与算法。
+3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。
+4、基础工具： 了解Linux操作系统常用命令，掌握Git版本控制工具的基本使用。
+5、综合素质： 具备良好的学习能力、沟通能力和团队协作精神，对技术有热情，有较强的逻辑分析和问题解决能力。
+6、可接受加班和出差。","一、工作职责
+1、参与上位机的软件测试开发、测试与部署，编写高质量、可维护的代码。
+2、负责业务数据处理、清洗和分析脚本的编写。
+3、根据产品需求，进行技术方案设计和数据库设计。
+4、协助维护和优化现有系统，定位并解决技术故障。
+5、学习和研究新技术，并尝试将其应用于实际项目以提升效率。
+二、职位要求
+1、学历专业： 计算机科学、软件工程、电子信息等相关专业本科及以上学历，有实际项目经验（课程设计、实习、个人技术博客、开源项目贡献等）优先考虑。
+2、编程基础： 熟练掌握Python语言，理解面向对象编程、常用数据结构与算法。
+3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。
+4、基础工具： 了解Linux操作系统常用命令，掌握Git版本控制工具的基本使用。
+5、综合素质： 具备良好的学习能力、沟通能力和团队协作精神，对技术有热情，有较强的逻辑分析和问题解决能力。
+6、可接受加班和出差。",,"一、工作职责
+1、参与上位机的软件测试开发、测试与部署，编写高质量、可维护的代码。
+2、负责业务数据处理、清洗和分析脚本的编写。
+3、根据产品需求，进行技术方案设计和数据库设计。
+4、协助维护和优化现有系统，定位并解决技术故障。
+5、学习和研究新技术，并尝试将其应用于实际项目以提升效率。
+二、职位要求
+1、学历专业： 计算机科学、软件工程、电子信息等相关专业本科及以上学历，有实际项目经验（课程设计、实习、个人技术博客、开源项目贡献等）优先考虑。
+2、编程基础： 熟练掌握Python语言，理解面向对象编程、常用数据结构与算法。
+3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。
+4、基础工具： 了解Linux操作系统常用命令，掌握Git版本控制工具的基本使用。
+5、综合素质： 具备良好的学习能力、沟通能力和团队协作精神，对技术有热情，有较强的逻辑分析和问题解决能力。
+6、可接受加班和出差。",,Python|SQL|MySQL|PostgreSQL|Redis|MongoDB|Linux|Git,,Python|SQL|MySQL|PostgreSQL|Redis|MongoDB|Linux|Git,Python=>编程语言 || SQL=>查询语言 || MySQL=>数据库 || PostgreSQL=>数据库 || Redis=>数据库 || MongoDB=>数据库 || Linux=>操作系统 || Git=>开发工具,Python=>2、编程基础： 熟练掌握Python语言，理解面向对象编程、常用数据结构与算法。 || SQL=>3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。 || MySQL=>3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。 || PostgreSQL=>3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。 || Redis=>3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。 || MongoDB=>3、数据库： 熟悉至少一种关系型数据库（如MySQL/PostgreSQL）和一种NoSQL数据库（如Redis/MongoDB），了解基本的SQL优化。 || Linux=>4、基础工具： 了解Linux操作系统常用命令，掌握Git版本控制工具的基本使用。 || Git=>4、基础工具： 了解Linux操作系统常用命令，掌握Git版本控制工具的基本使用。,job_description_fallback,requirement_section_missing|district_missing
+4,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,Python开发工程师,深圳,440300,N5BaVHoBeey1AwugxZbXm,https://www.ncss.cn/student/jobs/N5BaVHoBeey1AwugxZbXm/detail.html,2026-06-24T14:39:29.063937,993461e0204d24a4,8dbbd95e86d794b4,python开发工程师,诺亦腾机器人科技（北京）有限公司,深圳,,15-25K/月,15000,25000,12,本科,本科及以上,,,,,未说明,全职,,50-99人,,2026-04-30,1777518021000,,,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，平台列表专业标签不纳入标准专业候选,"公司简介
+我们是一家专注于机器人数据的技术团队，正在构建一套覆盖数据全生命周期的管理平台，服务于机器人动作捕捉、场景仿真等高精数据资产的管理与交付。
+岗位职责
+1. 参与数据管理平台的前后端服务、数据集处理流水线的设计与开发；
+2. 参与分布式数据处理架构设计，保证系统的高可用、高性能；
+3. 探索AI工具在数据采集中的应用，
+任职要求
+1. 熟悉至少一种主流开发语言（Python、Java、Go）；
+2. 接触过至少一种主流 Web 框架（FastAPI / Flask / Spring Web），了解 RESTful API 设计规范；
+3. 熟悉 MySQL 及至少一种 ORM框架，具备基本的数据库设计与优化能力；
+4. 了解 Redis、RabbitMQ / Kafka 等中间件的基本使用；
+5. 熟悉常用的AI工具和开发模式。
+加分项（全栈优先）
+1. 在校期间有自己做过小项目；
+2. 具备前端开发能力，了解过 Vue、Type script等，能在AI辅助下完成前后端开发联调；
+3. 接触过 Docker 容器化部署、K8S等云原生技术。","公司简介
+我们是一家专注于机器人数据的技术团队，正在构建一套覆盖数据全生命周期的管理平台，服务于机器人动作捕捉、场景仿真等高精数据资产的管理与交付。
+岗位职责
+1. 参与数据管理平台的前后端服务、数据集处理流水线的设计与开发；
+2. 参与分布式数据处理架构设计，保证系统的高可用、高性能；
+3. 探索AI工具在数据采集中的应用，
+任职要求
+1. 熟悉至少一种主流开发语言（Python、Java、Go）；
+2. 接触过至少一种主流 Web 框架（FastAPI / Flask / Spring Web），了解 RESTful API 设计规范；
+3. 熟悉 MySQL 及至少一种 ORM框架，具备基本的数据库设计与优化能力；
+4. 了解 Redis、RabbitMQ / Kafka 等中间件的基本使用；
+5. 熟悉常用的AI工具和开发模式。
+加分项（全栈优先）
+1. 在校期间有自己做过小项目；
+2. 具备前端开发能力，了解过 Vue、Type script等，能在AI辅助下完成前后端开发联调；
+3. 接触过 Docker 容器化部署、K8S等云原生技术。","1. 熟悉至少一种主流开发语言（Python、Java、Go）；
+2. 接触过至少一种主流 Web 框架（FastAPI / Flask / Spring Web），了解 RESTful API 设计规范；
+3. 熟悉 MySQL 及至少一种 ORM框架，具备基本的数据库设计与优化能力；
+4. 了解 Redis、RabbitMQ / Kafka 等中间件的基本使用；
+5. 熟悉常用的AI工具和开发模式。
+加分项（全栈优先）
+1. 在校期间有自己做过小项目；
+2. 具备前端开发能力，了解过 Vue、Type script等，能在AI辅助下完成前后端开发联调；
+3. 接触过 Docker 容器化部署、K8S等云原生技术。","1. 参与数据管理平台的前后端服务、数据集处理流水线的设计与开发；
+2. 参与分布式数据处理架构设计，保证系统的高可用、高性能；
+3. 探索AI工具在数据采集中的应用，",,Python|Java|MySQL|Redis|Kafka|Docker|Flask|FastAPI|Vue|Kubernetes,Python|Java|MySQL|Redis|Kafka|Docker|Flask|FastAPI|Vue|Kubernetes,Python|Java|MySQL|Redis|Kafka|Docker|Flask|FastAPI|Vue|Kubernetes,Python=>编程语言 || Java=>编程语言 || MySQL=>数据库 || Redis=>数据库 || Kafka=>消息与流处理 || Docker=>容器技术 || Flask=>Web框架 || FastAPI=>Web框架 || Vue=>前端框架 || Kubernetes=>容器编排,Python=>1. 熟悉至少一种主流开发语言（Python、Java、Go）； || Java=>1. 熟悉至少一种主流开发语言（Python、Java、Go）； || MySQL=>3. 熟悉 MySQL 及至少一种 ORM框架，具备基本的数据库设计与优化能力； || Redis=>4. 了解 Redis、RabbitMQ / Kafka 等中间件的基本使用； || Kafka=>4. 了解 Redis、RabbitMQ / Kafka 等中间件的基本使用； || Docker=>3. 接触过 Docker 容器化部署、K8S等云原生技术。 || Flask=>2. 接触过至少一种主流 Web 框架（FastAPI / Flask / Spring Web），了解 RESTful API 设计规范； || FastAPI=>2. 接触过至少一种主流 Web 框架（FastAPI / Flask / Spring Web），了解 RESTful API 设计规范； || Vue=>2. 具备前端开发能力，了解过 Vue、Type script等，能在AI辅助下完成前后端开发联调； || Kubernetes=>3. 接触过 Docker 容器化部署、K8S等云原生技术。,requirement_text,major_missing|district_missing

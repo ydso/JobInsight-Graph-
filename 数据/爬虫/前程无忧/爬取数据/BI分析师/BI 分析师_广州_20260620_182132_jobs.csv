@@ -1,0 +1,176 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,广州,030200,172478966,https://jobs.51job.com/guangzhou-thq/172478966.html,2026-06-20T18:21:36.534172,efafa7ab18b1c487,8ac9dea3a218450c,BI数据工程师,润本生物技术股份有限公司,广州,天河区,6-8千,6000,8000,12,本科,本科,1年以上,1年及以上,1,,下限,全职,快速消费品(食品、饮料、化妆品),1000-5000人,已上市,2026-06-09,2026-06-09 14:42:26,113.328543,23.130786,not_provided,计算机,计算机类,计算机类=>工学,要求,1、计算机相关专业本科及以上学历,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责
+1、负责BI项目全流程管理，把控项目进度、质量与成本，推动项目按时验收交付；
+2、对接业务部门，挖掘数据需求，梳理需求细节，处理需求变更，保障需求落地；
+3、管控项目风险，处理突发问题，保证项目平稳推进；
+4、编写整理项目文档，定期汇报项目进度，做好项目复盘与经验沉淀；
+5、数仓架构与模型设计，负责从多源业务系统（ERP、CRM、PLM等）到数仓的链路设计，完成数据模型（维度建模）的建设，确保底层架构的扩展性。
+
+
+任职要求
+1、计算机相关专业本科及以上学历；
+2、精通SQL，掌握SQL Server、Mysql、PostgreSQL，能够处理复杂的逻辑运算，对窗口函数、CTE、递归等高级特性运用自如；
+3、熟悉数据集成与工具,了解Kettle、DATAX等集成工具；
+4、掌握市面上常见的BI可视化工具、如Tableau、PowerBI，帆软Report/BI优先；
+5、至少掌握一门后端语言，如Java、Python、GO；
+6、对数据安全和 AI有一定的了解。
+
+温馨提醒：为让双方充分沟通、提升整体面试体验，该岗位统一采用线下现场面试形式。若您目前不在本地，投递后无法参与现场面试，建议暂缓投递，感谢您的关注！","岗位职责
+1、负责BI项目全流程管理，把控项目进度、质量与成本，推动项目按时验收交付；
+2、对接业务部门，挖掘数据需求，梳理需求细节，处理需求变更，保障需求落地；
+3、管控项目风险，处理突发问题，保证项目平稳推进；
+4、编写整理项目文档，定期汇报项目进度，做好项目复盘与经验沉淀；
+5、数仓架构与模型设计，负责从多源业务系统（ERP、CRM、PLM等）到数仓的链路设计，完成数据模型（维度建模）的建设，确保底层架构的扩展性。
+
+任职要求
+1、计算机相关专业本科及以上学历；
+2、精通SQL，掌握SQL Server、Mysql、PostgreSQL，能够处理复杂的逻辑运算，对窗口函数、CTE、递归等高级特性运用自如；
+3、熟悉数据集成与工具,了解Kettle、DATAX等集成工具；
+4、掌握市面上常见的BI可视化工具、如Tableau、PowerBI，帆软Report/BI优先；
+5、至少掌握一门后端语言，如Java、Python、GO；
+6、对数据安全和 AI有一定的了解。
+
+温馨提醒：为让双方充分沟通、提升整体面试体验，该岗位统一采用线下现场面试形式。若您目前不在本地，投递后无法参与现场面试，建议暂缓投递，感谢您的关注！","1、计算机相关专业本科及以上学历；
+2、精通SQL，掌握SQL Server、Mysql、PostgreSQL，能够处理复杂的逻辑运算，对窗口函数、CTE、递归等高级特性运用自如；
+3、熟悉数据集成与工具,了解Kettle、DATAX等集成工具；
+4、掌握市面上常见的BI可视化工具、如Tableau、PowerBI，帆软Report/BI优先；
+5、至少掌握一门后端语言，如Java、Python、GO；
+6、对数据安全和 AI有一定的了解。
+
+温馨提醒：为让双方充分沟通、提升整体面试体验，该岗位统一采用线下现场面试形式。若您目前不在本地，投递后无法参与现场面试，建议暂缓投递，感谢您的关注！","1、负责BI项目全流程管理，把控项目进度、质量与成本，推动项目按时验收交付；
+2、对接业务部门，挖掘数据需求，梳理需求细节，处理需求变更，保障需求落地；
+3、管控项目风险，处理突发问题，保证项目平稳推进；
+4、编写整理项目文档，定期汇报项目进度，做好项目复盘与经验沉淀；
+5、数仓架构与模型设计，负责从多源业务系统（ERP、CRM、PLM等）到数仓的链路设计，完成数据模型（维度建模）的建设，确保底层架构的扩展性。",1年及以上|本科|计算机|java|mysql|sql|erp|ai|crm|kettle|postgresql|plm|五险一金|定期体检|弹性工作|周末双休|节日福利|年终奖金,Python|SQL|Tableau|数据仓库|Java|MySQL|PostgreSQL|Power BI|数据建模|数据可视化|ERP,Python|SQL|Tableau|Java|MySQL|PostgreSQL|Power BI|数据可视化,Python|SQL|Tableau|Java|MySQL|PostgreSQL|Power BI|数据可视化,Python=>编程语言 || SQL=>查询语言 || Tableau=>数据可视化 || Java=>编程语言 || MySQL=>数据库 || PostgreSQL=>数据库 || Power BI=>数据可视化 || 数据可视化=>数据可视化,Python=>5、至少掌握一门后端语言，如Java、Python、GO； || SQL=>2、精通SQL，掌握SQL Server、Mysql、PostgreSQL，能够处理复杂的逻辑运算，对窗口函数、CTE、递归等高级特性运用自如； || Tableau=>4、掌握市面上常见的BI可视化工具、如Tableau、PowerBI，帆软Report/BI优先； || Java=>5、至少掌握一门后端语言，如Java、Python、GO； || MySQL=>2、精通SQL，掌握SQL Server、Mysql、PostgreSQL，能够处理复杂的逻辑运算，对窗口函数、CTE、递归等高级特性运用自如； || PostgreSQL=>2、精通SQL，掌握SQL Server、Mysql、PostgreSQL，能够处理复杂的逻辑运算，对窗口函数、CTE、递归等高级特性运用自如； || Power BI=>4、掌握市面上常见的BI可视化工具、如Tableau、PowerBI，帆软Report/BI优先； || 数据可视化=>4、掌握市面上常见的BI可视化工具、如Tableau、PowerBI，帆软Report/BI优先；,requirement_text,
+2,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,广州,030200,121076399,https://jobs.51job.com/guangzhou-hzq/121076399.html,2026-06-20T18:21:36.535185,7febf89db27e819f,1221239310805ead,商业智能（BI）实施顾问,广州必云信息科技有限责任公司,广州,海珠区,4-8千,4000,8000,12,本科,本科,1年,1年,1,1,精确,全职,计算机软件,50-150人,民营,2026-05-15,2026-05-15 11:39:36,113.29991,23.098641,not_provided,计算机,计算机类,计算机类=>工学,要求,1、 本科及以上学历，计算机/信管/统计分析等相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责
+1、 负责BI项目的实施工作，参与过市面上主流BI产品实施，如帆软、思迈特、永洪等；
+2、 熟练掌握BI产品，做过帆软BI/report开发，对驾驶舱设计有一定理解；
+3、了解BI背后使用的eCharts或其他前端控件，熟练掌握HTML、JS等前端语言；
+4、 与用户和项目组进行有效沟通，采集项目需求，并提出相应的解决方案；
+5、 按照项目推进情况，完成主管交付的临时性任务；
+6、 能够按照公司全面质量管理的要求，高质量地完成各类技术支持工作；
+任职要求：
+1、 本科及以上学历，计算机/信管/统计分析等相关专业；
+2、 熟悉BI工具，熟悉帆软、思迈特的优先考虑；
+3、 熟悉关系型数据库（Oracle、SQL Server）和存储过程；
+4、 具备一定的编程能力，熟悉至少一种常用编程语言，HTML+JS尤佳；
+5、 具备较强的自我学习能力、有较强分析问题的能力、人际沟通能力、团队协作能力和工作责任感；","岗位职责
+1、 负责BI项目的实施工作，参与过市面上主流BI产品实施，如帆软、思迈特、永洪等；
+2、 熟练掌握BI产品，做过帆软BI/report开发，对驾驶舱设计有一定理解；
+3、了解BI背后使用的eCharts或其他前端控件，熟练掌握HTML、JS等前端语言；
+4、 与用户和项目组进行有效沟通，采集项目需求，并提出相应的解决方案；
+5、 按照项目推进情况，完成主管交付的临时性任务；
+6、 能够按照公司全面质量管理的要求，高质量地完成各类技术支持工作；
+任职要求：
+1、 本科及以上学历，计算机/信管/统计分析等相关专业；
+2、 熟悉BI工具，熟悉帆软、思迈特的优先考虑；
+3、 熟悉关系型数据库（Oracle、SQL Server）和存储过程；
+4、 具备一定的编程能力，熟悉至少一种常用编程语言，HTML+JS尤佳；
+5、 具备较强的自我学习能力、有较强分析问题的能力、人际沟通能力、团队协作能力和工作责任感；","1、 本科及以上学历，计算机/信管/统计分析等相关专业；
+2、 熟悉BI工具，熟悉帆软、思迈特的优先考虑；
+3、 熟悉关系型数据库（Oracle、SQL Server）和存储过程；
+4、 具备一定的编程能力，熟悉至少一种常用编程语言，HTML+JS尤佳；
+5、 具备较强的自我学习能力、有较强分析问题的能力、人际沟通能力、团队协作能力和工作责任感；","1、 负责BI项目的实施工作，参与过市面上主流BI产品实施，如帆软、思迈特、永洪等；
+2、 熟练掌握BI产品，做过帆软BI/report开发，对驾驶舱设计有一定理解；
+3、了解BI背后使用的eCharts或其他前端控件，熟练掌握HTML、JS等前端语言；
+4、 与用户和项目组进行有效沟通，采集项目需求，并提出相应的解决方案；
+5、 按照项目推进情况，完成主管交付的临时性任务；
+6、 能够按照公司全面质量管理的要求，高质量地完成各类技术支持工作；",1年|本科|bi|数据库|数据分析|技术支持|五险一金|交通补贴|绩效奖金|定期体检|年终奖金|员工旅游,SQL|Oracle|统计分析|ECharts,SQL|Oracle|统计分析,SQL|Oracle|统计分析,SQL=>查询语言 || Oracle=>数据库 || 统计分析=>数据分析方法,SQL=>3、 熟悉关系型数据库（Oracle、SQL Server）和存储过程； || Oracle=>3、 熟悉关系型数据库（Oracle、SQL Server）和存储过程； || 统计分析=>1、 本科及以上学历，计算机/信管/统计分析等相关专业；,requirement_text,
+3,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,广州,030200,172159941,https://jobs.51job.com/guangzhou-thq/172159941.html,2026-06-20T18:21:56.999401,518916b9389d5ae0,0ede7465e758a7cd,Apache Superset/BI工程师,大连华钦软件技术有限公司,广州,天河区,1.4-1.9万,14000,19000,12,本科,本科,3年以上,3年及以上,3,,下限,全职,银行,1000-5000人,民营,2026-05-20,2026-05-20 10:12:29,113.33982,23.13837,confirmed_by_description,计算机|统计学|数学,计算机类|统计学|数学,计算机类=>工学 || 统计学=>理学 || 数学=>理学,要求,* 本科及以上学历，计算机、数学、统计学或相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+* 负责公司Apache Superset平台的部署、运维、性能调优和升级，保障平台的高可用性和稳定性。
+* 深入理解业务需求，基于Superset为各业务线（如增长、运营、财务、产品等）设计并开发交互式报表和可视化仪表板。
+* 开发和维护Superset的定制化功能，包括但不限于：自定义可视化插件、安全认证集成、API对接、UI美化等，以满足特定的业务场景需求。
+* 与数据开发团队紧密协作，优化数据模型和语义层（定义统一指标和维度），提升数据查询效率和易用性。
+* 为内部用户提供Superset的技术支持和***实践培训，提升整个公司的数据化运营水平。
+* 探索和引入前沿的数据可视化技术和工具，持续提升数据产品的用户体验和价值。
+
+任职要求：
+* 本科及以上学历，计算机、数学、统计学或相关专业。
+* 3年以上数据领域相关工作经验，至少 1年Apache Superset项目的实战经验**（包括部署、开发、深度使用或二次开发）。
+* 精通SQL，具备优秀的数据库查询性能和优化能力。
+* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。
+* 具备良好的Python编程能力，能够阅读和修改Superset源码。
+* 对数据敏感，具备优秀的业务理解能力和数据可视化设计能力，能准确地将业务问题转化为数据解决方案。
+* 良好的英语书面阅读能力。","岗位职责：
+* 负责公司Apache Superset平台的部署、运维、性能调优和升级，保障平台的高可用性和稳定性。
+* 深入理解业务需求，基于Superset为各业务线（如增长、运营、财务、产品等）设计并开发交互式报表和可视化仪表板。
+* 开发和维护Superset的定制化功能，包括但不限于：自定义可视化插件、安全认证集成、API对接、UI美化等，以满足特定的业务场景需求。
+* 与数据开发团队紧密协作，优化数据模型和语义层（定义统一指标和维度），提升数据查询效率和易用性。
+* 为内部用户提供Superset的技术支持和***实践培训，提升整个公司的数据化运营水平。
+* 探索和引入前沿的数据可视化技术和工具，持续提升数据产品的用户体验和价值。
+
+任职要求：
+* 本科及以上学历，计算机、数学、统计学或相关专业。
+* 3年以上数据领域相关工作经验，至少 1年Apache Superset项目的实战经验**（包括部署、开发、深度使用或二次开发）。
+* 精通SQL，具备优秀的数据库查询性能和优化能力。
+* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。
+* 具备良好的Python编程能力，能够阅读和修改Superset源码。
+* 对数据敏感，具备优秀的业务理解能力和数据可视化设计能力，能准确地将业务问题转化为数据解决方案。
+* 良好的英语书面阅读能力。","* 本科及以上学历，计算机、数学、统计学或相关专业。
+* 3年以上数据领域相关工作经验，至少 1年Apache Superset项目的实战经验**（包括部署、开发、深度使用或二次开发）。
+* 精通SQL，具备优秀的数据库查询性能和优化能力。
+* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。
+* 具备良好的Python编程能力，能够阅读和修改Superset源码。
+* 对数据敏感，具备优秀的业务理解能力和数据可视化设计能力，能准确地将业务问题转化为数据解决方案。
+* 良好的英语书面阅读能力。","* 负责公司Apache Superset平台的部署、运维、性能调优和升级，保障平台的高可用性和稳定性。
+* 深入理解业务需求，基于Superset为各业务线（如增长、运营、财务、产品等）设计并开发交互式报表和可视化仪表板。
+* 开发和维护Superset的定制化功能，包括但不限于：自定义可视化插件、安全认证集成、API对接、UI美化等，以满足特定的业务场景需求。
+* 与数据开发团队紧密协作，优化数据模型和语义层（定义统一指标和维度），提升数据查询效率和易用性。
+* 为内部用户提供Superset的技术支持和***实践培训，提升整个公司的数据化运营水平。
+* 探索和引入前沿的数据可视化技术和工具，持续提升数据产品的用户体验和价值。",3年及以上|本科|Superset|postgresql|sql|Python|五险一金|专业培训|带薪年假|弹性工作|周末双休|节日福利,Python|SQL|数据仓库|MySQL|PostgreSQL|ClickHouse|Hive|数据建模|数据可视化,Python|SQL|数据仓库|MySQL|PostgreSQL|ClickHouse|Hive|数据可视化,Python|SQL|数据仓库|MySQL|PostgreSQL|ClickHouse|Hive|数据可视化,Python=>编程语言 || SQL=>查询语言 || 数据仓库=>数据工程 || MySQL=>数据库 || PostgreSQL=>数据库 || ClickHouse=>数据库 || Hive=>大数据框架 || 数据可视化=>数据可视化,"Python=>* 具备良好的Python编程能力，能够阅读和修改Superset源码。 || SQL=>* 精通SQL，具备优秀的数据库查询性能和优化能力。 || 数据仓库=>* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。 || MySQL=>* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。 || PostgreSQL=>* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。 || ClickHouse=>* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。 || Hive=>* 熟悉至少一种主流数据库或数据仓库（如 MySQL, PostgreSQL, ClickHouse, Doris, StarRocks, Hive, Presto/Trino, BigQuery, Snowflake 等）。 || 数据可视化=>* 对数据敏感，具备优秀的业务理解能力和数据可视化设计能力，能准确地将业务问题转化为数据解决方案。",requirement_text,
+4,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,广州,030200,137250143,https://jobs.51job.com/guangzhou/137250143.html,2026-06-20T18:22:03.823341,7f34e6f520db75da,00d1fc776b435330,PowerBI工程师,友邦资讯科技（广州）有限公司,广州,,1.5-2.5万,15000,25000,12,本科,本科,3-4年,3-4年,3,4,区间,全职,计算机软件,1000-5000人,外资（非欧美）,2026-06-08,2026-06-08 14:16:51,113.317956,23.13781,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"Responsibility:
+Prepare ETL Lower Level Design
+Configure CDC with guidance of CDC SME
+Conduct ETL development and testing according to standard and with
+Support SIT and UAT
+Prepare production deployment packages and support production deployment
+BAU Support
+Requirement:
+Bachelor degree in IT related disciplines
+4+ years experiences in ETL development with PowerBI Powercenter
+4+ years experiences in PowerBI configuration and Real time data processing
+Be familiar with Oracle and SQL Server
+Good understanding of SQL tuning, ETL and DWH methodology
+Good at English Reading and Writing
+Knowledge in insurance application and ACORD is added advantage","Responsibility:
+Prepare ETL Lower Level Design
+Configure CDC with guidance of CDC SME
+Conduct ETL development and testing according to standard and with
+Support SIT and UAT
+Prepare production deployment packages and support production deployment
+BAU Support
+Requirement:
+Bachelor degree in IT related disciplines
+4+ years experiences in ETL development with PowerBI Powercenter
+4+ years experiences in PowerBI configuration and Real time data processing
+Be familiar with Oracle and SQL Server
+Good understanding of SQL tuning, ETL and DWH methodology
+Good at English Reading and Writing
+Knowledge in insurance application and ACORD is added advantage",,,3-4年|本科,SQL|Oracle|Power BI|ETL,,SQL|Oracle|Power BI|ETL,SQL=>查询语言 || Oracle=>数据库 || Power BI=>数据可视化 || ETL=>数据工程,SQL=>Be familiar with Oracle and SQL Server || Oracle=>Be familiar with Oracle and SQL Server || Power BI=>4+ years experiences in ETL development with PowerBI Powercenter || ETL=>Prepare ETL Lower Level Design,job_description_fallback,requirement_section_missing|district_missing|major_missing
+5,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,广州,030200,171951592,https://jobs.51job.com/guangzhou-nsq/171951592.html,2026-06-20T18:22:17.597775,414e3b17c6630206,94fc9de8e0389bd5,BI数据处理工程师（大数据处理）,广州融捷能源科技有限公司,广州,南沙区,9千-1.8万,9000,18000,12,大专,大专,3年以上,3年及以上,3,,下限,全职,新能源,1000-5000人,民营,2026-05-08,2026-05-08 13:07:59,113.588448,22.680759,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"工作内容：
+1、负责BI平台数据仓库的设计与建设，基于Doris进行数据分层建模（ODS/DWD/DWS/ADS），保障数据模型的合理性与扩展性；
+2、独立完成企业级仪表盘开发（使用Power BI或FineBI），将业务需求转化为可视化分析看板，支撑管理决策；
+3、负责复杂业务场景的SQL开发，包括多表关联、窗口函数、存储过程等，并对慢查询进行性能优化；
+4、负责Doris集群的日常运维与调优，包括安装部署、分区分桶设计、Rollup/物化视图使用、动态分区管理等；
+5、设计并维护数据导入任务，通过Broker Load、Routine Load、Stream Load等方式，高效将MySQL、Kafka、Hive等数据源接入Doris；
+
+任职资格：
+1、学历大专及以上，有三年以上相关工作经验；
+1、业务沟通能力强，能将业务语言转化为技术方案;
+2、有搭建Doris数仓平台经验、制造业BI平台建设经验优先。","工作内容：
+1、负责BI平台数据仓库的设计与建设，基于Doris进行数据分层建模（ODS/DWD/DWS/ADS），保障数据模型的合理性与扩展性；
+2、独立完成企业级仪表盘开发（使用Power BI或FineBI），将业务需求转化为可视化分析看板，支撑管理决策；
+3、负责复杂业务场景的SQL开发，包括多表关联、窗口函数、存储过程等，并对慢查询进行性能优化；
+4、负责Doris集群的日常运维与调优，包括安装部署、分区分桶设计、Rollup/物化视图使用、动态分区管理等；
+5、设计并维护数据导入任务，通过Broker Load、Routine Load、Stream Load等方式，高效将MySQL、Kafka、Hive等数据源接入Doris；
+
+任职资格：
+1、学历大专及以上，有三年以上相关工作经验；
+1、业务沟通能力强，能将业务语言转化为技术方案;
+2、有搭建Doris数仓平台经验、制造业BI平台建设经验优先。","1、学历大专及以上，有三年以上相关工作经验；
+1、业务沟通能力强，能将业务语言转化为技术方案;
+2、有搭建Doris数仓平台经验、制造业BI平台建设经验优先。","1、负责BI平台数据仓库的设计与建设，基于Doris进行数据分层建模（ODS/DWD/DWS/ADS），保障数据模型的合理性与扩展性；
+2、独立完成企业级仪表盘开发（使用Power BI或FineBI），将业务需求转化为可视化分析看板，支撑管理决策；
+3、负责复杂业务场景的SQL开发，包括多表关联、窗口函数、存储过程等，并对慢查询进行性能优化；
+4、负责Doris集群的日常运维与调优，包括安装部署、分区分桶设计、Rollup/物化视图使用、动态分区管理等；
+5、设计并维护数据导入任务，通过Broker Load、Routine Load、Stream Load等方式，高效将MySQL、Kafka、Hive等数据源接入Doris；",3年及以上|大专|mysql|sql|运维|kafka|技术方案|hive|调优|安装部署|存储过程|数据模型|五险一金|带薪年假|有餐补|专业培训|扁平化管理|新平台|工程文化浓厚|包住,SQL|数据仓库|MySQL|Hive|Kafka|Power BI|FineBI|数据建模,数据仓库,数据仓库,数据仓库=>数据工程,数据仓库=>2、有搭建Doris数仓平台经验、制造业BI平台建设经验优先。,requirement_text,major_missing

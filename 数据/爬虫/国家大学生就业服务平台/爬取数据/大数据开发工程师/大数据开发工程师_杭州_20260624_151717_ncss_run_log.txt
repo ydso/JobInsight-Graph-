@@ -1,0 +1,23 @@
+数据源: 国家大学生就业服务平台
+脚本版本: 2026-06-23.ncss.standalone.10-streak
+依赖说明: 独立版，不依赖 batch_crawler.py
+技能词典版本: 2026-06-18.1;2026-06-22.1+sha256:b9b87316
+专业词典版本: 2026-06-18.1;2026-06-22.1+sha256:4b6deb61
+城市: 杭州 (330100)
+岗位关键词: 大数据开发工程师
+状态: 官网列表已采集完毕 (source_exhausted)
+停止原因: source_exhausted
+CSV有效数量: 0 条
+原始页数量: 1 页
+API原始返回数量: 7 条
+原始唯一岗位数量: 7 条
+官网报告总数: 500
+跳过重复: 6 条
+标题不相关过滤: 0 条
+无效记录过滤: 1 条
+连续零有效页: 1 页
+解析错误: 0 条
+搜索URL模板: https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}
+职位列表接口: https://www.ncss.cn/student/jobs/jobslist/ajax/
+输出CSV: 大数据开发工程师_杭州_20260624_151717_ncss_jobs.csv
+输出原始文件: 大数据开发工程师_杭州_20260624_151717_ncss_raw_items.json

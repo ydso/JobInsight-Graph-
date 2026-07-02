@@ -1,0 +1,122 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,广州,030200,160989311,https://jobs.51job.com/guangzhou-hzq/160989311.html,2026-06-20T19:00:41.755739,491d87d7d33b6882,4684ad65ac11177b,机器学习工程师（MLOps),友邦资讯科技（广州）有限公司,广州,海珠区,1.5-2.8万·13薪,15000,28000,13,硕士,硕士,1年以上,1年及以上,1,,下限,全职,计算机软件,1000-5000人,外资（非欧美）,2026-06-08,2026-06-08 14:16:51,113.35168,23.108004,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"Objectives
+Productionise ML solutions to deliver actionable insights from large-scale, multi-structured datasets, and make sure insights go all the way into the hands of users
+Responsibilities
+1)	Design and implement MLOPS, i.e. set of tools and operating models used to deploy &amp; maintain &amp; monitor machine learning models in production reliably and efficiently
+2)	Support ML solutions go-live integration.
+3)	Act as a bridge between data scientists and IT &amp; data engineers &amp; data architects, especially during development &amp; production architecture design &amp; set-up
+4)	Design &amp; build the technical architecture to deploy &amp; maintain AI/ML in production
+5)	Refactor ML model training / testing code into CI-CD pipelines
+6)	Test and optimize machine learning models and algorithms before they go in production
+7)	Assist in monitoring and retraining models 
+Qualifications
+1)	Must Have:
+a)	Strong knowledge and experience in MLOPS (including TDD, CI/CD tools &amp; methodologies)
+b)	Strong Software engineering skills, with reasonable knowledge of Python
+c)	Reasonable knowledge and experience in machine learning 
+d)	Strong communication skills in English, both spoken and written
+e)	Familiar with Dockers, Kubernetes, API Design
+f)	Familiar with some DB/Cache systems such as SQL Server, MongoDB, Redis, etc.
+g)	Strong analytical, problem-solving and teamwork skills
+h)	3+ years of relevant experience
+i)	Degree in computer science, math, statistics or related
+2)	Nice to have:
+a)	Good knowledge of Microsoft Azure stack (AMLS, Synapse, Data Factory, etc.)
+b)	Strong experience in Python web frameworks like Flask, Django, FastAPI, etc.
+c)	Strong knowledge of model monitoring &amp; testing &amp; ethical AI libraries such as evidentlyai, deepchecks, fairlearn, etc.
+d)	Good knowledge of Databricks
+e)	Knowledge of pySpark &amp; SQL
+f)	Knowledge of RDBMS and 2+ NoSQL databases
+What we are not looking for in this role
+1)	Programmers without a data track record
+2)	Data people without a programming track record","Objectives
+Productionise ML solutions to deliver actionable insights from large-scale, multi-structured datasets, and make sure insights go all the way into the hands of users
+Responsibilities
+1) Design and implement MLOPS, i.e. set of tools and operating models used to deploy & maintain & monitor machine learning models in production reliably and efficiently
+2) Support ML solutions go-live integration.
+3) Act as a bridge between data scientists and IT & data engineers & data architects, especially during development & production architecture design & set-up
+4) Design & build the technical architecture to deploy & maintain AI/ML in production
+5) Refactor ML model training / testing code into CI-CD pipelines
+6) Test and optimize machine learning models and algorithms before they go in production
+7) Assist in monitoring and retraining models
+Qualifications
+1) Must Have:
+a) Strong knowledge and experience in MLOPS (including TDD, CI/CD tools & methodologies)
+b) Strong Software engineering skills, with reasonable knowledge of Python
+c) Reasonable knowledge and experience in machine learning
+d) Strong communication skills in English, both spoken and written
+e) Familiar with Dockers, Kubernetes, API Design
+f) Familiar with some DB/Cache systems such as SQL Server, MongoDB, Redis, etc.
+g) Strong analytical, problem-solving and teamwork skills
+h) 3+ years of relevant experience
+i) Degree in computer science, math, statistics or related
+2) Nice to have:
+a) Good knowledge of Microsoft Azure stack (AMLS, Synapse, Data Factory, etc.)
+b) Strong experience in Python web frameworks like Flask, Django, FastAPI, etc.
+c) Strong knowledge of model monitoring & testing & ethical AI libraries such as evidentlyai, deepchecks, fairlearn, etc.
+d) Good knowledge of Databricks
+e) Knowledge of pySpark & SQL
+f) Knowledge of RDBMS and 2+ NoSQL databases
+What we are not looking for in this role
+1) Programmers without a data track record
+2) Data people without a programming track record",,,1年及以上|硕士|it|ai|ml|machine|mlops|五险一金|补充医疗保险|员工旅游|餐饮补贴|专业培训|绩效奖金|弹性工作|定期体检,Python|SQL|Redis|MongoDB|Flask|FastAPI,,Python|SQL|Redis|MongoDB|Flask|FastAPI,Python=>编程语言 || SQL=>查询语言 || Redis=>数据库 || MongoDB=>数据库 || Flask=>Web框架 || FastAPI=>Web框架,"Python=>b) Strong Software engineering skills, with reasonable knowledge of Python || SQL=>f) Familiar with some DB/Cache systems such as SQL Server, MongoDB, Redis, etc. || Redis=>f) Familiar with some DB/Cache systems such as SQL Server, MongoDB, Redis, etc. || MongoDB=>f) Familiar with some DB/Cache systems such as SQL Server, MongoDB, Redis, etc. || Flask=>b) Strong experience in Python web frameworks like Flask, Django, FastAPI, etc. || FastAPI=>b) Strong experience in Python web frameworks like Flask, Django, FastAPI, etc.",job_description_fallback,requirement_section_missing|major_missing
+2,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,广州,030200,171059250,https://jobs.51job.com/guangzhou-hpq/171059250.html,2026-06-20T19:00:41.757075,ce79e55b75ea2406,14426a1336ffa172,机器学习平台研发工程师,深圳市南电云商有限公司,广州,黄埔区,1-2万,10000,20000,12,本科,本科,2年以上,2年及以上,2,,下限,全职,计算机软件,500-1000人,民营,2026-03-16,2026-03-16 09:04:32,113.451481,23.166206,not_supported_by_description,计算机,计算机类,计算机类=>工学,要求,计算机、人工智能相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"1、负责设计并开发高效、可扩展的人工智能平台，包括:模型训练、模型推理、资源调度、任务调度、模型管理、工作流编排等。
+2、负责多种异构资源如GPU、CPU等的最优化的编排调度，提升集群的整体资源利用率。
+3、服务算法模型团队，提供样本管理、模型开发调试、模型训练任务管理和版本管理、一键式上线服务部署等功能的平台化能力。
+4、负责技术文档与协作，编写设计文档、接口规范及测试报告，协同算法、硬件、业务团队推进技术落地。
+5、负责跟踪前沿技术，更新迭代平台架构，满足面向图神经网络、生成式AI等新技术应用，并与电力知识图谱、智能调度等场景的融合应用。
+6、负责协同产品研发团队完成技术方案对接，撰写技术文档，支撑业务场景创新。
+7、完成上级交办的其他任务。
+岗位要求：
+1、本科及以上学历，2年及以上相关工作经验。计算机、人工智能相关专业。
+2、熟悉TensorFlow、Pytorch等主流深度学习框架，并有实际的模型训练、调优的项目经验。
+3、熟练掌握的Java/Python/C	+	+中一种或多种编程语言，具备良好的软件设计和开发能力。
+4、具备一定分布式、大数据软件开发经验。
+5、良好的团队合作意识，沟通和学习能力。","1、负责设计并开发高效、可扩展的人工智能平台，包括:模型训练、模型推理、资源调度、任务调度、模型管理、工作流编排等。
+2、负责多种异构资源如GPU、CPU等的最优化的编排调度，提升集群的整体资源利用率。
+3、服务算法模型团队，提供样本管理、模型开发调试、模型训练任务管理和版本管理、一键式上线服务部署等功能的平台化能力。
+4、负责技术文档与协作，编写设计文档、接口规范及测试报告，协同算法、硬件、业务团队推进技术落地。
+5、负责跟踪前沿技术，更新迭代平台架构，满足面向图神经网络、生成式AI等新技术应用，并与电力知识图谱、智能调度等场景的融合应用。
+6、负责协同产品研发团队完成技术方案对接，撰写技术文档，支撑业务场景创新。
+7、完成上级交办的其他任务。
+岗位要求：
+1、本科及以上学历，2年及以上相关工作经验。计算机、人工智能相关专业。
+2、熟悉TensorFlow、Pytorch等主流深度学习框架，并有实际的模型训练、调优的项目经验。
+3、熟练掌握的Java/Python/C + +中一种或多种编程语言，具备良好的软件设计和开发能力。
+4、具备一定分布式、大数据软件开发经验。
+5、良好的团队合作意识，沟通和学习能力。","1、本科及以上学历，2年及以上相关工作经验。计算机、人工智能相关专业。
+2、熟悉TensorFlow、Pytorch等主流深度学习框架，并有实际的模型训练、调优的项目经验。
+3、熟练掌握的Java/Python/C + +中一种或多种编程语言，具备良好的软件设计和开发能力。
+4、具备一定分布式、大数据软件开发经验。
+5、良好的团队合作意识，沟通和学习能力。","1、负责设计并开发高效、可扩展的人工智能平台，包括:模型训练、模型推理、资源调度、任务调度、模型管理、工作流编排等。
+2、负责多种异构资源如GPU、CPU等的最优化的编排调度，提升集群的整体资源利用率。
+3、服务算法模型团队，提供样本管理、模型开发调试、模型训练任务管理和版本管理、一键式上线服务部署等功能的平台化能力。
+4、负责技术文档与协作，编写设计文档、接口规范及测试报告，协同算法、硬件、业务团队推进技术落地。
+5、负责跟踪前沿技术，更新迭代平台架构，满足面向图神经网络、生成式AI等新技术应用，并与电力知识图谱、智能调度等场景的融合应用。
+6、负责协同产品研发团队完成技术方案对接，撰写技术文档，支撑业务场景创新。
+7、完成上级交办的其他任务。",2年及以上|本科|计算机|java|开发|c++|ai|编程语言|软件设计|技术文档|分布式|人工智能|学习平台|六险一金|带薪年假|定期体检|工会福利|生日福利,Python|Java|TensorFlow|PyTorch|深度学习,Python|Java|TensorFlow|PyTorch|深度学习,Python|Java|TensorFlow|PyTorch|深度学习,Python=>编程语言 || Java=>编程语言 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || 深度学习=>人工智能,Python=>3、熟练掌握的Java/Python/C + +中一种或多种编程语言，具备良好的软件设计和开发能力。 || Java=>3、熟练掌握的Java/Python/C + +中一种或多种编程语言，具备良好的软件设计和开发能力。 || TensorFlow=>2、熟悉TensorFlow、Pytorch等主流深度学习框架，并有实际的模型训练、调优的项目经验。 || PyTorch=>2、熟悉TensorFlow、Pytorch等主流深度学习框架，并有实际的模型训练、调优的项目经验。 || 深度学习=>2、熟悉TensorFlow、Pytorch等主流深度学习框架，并有实际的模型训练、调优的项目经验。,requirement_text,platform_major_not_supported
+3,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,广州,030200,170595407,https://jobs.51job.com/guangzhou-hzq/170595407.html,2026-06-20T19:00:41.758074,79b8e23daeefd2fc,65ef7ef08af34659,Python软件开发工程师（机器学习方向）,泓慧睿吉（广州）生物科技有限责任公司,广州,海珠区,1.5-2万,15000,20000,12,本科,本科,3年以上,3年及以上,3,,下限,全职,医疗设备/器械,少于50人,民营,2026-02-13,2026-02-13 17:31:25,113.305529,23.06107,not_supported_by_description,计算机,计算机类,计算机类=>工学,优先,- 本科及以上学历，计算机相关专业优先，3年及以上Python开发经验,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"【工作内容】
+- 负责机器学习算法的开发、优化与部署，支持产品功能的智能化升级；
+- 参与数据处理、特征工程及模型训练，提升系统性能与用户体验；
+- 与产品、算法团队协作，推动AI技术在实际业务场景中的落地应用；
+- 编写高质量、可维护的Python代码，确保系统的稳定性与扩展性。
+【任职要求】
+- 本科及以上学历，计算机相关专业优先，3年及以上Python开发经验；
+- 熟悉机器学习算法及框架（如TensorFlow、PyTorch等）；
+- 具备良好的逻辑思维能力与问题解决能力，有较强的责任心和团队合作精神；
+- 有实际项目经验者优先，具备良好的沟通能力和抗压能力。","【工作内容】
+- 负责机器学习算法的开发、优化与部署，支持产品功能的智能化升级；
+- 参与数据处理、特征工程及模型训练，提升系统性能与用户体验；
+- 与产品、算法团队协作，推动AI技术在实际业务场景中的落地应用；
+- 编写高质量、可维护的Python代码，确保系统的稳定性与扩展性。
+【任职要求】
+- 本科及以上学历，计算机相关专业优先，3年及以上Python开发经验；
+- 熟悉机器学习算法及框架（如TensorFlow、PyTorch等）；
+- 具备良好的逻辑思维能力与问题解决能力，有较强的责任心和团队合作精神；
+- 有实际项目经验者优先，具备良好的沟通能力和抗压能力。","- 本科及以上学历，计算机相关专业优先，3年及以上Python开发经验；
+- 熟悉机器学习算法及框架（如TensorFlow、PyTorch等）；
+- 具备良好的逻辑思维能力与问题解决能力，有较强的责任心和团队合作精神；
+- 有实际项目经验者优先，具备良好的沟通能力和抗压能力。","- 负责机器学习算法的开发、优化与部署，支持产品功能的智能化升级；
+- 参与数据处理、特征工程及模型训练，提升系统性能与用户体验；
+- 与产品、算法团队协作，推动AI技术在实际业务场景中的落地应用；
+- 编写高质量、可维护的Python代码，确保系统的稳定性与扩展性。",3年及以上|本科|五险一金,Python|机器学习|TensorFlow|PyTorch,Python|机器学习|TensorFlow|PyTorch,Python|机器学习|TensorFlow|PyTorch,Python=>编程语言 || 机器学习=>人工智能 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架,Python=>- 本科及以上学历，计算机相关专业优先，3年及以上Python开发经验； || 机器学习=>- 熟悉机器学习算法及框架（如TensorFlow、PyTorch等）； || TensorFlow=>- 熟悉机器学习算法及框架（如TensorFlow、PyTorch等）； || PyTorch=>- 熟悉机器学习算法及框架（如TensorFlow、PyTorch等）；,requirement_text,platform_major_not_supported

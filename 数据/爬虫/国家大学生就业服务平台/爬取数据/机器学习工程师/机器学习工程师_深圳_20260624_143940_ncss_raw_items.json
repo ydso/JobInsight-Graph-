@@ -1,0 +1,12 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "深圳",
+    "code": "440300",
+    "query": "深圳"
+  },
+  "keyword": "机器学习工程师",
+  "items": []
+}

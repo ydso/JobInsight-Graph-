@@ -1,0 +1,88 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "成都",
+    "code": "510100",
+    "query": "成都"
+  },
+  "keyword": "大数据开发工程师",
+  "items": [
+    {
+      "page": 1,
+      "url": "https://www.ncss.cn/student/jobs/jobslist/ajax/?jobName=%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&areaCode=510100&offset=1&limit=10",
+      "captured_at": "2026-06-24T16:10:43.681098",
+      "items": [
+        {
+          "index": 1,
+          "source_job_id": "GQJNry9Mwt3xnUugG8Nwrw",
+          "job_title": "大数据开发工程师",
+          "company_name": "上海万厦信息技术有限公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/GQJNry9Mwt3xnUugG8Nwrw/detail.html",
+          "card_text": "大数据开发工程师\n上海万厦信息技术有限公司\n四川\n本科及以上\n50-99人",
+          "api_item": {
+            "jobName": "大数据开发工程师",
+            "highMonthPay": 8.0,
+            "updateDate": 1781665224000,
+            "lowMonthPay": 6.0,
+            "headCount": 0,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1781665224000,
+            "degreeName": "本科及以上",
+            "recName": "上海万厦信息技术有限公司",
+            "recLogo": "",
+            "areaCodeName": "四川",
+            "jobId": "GQJNry9Mwt3xnUugG8Nwrw",
+            "recScale": "50-99人",
+            "sortPriority": 0,
+            "sourcesNameCh": "boss直聘",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "2000846399"
+          }
+        },
+        {
+          "index": 2,
+          "source_job_id": "5fvgf3aazrUreiGbCMDsyV",
+          "job_title": "应届生-大数据开发工程师-成都",
+          "company_name": "亚信科技2026校招",
+          "detail_url": "https://www.ncss.cn/student/jobs/5fvgf3aazrUreiGbCMDsyV/detail.html",
+          "card_text": "应届生-大数据开发工程师-成都\n亚信科技2026校招\n四川\n本科及以上",
+          "api_item": {
+            "jobName": "应届生-大数据开发工程师-成都",
+            "highMonthPay": 0.0,
+            "updateDate": 1778439604000,
+            "lowMonthPay": 0.0,
+            "headCount": 10,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1773943786049,
+            "degreeName": "本科及以上",
+            "recName": "亚信科技2026校招",
+            "recLogo": "",
+            "areaCodeName": "四川",
+            "jobId": "5fvgf3aazrUreiGbCMDsyV",
+            "recScale": null,
+            "sortPriority": 0,
+            "sourcesNameCh": "前程无忧",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "19etdf5giehhg58vzrf5m0en8hldvkvw"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,数据仓库工程师,广州,030200,121076961,https://jobs.51job.com/guangzhou-hzq/121076961.html,2026-06-20T18:45:14.602931,669ae839bdb477a8,99340d907986a639,ETL工程师（数据仓库工程师）,广州必云信息科技有限责任公司,广州,海珠区,4-8千,4000,8000,12,本科,本科,1年,1年,1,1,精确,全职,计算机软件,50-150人,民营,2026-05-15,2026-05-15 11:43:29,113.29991,23.098641,not_provided,计算机,计算机类,计算机类=>工学,要求,1、 本科及以上学历，计算机/信管/统计分析等相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责
+1、 负责项目实施过程中所对接的第三方系统的数据范围及质量分析，并完成项目实施过程中的ETL工作；
+2、 熟练掌握ETL设计过程，参与数据平台架构的设计、开发、流程优化及解决ETL相关技术问题；
+3、 与用户和项目组进行有效沟通，采集项目需求，并提出相应的解决方案；
+4、 参与海量数据情况下的数据库调优等工作；
+5、 按照项目推进情况，完成主管交付的临时性任务；
+6、 能够按照公司全面质量管理的要求，高质量地完成各类技术支持工作；
+任职要求：
+1、 本科及以上学历，计算机/信管/统计分析等相关专业；
+2、 熟悉ETL工具，具有一定项目经验，熟悉常用的财务软件系统；
+3、 熟悉关系型数据库（Oracle、SQL Server）；
+4、 具备一定的编程能力，熟悉至少一种常用编程语言，Java尤佳；
+5、 掌握关系数据库常见用法，熟悉常见软件的安装，参与过项目的ETL工具开发项目的完整分析、设计、开发流程者优先；
+6、 具备较强的自我学习能力、有较强分析问题的能力、人际沟通能力、团队协作能力和工作责任感；","岗位职责
+1、 负责项目实施过程中所对接的第三方系统的数据范围及质量分析，并完成项目实施过程中的ETL工作；
+2、 熟练掌握ETL设计过程，参与数据平台架构的设计、开发、流程优化及解决ETL相关技术问题；
+3、 与用户和项目组进行有效沟通，采集项目需求，并提出相应的解决方案；
+4、 参与海量数据情况下的数据库调优等工作；
+5、 按照项目推进情况，完成主管交付的临时性任务；
+6、 能够按照公司全面质量管理的要求，高质量地完成各类技术支持工作；
+任职要求：
+1、 本科及以上学历，计算机/信管/统计分析等相关专业；
+2、 熟悉ETL工具，具有一定项目经验，熟悉常用的财务软件系统；
+3、 熟悉关系型数据库（Oracle、SQL Server）；
+4、 具备一定的编程能力，熟悉至少一种常用编程语言，Java尤佳；
+5、 掌握关系数据库常见用法，熟悉常见软件的安装，参与过项目的ETL工具开发项目的完整分析、设计、开发流程者优先；
+6、 具备较强的自我学习能力、有较强分析问题的能力、人际沟通能力、团队协作能力和工作责任感；","1、 本科及以上学历，计算机/信管/统计分析等相关专业；
+2、 熟悉ETL工具，具有一定项目经验，熟悉常用的财务软件系统；
+3、 熟悉关系型数据库（Oracle、SQL Server）；
+4、 具备一定的编程能力，熟悉至少一种常用编程语言，Java尤佳；
+5、 掌握关系数据库常见用法，熟悉常见软件的安装，参与过项目的ETL工具开发项目的完整分析、设计、开发流程者优先；
+6、 具备较强的自我学习能力、有较强分析问题的能力、人际沟通能力、团队协作能力和工作责任感；","1、 负责项目实施过程中所对接的第三方系统的数据范围及质量分析，并完成项目实施过程中的ETL工作；
+2、 熟练掌握ETL设计过程，参与数据平台架构的设计、开发、流程优化及解决ETL相关技术问题；
+3、 与用户和项目组进行有效沟通，采集项目需求，并提出相应的解决方案；
+4、 参与海量数据情况下的数据库调优等工作；
+5、 按照项目推进情况，完成主管交付的临时性任务；
+6、 能够按照公司全面质量管理的要求，高质量地完成各类技术支持工作；",1年|本科|etl|数据仓库|数据库|数据开发|数据库开发|五险一金|交通补贴|绩效奖金|定期体检|年终奖金|员工旅游,SQL|Java|Oracle|ETL|统计分析,SQL|Java|Oracle|ETL|统计分析,SQL|Java|Oracle|ETL|统计分析,SQL=>查询语言 || Java=>编程语言 || Oracle=>数据库 || ETL=>数据工程 || 统计分析=>数据分析方法,SQL=>3、 熟悉关系型数据库（Oracle、SQL Server）； || Java=>4、 具备一定的编程能力，熟悉至少一种常用编程语言，Java尤佳； || Oracle=>3、 熟悉关系型数据库（Oracle、SQL Server）； || ETL=>2、 熟悉ETL工具，具有一定项目经验，熟悉常用的财务软件系统； || 统计分析=>1、 本科及以上学历，计算机/信管/统计分析等相关专业；,requirement_text,
+2,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,数据仓库工程师,广州,030200,171418448,https://jobs.51job.com/guangzhou-pyq/171418448.html,2026-06-20T18:45:14.611782,656bebe75ce7f345,de224904e8766a9d,高级数据/数仓开发工程师,广州得克信息咨询有限公司,广州,番禺区,2-2.5万·13薪,20000,25000,13,本科,本科,5年以上,5年及以上,5,,下限,全职,贸易/进出口,150-500人,外资（欧美）,2026-04-03,2026-04-03 10:38:17,113.34854,22.943477,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"Job Description：
+1.	Design and Development: Design and implement sophisticated data models and develop scalable, reliable data pipelines for efficient data processing, transformation, and storage, ensuring data accuracy and consistency.
+	Task 1: Design and implement sophisticated data models
+	Task 2: develop scalable, reliable data pipelines
+2.	Platform Implementation: Implement data platform tools, such as DBT and Monte Carlo, in alignment with the unified global BI team's infrastructure, ensuring standardization and scalability of the data platform.
+	Task 1: Implement data platform tools (e.g., DBT, Monte Carlo, Redshift, and data mesh) within the unified global BI team infrastructure.
+	Task 2: Ensure the data platform is standardized, and can be efficiently operated and maintained at scale across regions and teams.
+3.	Collaboration: Work closely with data mining engineer, analysts, and other team members to understand data needs and translate them into effective technical solutions that enhance business analytics.
+	Task 1: Collaborate with data mining engineers, analysts, and other team members to understand business and data requirements.
+	Task 2: Translate these requirements into effective technical solutions that enhance business analytics.
+4.	Monitoring and Management: Monitor and manage the performance, stability, and security of data pipelines, conducting troubleshooting and issue resolution.
+	Task 1: Monitor and manage the performance, stability, and security of data pipelines.
+	Task 2: Conduct troubleshooting and resolve issues related to data pipeline operations.
+
+Education: 
+•	Bachelor's/Master's degree, preferably in Computer Science, Information Technology, or a related field.
+Certifications:
+•	Relevant certifications in data engineering, database management, or data management are a plus.
+
+Work Experience:	 
+•	Minimum of 5 years of data engineering experience, with a preference for candidates with experience in senior roles in related fields.
+•	Proficiency in utilizing technologies such as Microsoft Power BI, the Tableau platform, DBT, and AWS Cloud.
+•	Familiarity with common data warehousing and data lake technologies, such as AWS Redshift and AWS Glue.
+•	Experience collaborating across departments, working closely with data scientists, analysts, and business teams.
+
+Skills:
+•	Proficient in SQL, capable of writing complex queries and optimizing performance.
+•	Familiar with Microsoft Power BI and the Tableau platform, skilled in designing interactive data visualizations and dashboards.
+•	Proficiency in programming languages like Python, Java, or Scala for ETL development and maintenance.
+•	Knowledgeable about data modeling and data architecture, understanding best practices in data governance and data quality.
+•	Competent in operating and managing data within AWS Cloud environments, familiar with AWS services and tools.
+•	Strong problem-solving skills, team collaboration, and communication skills.
+•	Both written and oral English communication","Job Description：
+1. Design and Development: Design and implement sophisticated data models and develop scalable, reliable data pipelines for efficient data processing, transformation, and storage, ensuring data accuracy and consistency.
+Task 1: Design and implement sophisticated data models
+Task 2: develop scalable, reliable data pipelines
+2. Platform Implementation: Implement data platform tools, such as DBT and Monte Carlo, in alignment with the unified global BI team's infrastructure, ensuring standardization and scalability of the data platform.
+Task 1: Implement data platform tools (e.g., DBT, Monte Carlo, Redshift, and data mesh) within the unified global BI team infrastructure.
+Task 2: Ensure the data platform is standardized, and can be efficiently operated and maintained at scale across regions and teams.
+3. Collaboration: Work closely with data mining engineer, analysts, and other team members to understand data needs and translate them into effective technical solutions that enhance business analytics.
+Task 1: Collaborate with data mining engineers, analysts, and other team members to understand business and data requirements.
+Task 2: Translate these requirements into effective technical solutions that enhance business analytics.
+4. Monitoring and Management: Monitor and manage the performance, stability, and security of data pipelines, conducting troubleshooting and issue resolution.
+Task 1: Monitor and manage the performance, stability, and security of data pipelines.
+Task 2: Conduct troubleshooting and resolve issues related to data pipeline operations.
+
+Education:
+• Bachelor's/Master's degree, preferably in Computer Science, Information Technology, or a related field.
+Certifications:
+• Relevant certifications in data engineering, database management, or data management are a plus.
+
+Work Experience:
+• Minimum of 5 years of data engineering experience, with a preference for candidates with experience in senior roles in related fields.
+• Proficiency in utilizing technologies such as Microsoft Power BI, the Tableau platform, DBT, and AWS Cloud.
+• Familiarity with common data warehousing and data lake technologies, such as AWS Redshift and AWS Glue.
+• Experience collaborating across departments, working closely with data scientists, analysts, and business teams.
+
+Skills:
+• Proficient in SQL, capable of writing complex queries and optimizing performance.
+• Familiar with Microsoft Power BI and the Tableau platform, skilled in designing interactive data visualizations and dashboards.
+• Proficiency in programming languages like Python, Java, or Scala for ETL development and maintenance.
+• Knowledgeable about data modeling and data architecture, understanding best practices in data governance and data quality.
+• Competent in operating and managing data within AWS Cloud environments, familiar with AWS services and tools.
+• Strong problem-solving skills, team collaboration, and communication skills.
+• Both written and oral English communication",,,5年及以上|本科|BI|SQL|Tableau|Python|Java|ELT|Scala|Data|Model|五险一金|补充医疗保险|免费班车|出国机会|年终奖金|绩效奖金|定期体检|周末双休|8小时工作制|外企文化,Python|SQL|Tableau|Java|Scala|Power BI|ETL,,Python|SQL|Tableau|Java|Scala|Power BI|ETL,Python=>编程语言 || SQL=>查询语言 || Tableau=>数据可视化 || Java=>编程语言 || Scala=>编程语言 || Power BI=>数据可视化 || ETL=>数据工程,"Python=>• Proficiency in programming languages like Python, Java, or Scala for ETL development and maintenance. || SQL=>• Proficient in SQL, capable of writing complex queries and optimizing performance. || Tableau=>• Proficiency in utilizing technologies such as Microsoft Power BI, the Tableau platform, DBT, and AWS Cloud. || Java=>• Proficiency in programming languages like Python, Java, or Scala for ETL development and maintenance. || Scala=>• Proficiency in programming languages like Python, Java, or Scala for ETL development and maintenance. || Power BI=>• Proficiency in utilizing technologies such as Microsoft Power BI, the Tableau platform, DBT, and AWS Cloud. || ETL=>• Proficiency in programming languages like Python, Java, or Scala for ETL development and maintenance.",job_description_fallback,requirement_section_missing|major_missing|platform_major_unverified

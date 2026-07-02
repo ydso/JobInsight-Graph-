@@ -1,0 +1,54 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "广州",
+    "code": "440100",
+    "query": "广州"
+  },
+  "keyword": "数据仓库工程师",
+  "items": [
+    {
+      "page": 1,
+      "url": "https://www.ncss.cn/student/jobs/jobslist/ajax/?jobName=%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E5%B7%A5%E7%A8%8B%E5%B8%88&areaCode=440100&offset=1&limit=10",
+      "captured_at": "2026-06-24T16:39:49.007260",
+      "items": [
+        {
+          "index": 1,
+          "source_job_id": "Bnfi6H7hA9phyyPEcKkcuM",
+          "job_title": "【26届校招岗位】数据仓库工程师(J11658)",
+          "company_name": "广州中康数字科技有限公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/Bnfi6H7hA9phyyPEcKkcuM/detail.html",
+          "card_text": "【26届校招岗位】数据仓库工程师(J11658)\n广州中康数字科技有限公司\n广东\n硕士及以上\n500-999人",
+          "api_item": {
+            "jobName": "【26届校招岗位】数据仓库工程师(J11658)",
+            "highMonthPay": 18.0,
+            "updateDate": 1778554829000,
+            "lowMonthPay": 12.0,
+            "headCount": 0,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1778554829000,
+            "degreeName": "硕士及以上",
+            "recName": "广州中康数字科技有限公司",
+            "recLogo": "",
+            "areaCodeName": "广东",
+            "jobId": "Bnfi6H7hA9phyyPEcKkcuM",
+            "recScale": "500-999人",
+            "sortPriority": 0,
+            "sourcesNameCh": "boss直聘",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "2000846399"
+          }
+        }
+      ]
+    }
+  ]
+}

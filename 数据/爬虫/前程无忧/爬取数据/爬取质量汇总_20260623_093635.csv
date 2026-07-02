@@ -1,0 +1,17 @@
+﻿记录类型,岗位名称,搜索岗位,搜索城市,城市编码,采集状态代码,采集状态说明,是否正常完成,有效岗位数,API原始返回数,原始唯一岗位数,样本等级代码,样本等级说明,官网报告总数,停止原因,最后尝试页,最后成功页,结束时连续零有效页,是否待补采,重试次数,检查点文件,跳过重复数,标题不相关过滤数,无效记录过滤数,解析错误数,岗位总体目标,岗位总体是否达标,岗位总体缺口,城市数量,各城市有效岗位数
+city_role,数据分析师,数据分析师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,8,120,110,descriptive_only,样本较少，仅作描述性分析,941,relevance_exhausted,6,6,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\数据分析师\_数据分析师_西安_checkpoint.json,13,99,0,0,,,,,
+city_role,BI 分析师,BI分析师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,0,100,100,descriptive_only,样本较少，仅作描述性分析,125,relevance_exhausted,5,5,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\BI 分析师\_BI 分析师_西安_checkpoint.json,8,92,0,0,,,,,
+city_role,数据开发工程师,数据开发工程师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,3,240,203,descriptive_only,样本较少，仅作描述性分析,673,relevance_exhausted,12,12,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\数据开发工程师\_数据开发工程师_西安_checkpoint.json,41,196,0,0,,,,,
+city_role,大数据开发工程师,大数据开发工程师,西安,200200,source_exhausted,官网结果已采集完毕,是,8,205,204,descriptive_only,样本较少，仅作描述性分析,205,source_exhausted,11,11,1,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\大数据开发工程师\_大数据开发工程师_西安_checkpoint.json,11,186,0,0,,,,,
+city_role,数据仓库工程师,数据仓库工程师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,0,100,89,descriptive_only,样本较少，仅作描述性分析,159,relevance_exhausted,5,5,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\数据仓库工程师\_数据仓库工程师_西安_checkpoint.json,24,76,0,0,,,,,
+city_role,Python 开发工程师,Python开发工程师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,12,220,209,descriptive_only,样本较少，仅作描述性分析,480,relevance_exhausted,11,11,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\Python 开发工程师\_Python 开发工程师_西安_checkpoint.json,24,184,0,0,,,,,
+city_role,机器学习工程师,机器学习工程师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,2,120,110,descriptive_only,样本较少，仅作描述性分析,232,relevance_exhausted,6,6,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\机器学习工程师\_机器学习工程师_西安_checkpoint.json,16,102,0,0,,,,,
+city_role,算法工程师,算法工程师,西安,200200,relevance_exhausted,连续多页无目标岗位（相关结果已基本耗尽）,是,39,180,152,limited,可以分析，但需说明样本量限制,459,relevance_exhausted,9,9,5,否,0,D:\桌面\毕业设计\前程无忧\爬取数据\算法工程师\_算法工程师_西安_checkpoint.json,37,104,0,0,,,,,
+role_total,数据分析师,数据分析师,,,role_target_shortfall,岗位总体样本不足,否,8,,,,,,,,,,,,,,,,,500,否,492,1,"{""西安"": 8}"
+role_total,BI 分析师,BI分析师,,,role_target_shortfall,岗位总体样本不足,否,0,,,,,,,,,,,,,,,,,500,否,500,1,"{""西安"": 0}"
+role_total,数据开发工程师,数据开发工程师,,,role_target_shortfall,岗位总体样本不足,否,3,,,,,,,,,,,,,,,,,500,否,497,1,"{""西安"": 3}"
+role_total,大数据开发工程师,大数据开发工程师,,,role_target_shortfall,岗位总体样本不足,否,8,,,,,,,,,,,,,,,,,500,否,492,1,"{""西安"": 8}"
+role_total,数据仓库工程师,数据仓库工程师,,,role_target_shortfall,岗位总体样本不足,否,0,,,,,,,,,,,,,,,,,500,否,500,1,"{""西安"": 0}"
+role_total,Python 开发工程师,Python开发工程师,,,role_target_shortfall,岗位总体样本不足,否,12,,,,,,,,,,,,,,,,,500,否,488,1,"{""西安"": 12}"
+role_total,机器学习工程师,机器学习工程师,,,role_target_shortfall,岗位总体样本不足,否,2,,,,,,,,,,,,,,,,,500,否,498,1,"{""西安"": 2}"
+role_total,算法工程师,算法工程师,,,role_target_shortfall,岗位总体样本不足,否,39,,,,,,,,,,,,,,,,,500,否,461,1,"{""西安"": 39}"

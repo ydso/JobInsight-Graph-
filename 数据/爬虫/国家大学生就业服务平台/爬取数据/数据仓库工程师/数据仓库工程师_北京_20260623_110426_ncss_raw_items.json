@@ -1,0 +1,54 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "北京",
+    "code": "11",
+    "query": "北京"
+  },
+  "keyword": "数据仓库工程师",
+  "items": [
+    {
+      "page": 1,
+      "url": "https://www.ncss.cn/student/jobs/jobslist/ajax/?jobName=%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E5%B7%A5%E7%A8%8B%E5%B8%88&areaCode=11&offset=1&limit=10",
+      "captured_at": "2026-06-23T11:04:26.401341",
+      "items": [
+        {
+          "index": 1,
+          "source_job_id": "VTsH9oK9D1YYopjXDnuMs5",
+          "job_title": "【2027校招暑期实习】数据仓库工程师",
+          "company_name": "北京陌陌信息技术有限公司成都分公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/VTsH9oK9D1YYopjXDnuMs5/detail.html",
+          "card_text": "【2027校招暑期实习】数据仓库工程师\n北京陌陌信息技术有限公司成都分公司\n北京\n本科及以上\n1000-4999人",
+          "api_item": {
+            "jobName": "【2027校招暑期实习】数据仓库工程师",
+            "highMonthPay": 9.0,
+            "updateDate": 1778814070000,
+            "lowMonthPay": 7.0,
+            "headCount": 0,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1778814070000,
+            "degreeName": "本科及以上",
+            "recName": "北京陌陌信息技术有限公司成都分公司",
+            "recLogo": "",
+            "areaCodeName": "北京",
+            "jobId": "VTsH9oK9D1YYopjXDnuMs5",
+            "recScale": "1000-4999人",
+            "sortPriority": 0,
+            "sourcesNameCh": "boss直聘",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "2000846399"
+          }
+        }
+      ]
+    }
+  ]
+}

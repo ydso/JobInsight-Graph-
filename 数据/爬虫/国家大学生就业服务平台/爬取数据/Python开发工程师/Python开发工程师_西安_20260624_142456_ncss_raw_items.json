@@ -1,0 +1,54 @@
+{
+  "source": "国家大学生就业服务平台",
+  "search_url_template": "https://www.ncss.cn/student/jobs/index.html?jobName={keyword_q}&areaCode={city_code}",
+  "list_api_url": "https://www.ncss.cn/student/jobs/jobslist/ajax/",
+  "city": {
+    "name": "西安",
+    "code": "610100",
+    "query": "西安"
+  },
+  "keyword": "Python开发工程师",
+  "items": [
+    {
+      "page": 1,
+      "url": "https://www.ncss.cn/student/jobs/jobslist/ajax/?jobName=Python%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&areaCode=610100&offset=1&limit=10",
+      "captured_at": "2026-06-24T14:24:56.375674",
+      "items": [
+        {
+          "index": 1,
+          "source_job_id": "WdrwkE6Hm4UZrFqbPFoPHj",
+          "job_title": "python开发工程师",
+          "company_name": "陕西卓正网络科技有限公司",
+          "detail_url": "https://www.ncss.cn/student/jobs/WdrwkE6Hm4UZrFqbPFoPHj/detail.html",
+          "card_text": "python开发工程师\n陕西卓正网络科技有限公司\n陕西\n本科及以上\n50-99人",
+          "api_item": {
+            "jobName": "python开发工程师",
+            "highMonthPay": 8.0,
+            "updateDate": 1777863600000,
+            "lowMonthPay": 5.0,
+            "headCount": 0,
+            "memberLevel": "0",
+            "recruitType": "0",
+            "publishDate": 1777863600000,
+            "degreeName": "本科及以上",
+            "recName": "陕西卓正网络科技有限公司",
+            "recLogo": "",
+            "areaCodeName": "陕西",
+            "jobId": "WdrwkE6Hm4UZrFqbPFoPHj",
+            "recScale": "50-99人",
+            "sortPriority": 0,
+            "sourcesNameCh": "boss直聘",
+            "sourcesType": "0",
+            "recTags": "",
+            "major": "",
+            "recProperty": "",
+            "userType": "11",
+            "recId": "-",
+            "keyUnits": "0",
+            "sourcesName": "2000846399"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,重庆,060000,171760971,https://jobs.51job.com/chongqing-ljxq/171760971.html,2026-06-20T18:58:03.622563,809d6fd391c08cb5,2039430e5296a22a,Industrial Machine Learning Specialist,奥特斯（中国）有限公司,重庆,两江新区,1.5-2万·13薪,15000,20000,13,硕士,硕士,3年以上,3年及以上,3,,下限,全职,电子技术/半导体/集成电路,1000-5000人,外资（欧美）,2026-04-23,2026-04-23 13:42:55,106.761938,29.637305,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"The role focuses on developing and applying machine62learning methods to manufacturing data in order to improve AT&amp;S processes. It involves identifying suitable data, preparing it for analysis, and gathering essential technical background from domain experts to ensure accurate interpretation and modelling. Through hands62on analysis, prototyping, and collaboration the position contributes to data62driven innovation and technical problem62solving within the organization.
+Your Responsibilities:
+1. Develop and test machine62learning models with a focus on manufacturing use cases such as advanced process control or predictive maintenance
+2. Identify and select suitable datasets from equipment, metrology systems and other sources to ensure by collaborating with engineering teams and reviewing available data
+3. Prepare, clean, and preprocess data (filtering, feature extraction, labeling) to enable reliable modelling and analysis through structured data62processing workflows and quality checks
+4. Gather technical background information from subject62matter experts (mechanical, electrical, testing) to correctly interpret datasets and define relevant model inputs
+5. Analyze data to derive technical insights and support problem62solving by applying statistical analysis, signal processing, and exploratory data techniques
+6. Implement prototypes, dashboards and small proof62of62concepts to evaluate technical feasibility
+7. Maintain python code and machine learning pipelines on the internal platform
+8. Evaluate emerging technologies (ML frameworks, sensor systems, data62processing methods) and assess their potential for industrial application.
+9. Spread awareness about best practices in machine learning, data analysis, and scientific programming
+10. Contribute to patent ideas, research publications, or technical presentations
+
+Your Profile:
+1. Graduate Degree in Data Science, Applied Mathematics, Technical Physics or similar technical education or equivalent professional career (e.g. in the area of industrial data science)
+2. Fluent in spoken and written English
+3. Fluent in spoken and written Mandarin
+4. Strong programming skills in Python or other scientific programming environments
+5. Experience in industrial machine learning, scientific computing and/or data analysis in engineering context
+6. Familiarity with PCB and/or substrate manufacturing processes
+7. Project management know how
+8. Excellent organisation- and communication skills
+9. ""Open minded"", communicative and ""out-of-the-box thinker""
+
+Once a resume is submitted to the recruiting company, it is considered that the applicant agrees to the collection, processing, use, and disclosure of their resume and other personal information by the recruiting company for recruitment purposes.
+一旦向招聘公司投递简历，即视为应聘者同意招聘公司基于招聘目的而对其简历和其他个人信息进行收集、处理、使用和披露等。","The role focuses on developing and applying machine62learning methods to manufacturing data in order to improve AT&S processes. It involves identifying suitable data, preparing it for analysis, and gathering essential technical background from domain experts to ensure accurate interpretation and modelling. Through hands62on analysis, prototyping, and collaboration the position contributes to data62driven innovation and technical problem62solving within the organization.
+Your Responsibilities:
+1. Develop and test machine62learning models with a focus on manufacturing use cases such as advanced process control or predictive maintenance
+2. Identify and select suitable datasets from equipment, metrology systems and other sources to ensure by collaborating with engineering teams and reviewing available data
+3. Prepare, clean, and preprocess data (filtering, feature extraction, labeling) to enable reliable modelling and analysis through structured data62processing workflows and quality checks
+4. Gather technical background information from subject62matter experts (mechanical, electrical, testing) to correctly interpret datasets and define relevant model inputs
+5. Analyze data to derive technical insights and support problem62solving by applying statistical analysis, signal processing, and exploratory data techniques
+6. Implement prototypes, dashboards and small proof62of62concepts to evaluate technical feasibility
+7. Maintain python code and machine learning pipelines on the internal platform
+8. Evaluate emerging technologies (ML frameworks, sensor systems, data62processing methods) and assess their potential for industrial application.
+9. Spread awareness about best practices in machine learning, data analysis, and scientific programming
+10. Contribute to patent ideas, research publications, or technical presentations
+
+Your Profile:
+1. Graduate Degree in Data Science, Applied Mathematics, Technical Physics or similar technical education or equivalent professional career (e.g. in the area of industrial data science)
+2. Fluent in spoken and written English
+3. Fluent in spoken and written Mandarin
+4. Strong programming skills in Python or other scientific programming environments
+5. Experience in industrial machine learning, scientific computing and/or data analysis in engineering context
+6. Familiarity with PCB and/or substrate manufacturing processes
+7. Project management know how
+8. Excellent organisation- and communication skills
+9. ""Open minded"", communicative and ""out-of-the-box thinker""
+
+Once a resume is submitted to the recruiting company, it is considered that the applicant agrees to the collection, processing, use, and disclosure of their resume and other personal information by the recruiting company for recruitment purposes.
+一旦向招聘公司投递简历，即视为应聘者同意招聘公司基于招聘目的而对其简历和其他个人信息进行收集、处理、使用和披露等。",,,3年及以上|硕士|机器学习|数据建模|制造业|英语,Python,,Python,Python=>编程语言,Python=>7. Maintain python code and machine learning pipelines on the internal platform,job_description_fallback,requirement_section_missing|major_missing|platform_major_unverified

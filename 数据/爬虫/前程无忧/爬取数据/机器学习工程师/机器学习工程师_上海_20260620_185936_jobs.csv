@@ -1,0 +1,353 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,171537804,https://jobs.51job.com/shanghai-cnq/171537804.html,2026-06-20T18:59:40.037561,94a1b6b374daee9b,fbc5fe84db8b4b9c,Sr Machine Learning Engineer II/机器学习工程师,山东昇润能源实业有限公司,上海,长宁区,3-4万·14薪,30000,40000,14,本科,本科,5年以上,5年及以上,5,,下限,全职,电子技术/半导体/集成电路,,外资（非欧美）,2026-04-10,2026-04-10 17:26:59,121.363271,31.223651,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"Role Overview
+The Machine Learning Engineer develops, deploys, and maintains scalable AI/ML solutions that meet production standards. They turn data science prototypes into reliable, production-ready services, automate MLOps workflows, and build tools and infrastructure for model training and inference. This role requires strong software engineering, DevOps, and cloud skills, as well as experience with NLP, search technologies, vector, and graph databases, and modern MLOps platforms.
+
+Responsibilities:
+61	Finalizing requirements by collaborating with other technical personnel or team members.
+61	Writing and reviewing portions of detailed specifications for the development of AI/ML-driven software and systems.
+61	Completing complex bug fixes across ML pipelines, data workflows, and production systems
+61	Translating complex product requirements into software designs including LLM based and agent-driven architectures
+61	Implementing development processes, coding best practices, and code reviews.
+61	Resolving complex technical issues is necessary.
+61	Develop and implement LLM-based and Generative AI applications (e.g., RAG systems).
+61	Develop and integrate agent skills (tool usage, planning, reasoning, memory), ensuring reliability and robustness in production.
+61	Integrate models and AI agents with existing systems and APIs.
+61	Collaborate with cross-functional teams to define, design, and ship new features.
+61	Document development processes, code, and APIs.
+61	Monitor, evaluate, and improve model and agent performance
+Requirements:
+61	Have a bachelor’s degree in computer science, or a related field or equivalent experience.
+61	At least 5 years’ experience in Software / Machine Learning Engineering
+61	Be willing to keep abreast of new technological developments.
+61	Experience working with complex data models.
+61	Possess good oral and written communication skills.
+61	Excellent problem-solving skills and the ability to think outside the box. 
+61	Proven experience building and deploying LLM / Generative AI solutions in production environments
+61	Strong knowledge of API integration and microservices-based architectures.
+61	Ability to work collaboratively in an agile team environment.
+61	Experience working with SQL, data modelling, ML algorithms, and evaluation techniques.
+61	Experience working with large datasets and distributed computing systems (e.g., Hadoop, Spark). 
+61	Experience with cloud platforms such as AWS, GCP, and Azure; Familiar with CI/CD
+61	Strong coding skills in Python or another programming language (Go, Rust, etc.). 
+61	Experience in the following areas will be highly advantageous:
+o	NLP (text preprocessing, topic modeling, classification, sentiment analysis)
+o	Experience with agent frameworks (e.g., LangChain, ADK, LlamaIndex), RAG, vector databases, and embeddings
+o	CI/CD (Jenkins, Azure DevOps, GitHub Actions)
+o	Spark / Databricks","Role Overview
+The Machine Learning Engineer develops, deploys, and maintains scalable AI/ML solutions that meet production standards. They turn data science prototypes into reliable, production-ready services, automate MLOps workflows, and build tools and infrastructure for model training and inference. This role requires strong software engineering, DevOps, and cloud skills, as well as experience with NLP, search technologies, vector, and graph databases, and modern MLOps platforms.
+
+Responsibilities:
+61 Finalizing requirements by collaborating with other technical personnel or team members.
+61 Writing and reviewing portions of detailed specifications for the development of AI/ML-driven software and systems.
+61 Completing complex bug fixes across ML pipelines, data workflows, and production systems
+61 Translating complex product requirements into software designs including LLM based and agent-driven architectures
+61 Implementing development processes, coding best practices, and code reviews.
+61 Resolving complex technical issues is necessary.
+61 Develop and implement LLM-based and Generative AI applications (e.g., RAG systems).
+61 Develop and integrate agent skills (tool usage, planning, reasoning, memory), ensuring reliability and robustness in production.
+61 Integrate models and AI agents with existing systems and APIs.
+61 Collaborate with cross-functional teams to define, design, and ship new features.
+61 Document development processes, code, and APIs.
+61 Monitor, evaluate, and improve model and agent performance
+Requirements:
+61 Have a bachelor’s degree in computer science, or a related field or equivalent experience.
+61 At least 5 years’ experience in Software / Machine Learning Engineering
+61 Be willing to keep abreast of new technological developments.
+61 Experience working with complex data models.
+61 Possess good oral and written communication skills.
+61 Excellent problem-solving skills and the ability to think outside the box.
+61 Proven experience building and deploying LLM / Generative AI solutions in production environments
+61 Strong knowledge of API integration and microservices-based architectures.
+61 Ability to work collaboratively in an agile team environment.
+61 Experience working with SQL, data modelling, ML algorithms, and evaluation techniques.
+61 Experience working with large datasets and distributed computing systems (e.g., Hadoop, Spark).
+61 Experience with cloud platforms such as AWS, GCP, and Azure; Familiar with CI/CD
+61 Strong coding skills in Python or another programming language (Go, Rust, etc.).
+61 Experience in the following areas will be highly advantageous:
+o NLP (text preprocessing, topic modeling, classification, sentiment analysis)
+o Experience with agent frameworks (e.g., LangChain, ADK, LlamaIndex), RAG, vector databases, and embeddings
+o CI/CD (Jenkins, Azure DevOps, GitHub Actions)
+o Spark / Databricks",,,5年及以上|本科|ai|cloud|nlp|vector|search|production|mlops,Python|SQL|Spark|Hadoop,,Python|SQL|Spark|Hadoop,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || Hadoop=>大数据框架,"Python=>61 Strong coding skills in Python or another programming language (Go, Rust, etc.). || SQL=>61 Experience working with SQL, data modelling, ML algorithms, and evaluation techniques. || Spark=>61 Experience working with large datasets and distributed computing systems (e.g., Hadoop, Spark). || Hadoop=>61 Experience working with large datasets and distributed computing systems (e.g., Hadoop, Spark).",job_description_fallback,requirement_section_missing|major_missing|platform_major_unverified
+2,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,172307501,https://jobs.51job.com/shanghai-mhq/172307501.html,2026-06-20T18:59:40.042064,e4331ff935a2196d,736cb414c991d649,机器学习算法工程师,浙江福莱新材料股份有限公司,上海,闵行区,2-2.5万·13薪,20000,25000,13,本科,本科,5年以上,5年及以上,5,,下限,全职,电子技术/半导体/集成电路,1000-5000人,民营,2026-05-28,2026-05-28 15:37:19,121.366922,31.005059,partially_confirmed,计算机科学|数学|电气工程,计算机类|数学|电气类,计算机类=>工学 || 数学=>理学 || 电气类=>工学,要求,1、统招本科及以上，电气工程、计算机科学、应用数学或相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+1、开发信号处理算法：设计、实现和优化多种传感器的先进信号处理算法；
+2、算法优化：专注于优化实时数据处理算法，确保嵌入式系统中的低延迟、高吞吐量和高可靠性。
+3、数据融合：整合来自多个传感器的数据，提高信号可靠性，改善识别准确性，并实现更智能的传感器网络。
+4、人工智能与机器学习：应用人工智能和机器学习技术进行数据分析、模式识别、异常检测和传感器数据的预测建模。
+5、模型开发：开发、训练和验证用于传感器数据识别、分类和特征提取的机器学习模型，确保其符合系统需求。
+6、团队协作：与软硬件开发人员和产品经理紧密合作。
+7、文档与报告：编写清晰的技术文档、报告和演示文稿，与利益相关者沟通算法设计、性能提升和结果。
+
+
+任职资格：
+1、统招本科及以上，电气工程、计算机科学、应用数学或相关专业。
+2、具备开发传感器阵列、各种传感器类型以及传感器之间信号融合的传感器信号处理算法的经验。
+3、拥有人工智能和机器学习技术的实践经验，尤其是在传感器数据分析和识别方面。
+4、具有使用机器学习框架（如TensorFlow、PyTorch、Scikit-learn）的经验。
+5、熟练掌握C++、Python、MATLAB等编程语言。
+6、熟悉信号处理工具和库（例如SciPy、NumPy、OpenCV）。
+
+
+福利待遇：
+五险一金、餐补、房补、交通补贴、高温费、节日福利、生日福利、年终奖金、健康体检、15天春节假期、员工俱乐部等。
+
+工作时间：
+8小时，周末双休，法定节假日。","岗位职责：
+1、开发信号处理算法：设计、实现和优化多种传感器的先进信号处理算法；
+2、算法优化：专注于优化实时数据处理算法，确保嵌入式系统中的低延迟、高吞吐量和高可靠性。
+3、数据融合：整合来自多个传感器的数据，提高信号可靠性，改善识别准确性，并实现更智能的传感器网络。
+4、人工智能与机器学习：应用人工智能和机器学习技术进行数据分析、模式识别、异常检测和传感器数据的预测建模。
+5、模型开发：开发、训练和验证用于传感器数据识别、分类和特征提取的机器学习模型，确保其符合系统需求。
+6、团队协作：与软硬件开发人员和产品经理紧密合作。
+7、文档与报告：编写清晰的技术文档、报告和演示文稿，与利益相关者沟通算法设计、性能提升和结果。
+
+任职资格：
+1、统招本科及以上，电气工程、计算机科学、应用数学或相关专业。
+2、具备开发传感器阵列、各种传感器类型以及传感器之间信号融合的传感器信号处理算法的经验。
+3、拥有人工智能和机器学习技术的实践经验，尤其是在传感器数据分析和识别方面。
+4、具有使用机器学习框架（如TensorFlow、PyTorch、Scikit-learn）的经验。
+5、熟练掌握C++、Python、MATLAB等编程语言。
+6、熟悉信号处理工具和库（例如SciPy、NumPy、OpenCV）。
+
+福利待遇：
+五险一金、餐补、房补、交通补贴、高温费、节日福利、生日福利、年终奖金、健康体检、15天春节假期、员工俱乐部等。
+
+工作时间：
+8小时，周末双休，法定节假日。","1、统招本科及以上，电气工程、计算机科学、应用数学或相关专业。
+2、具备开发传感器阵列、各种传感器类型以及传感器之间信号融合的传感器信号处理算法的经验。
+3、拥有人工智能和机器学习技术的实践经验，尤其是在传感器数据分析和识别方面。
+4、具有使用机器学习框架（如TensorFlow、PyTorch、Scikit-learn）的经验。
+5、熟练掌握C++、Python、MATLAB等编程语言。
+6、熟悉信号处理工具和库（例如SciPy、NumPy、OpenCV）。","1、开发信号处理算法：设计、实现和优化多种传感器的先进信号处理算法；
+2、算法优化：专注于优化实时数据处理算法，确保嵌入式系统中的低延迟、高吞吐量和高可靠性。
+3、数据融合：整合来自多个传感器的数据，提高信号可靠性，改善识别准确性，并实现更智能的传感器网络。
+4、人工智能与机器学习：应用人工智能和机器学习技术进行数据分析、模式识别、异常检测和传感器数据的预测建模。
+5、模型开发：开发、训练和验证用于传感器数据识别、分类和特征提取的机器学习模型，确保其符合系统需求。
+6、团队协作：与软硬件开发人员和产品经理紧密合作。
+7、文档与报告：编写清晰的技术文档、报告和演示文稿，与利益相关者沟通算法设计、性能提升和结果。",5年及以上|本科|传感器|机器学习|五险一金|年终奖金|带薪年假|交通补贴|周末双休|生日福利|节日福利|高温费|餐补|房补|节假日|法定节假|健康体检|晋升空间大|团队氛围好,Python|机器学习|C++|NumPy|scikit-learn|TensorFlow|PyTorch|MATLAB,Python|机器学习|C++|NumPy|scikit-learn|TensorFlow|PyTorch|MATLAB,Python|机器学习|C++|NumPy|scikit-learn|TensorFlow|PyTorch|MATLAB,Python=>编程语言 || 机器学习=>人工智能 || C++=>编程语言 || NumPy=>数据处理库 || scikit-learn=>机器学习框架 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || MATLAB=>数值计算工具,Python=>5、熟练掌握C++、Python、MATLAB等编程语言。 || 机器学习=>3、拥有人工智能和机器学习技术的实践经验，尤其是在传感器数据分析和识别方面。 || C++=>5、熟练掌握C++、Python、MATLAB等编程语言。 || NumPy=>6、熟悉信号处理工具和库（例如SciPy、NumPy、OpenCV）。 || scikit-learn=>4、具有使用机器学习框架（如TensorFlow、PyTorch、Scikit-learn）的经验。 || TensorFlow=>4、具有使用机器学习框架（如TensorFlow、PyTorch、Scikit-learn）的经验。 || PyTorch=>4、具有使用机器学习框架（如TensorFlow、PyTorch、Scikit-learn）的经验。 || MATLAB=>5、熟练掌握C++、Python、MATLAB等编程语言。,requirement_text,
+3,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,172374678,https://jobs.51job.com/shanghai/172374678.html,2026-06-20T18:59:40.044508,5a7e9e53fdd61601,5c7fb5ee2b7df36c,机器学习AI工程师,诚迈科技股份有限公司,上海,,1.3-2万,13000,20000,12,本科,本科,3年以上,3年及以上,3,,下限,全职,互联网/电子商务,1000-5000人,外资（欧美）,2026-06-02,2026-06-02 16:09:39,121.610006,31.20464,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"主要职责：深度学习模型编译，算法调优、性能评估，人工智能应用集成、AI框架集成, 模型量化以及精度调优
+技能要求：
+1.软件应用、开发、调试或相关经验；
+2.C/C++, Python等编程经验；
+3.熟悉并掌握一种或多种主流AI 框架如 Tensorflow, PyTorch, ONNX等并有实际开发经验；
+4.熟悉主要的机器学习算法并对深度学习神经网络算法有深入了解，如CNN,LSTM, RNN, Transformer, LLM 主流模型，了解如何进行计算性能测试和分析；
+5.熟悉主流AI加速芯片架构、有相关调试GPU加速卡或数据中心服务器经验；
+6. 熟悉PTQ和QAT的量化流程和相关算法，有量化精度调优经验优先；","主要职责：深度学习模型编译，算法调优、性能评估，人工智能应用集成、AI框架集成, 模型量化以及精度调优
+技能要求：
+1.软件应用、开发、调试或相关经验；
+2.C/C++, Python等编程经验；
+3.熟悉并掌握一种或多种主流AI 框架如 Tensorflow, PyTorch, ONNX等并有实际开发经验；
+4.熟悉主要的机器学习算法并对深度学习神经网络算法有深入了解，如CNN,LSTM, RNN, Transformer, LLM 主流模型，了解如何进行计算性能测试和分析；
+5.熟悉主流AI加速芯片架构、有相关调试GPU加速卡或数据中心服务器经验；
+6. 熟悉PTQ和QAT的量化流程和相关算法，有量化精度调优经验优先；",,,3年及以上|本科|深度学习|软件应用|机器学习算法|AI算法|AI大模型|AIAgent|芯片算法|海思芯片|高通高通平台|联发科瑞芯微|五险一金|带薪年假|周末双休,Python|机器学习|C++|TensorFlow|PyTorch|深度学习,,Python|机器学习|C++|TensorFlow|PyTorch|深度学习,Python=>编程语言 || 机器学习=>人工智能 || C++=>编程语言 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || 深度学习=>人工智能,"Python=>2.C/C++, Python等编程经验； || 机器学习=>4.熟悉主要的机器学习算法并对深度学习神经网络算法有深入了解，如CNN,LSTM, RNN, Transformer, LLM 主流模型，了解如何进行计算性能测试和分析； || C++=>2.C/C++, Python等编程经验； || TensorFlow=>3.熟悉并掌握一种或多种主流AI 框架如 Tensorflow, PyTorch, ONNX等并有实际开发经验； || PyTorch=>3.熟悉并掌握一种或多种主流AI 框架如 Tensorflow, PyTorch, ONNX等并有实际开发经验； || 深度学习=>主要职责：深度学习模型编译，算法调优、性能评估，人工智能应用集成、AI框架集成, 模型量化以及精度调优",job_description_fallback,requirement_section_missing|district_missing|major_missing|platform_major_unverified
+4,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,171775280,https://jobs.51job.com/shanghai-jdq/171775280.html,2026-06-20T18:59:46.733789,b4b592e8509eb94a,a1e94163a4d60205,AI算法工程师(医疗AI、信号处理、机器学习),漫迪医疗仪器（上海）有限公司,上海,嘉定区,1.8-3万,18000,30000,12,硕士,硕士,1-3年,1-3年,1,3,区间,全职,医疗设备/器械,少于50人,民营,2026-04-24,2026-04-24 09:40:26,121.241677,31.397468,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"1.算法研发与闭环:负责心磁(Magnetocardiography，MCG)等多维生理时序信号的AI模型研发。主导数据清洗治理、特征工程、模型训练与性能优化的全生命周期管理。
+2.实用导向的算法攻坚:针对多维、时空特征交织的复杂生理信号，从实际临床痛点和工程瓶颈出发，精准检索并跨界迁移相关技术，快速验证并迭代具备高性价比的算法方案。
+
+任职要求:
+【基础技术基石】
+1.背景与经验:计算机、统计学、生物医学工程或相关交叉学科硕士及以上学历。具备医疗AI领域实际工作经验，有独立负责核心算法模块完整落地的项目经历。扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。
+2.专业信号处理能力: 深入理解时序及神经生理信号，熟练掌握频域、时频域分析等经典信号处理技术，并能将其与机器学习、深度学习有效结合。
+3.有心电AI、脑电AI相关处理经验者优先。","1.算法研发与闭环:负责心磁(Magnetocardiography，MCG)等多维生理时序信号的AI模型研发。主导数据清洗治理、特征工程、模型训练与性能优化的全生命周期管理。
+2.实用导向的算法攻坚:针对多维、时空特征交织的复杂生理信号，从实际临床痛点和工程瓶颈出发，精准检索并跨界迁移相关技术，快速验证并迭代具备高性价比的算法方案。
+
+任职要求:
+【基础技术基石】
+1.背景与经验:计算机、统计学、生物医学工程或相关交叉学科硕士及以上学历。具备医疗AI领域实际工作经验，有独立负责核心算法模块完整落地的项目经历。扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。
+2.专业信号处理能力: 深入理解时序及神经生理信号，熟练掌握频域、时频域分析等经典信号处理技术，并能将其与机器学习、深度学习有效结合。
+3.有心电AI、脑电AI相关处理经验者优先。","【基础技术基石】
+1.背景与经验:计算机、统计学、生物医学工程或相关交叉学科硕士及以上学历。具备医疗AI领域实际工作经验，有独立负责核心算法模块完整落地的项目经历。扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。
+2.专业信号处理能力: 深入理解时序及神经生理信号，熟练掌握频域、时频域分析等经典信号处理技术，并能将其与机器学习、深度学习有效结合。
+3.有心电AI、脑电AI相关处理经验者优先。","1.算法研发与闭环:负责心磁(Magnetocardiography，MCG)等多维生理时序信号的AI模型研发。主导数据清洗治理、特征工程、模型训练与性能优化的全生命周期管理。
+2.实用导向的算法攻坚:针对多维、时空特征交织的复杂生理信号，从实际临床痛点和工程瓶颈出发，精准检索并跨界迁移相关技术，快速验证并迭代具备高性价比的算法方案。",1-3年|硕士|机器学习|深度学习|信号处理|深度学习框架|机器学习算法|模型训练|特征工程|算法研发|时序|ai模型|五险一金|员工旅游|餐饮补贴|专业培训|年终奖金|定期体检|股票期权|部门团建经费|节假日礼品,Python|机器学习|PyTorch|深度学习,Python|机器学习|PyTorch|深度学习,Python|机器学习|PyTorch|深度学习,Python=>编程语言 || 机器学习=>人工智能 || PyTorch=>深度学习框架 || 深度学习=>人工智能,Python=>扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。 || 机器学习=>扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。 || PyTorch=>扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。 || 深度学习=>扎实的代码与AI底盘:熟练掌握 Python，精通主流机器学习算法及至少一种深度学习框架(如 PyTorch)。,requirement_text,major_missing|platform_major_unverified
+5,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,171538266,https://jobs.51job.com/shanghai-cnq/171538266.html,2026-06-20T18:59:46.745674,03bcf2e6d8ac72e5,0e1573d03c663bae,Machine Learning Engineer Lead/机器学习,山东昇润能源实业有限公司,上海,长宁区,3.5-4.5万·14薪,35000,45000,14,本科,本科,7年以上,7年及以上,7,,下限,全职,电子技术/半导体/集成电路,,外资（非欧美）,2026-06-08,2026-06-08 17:07:53,121.363271,31.223651,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"About the Role:
+61 The Software Engineering Lead performs complex research, design, and software development assignments within a software functional area or product line, and provides direct input to project plans, schedules, and methodology in the development of cross-functional software products.
+61 This Lead performs software design - typically across multiple systems; mentors members of the team and talks to local&amp; global team.
+ 
+About the Team
+61 Our Software Engineering team partners with multiple technical functions to help improve the performance of our products.
+61 We offer advice and support on all matters relating to the attraction, development, retention, engagement and management of our workforce.
+ 
+Responsibilities:
+61 Design, architect, prototype, implement, deploy, and maintain features for AI-related projects.
+61 Conduct experiments on large datasets to evaluate the feasibility, results, and performance of AI techniques.
+61 Make sound engineering decisions and improve software development practices while focusing on performance and reliability.
+61 Keep abreast of new technology developments.
+61 Communicate with key stakeholders or DevOps team cross country.
+ 
+Requirements: 
+61 Minimum of over 7 years’ experience in backend develop and at least 3 years’ leadership experience, fluent Oral English.
+61 Experienced in working with at least one programming language contain but not limited to: Python, Java, C#, .Net, etc.
+61 Experienced in public cloud AWS, and related technology not limited to Docker, K8S, CICD, DevOps, NLP basics and AI etc.
+61 Good sense of software architecture design, application scaling, performance, and security. 
+61 Strong organization/project planning, time management, and communication skills across multiple functional groups and departments, and strong delegation skills involving prioritizing and reprioritizing projects and managing projects of various size and complexity.
+61Familiarity with NLP fundamentals, large language models and AI agent frameworks.
+Benefits
+61 Work life balance
+61 RELX Benefits
+61 Health &amp; Wellness
+61 Training and Development
+ 
+About Us
+RELX is a global provider of information-based analytics and decision tools for professional and business customers.
+We help scientists make new discoveries, doctors and nurses improve the lives of patients and lawyers win cases. We prevent online fraud and money laundering, and help insurance companies evaluate and predict risk. Our events enable customers to learn about markets, source products and complete transactions. In short, we enable our customers to make better decisions, get better results and be more productive. The Group serves customers in more than 180 countries and has offices in about 40 countries. It employs over 33,000 people, of which around 1/4th are technologists.We want RELX to be a great place to work, where our employees feel valued, have equal opportunities and benefit from pay equality, regardless of their gender, gender identity, national origin, race, ethnicity, religion, sexual orientation, age or disability status. Inclusion and diversity are important to our future. We need the engagement of people from a wide range of backgrounds, experiences and ideas to achieve real innovation for our customers around the world.
+ 
+About LexisNexis Legal 
+We help lawyers win cases, manage their work more efficiently, serve their clients better and grow their practices. We assist corporations in better understanding their markets and monitoring relevant news. We partner with leading global associations and customers to help advance the Rule of Law across the world.
+Every day at LexisNexis, you will work with highly creative minds to explore impossibilities, inspire innovation, and lead the way 21st century legal content is produced, disseminated, and utilised. You have the power to empower those in need and truly make a difference to the lives of people all around the world.","About the Role:
+61 The Software Engineering Lead performs complex research, design, and software development assignments within a software functional area or product line, and provides direct input to project plans, schedules, and methodology in the development of cross-functional software products.
+61 This Lead performs software design - typically across multiple systems; mentors members of the team and talks to local& global team.
+
+About the Team
+61 Our Software Engineering team partners with multiple technical functions to help improve the performance of our products.
+61 We offer advice and support on all matters relating to the attraction, development, retention, engagement and management of our workforce.
+
+Responsibilities:
+61 Design, architect, prototype, implement, deploy, and maintain features for AI-related projects.
+61 Conduct experiments on large datasets to evaluate the feasibility, results, and performance of AI techniques.
+61 Make sound engineering decisions and improve software development practices while focusing on performance and reliability.
+61 Keep abreast of new technology developments.
+61 Communicate with key stakeholders or DevOps team cross country.
+
+Requirements:
+61 Minimum of over 7 years’ experience in backend develop and at least 3 years’ leadership experience, fluent Oral English.
+61 Experienced in working with at least one programming language contain but not limited to: Python, Java, C#, .Net, etc.
+61 Experienced in public cloud AWS, and related technology not limited to Docker, K8S, CICD, DevOps, NLP basics and AI etc.
+61 Good sense of software architecture design, application scaling, performance, and security.
+61 Strong organization/project planning, time management, and communication skills across multiple functional groups and departments, and strong delegation skills involving prioritizing and reprioritizing projects and managing projects of various size and complexity.
+61Familiarity with NLP fundamentals, large language models and AI agent frameworks.
+Benefits
+61 Work life balance
+61 RELX Benefits
+61 Health & Wellness
+61 Training and Development
+
+About Us
+RELX is a global provider of information-based analytics and decision tools for professional and business customers.
+We help scientists make new discoveries, doctors and nurses improve the lives of patients and lawyers win cases. We prevent online fraud and money laundering, and help insurance companies evaluate and predict risk. Our events enable customers to learn about markets, source products and complete transactions. In short, we enable our customers to make better decisions, get better results and be more productive. The Group serves customers in more than 180 countries and has offices in about 40 countries. It employs over 33,000 people, of which around 1/4th are technologists.We want RELX to be a great place to work, where our employees feel valued, have equal opportunities and benefit from pay equality, regardless of their gender, gender identity, national origin, race, ethnicity, religion, sexual orientation, age or disability status. Inclusion and diversity are important to our future. We need the engagement of people from a wide range of backgrounds, experiences and ideas to achieve real innovation for our customers around the world.
+
+About LexisNexis Legal
+We help lawyers win cases, manage their work more efficiently, serve their clients better and grow their practices. We assist corporations in better understanding their markets and monitoring relevant news. We partner with leading global associations and customers to help advance the Rule of Law across the world.
+Every day at LexisNexis, you will work with highly creative minds to explore impossibilities, inspire innovation, and lead the way 21st century legal content is produced, disseminated, and utilised. You have the power to empower those in need and truly make a difference to the lives of people all around the world.",,,7年及以上|本科|python|AI,Python|Java|Docker,,Python|Java|Docker,Python=>编程语言 || Java=>编程语言 || Docker=>容器技术,"Python=>61 Experienced in working with at least one programming language contain but not limited to: Python, Java, C#, .Net, etc. || Java=>61 Experienced in working with at least one programming language contain but not limited to: Python, Java, C#, .Net, etc. || Docker=>61 Experienced in public cloud AWS, and related technology not limited to Docker, K8S, CICD, DevOps, NLP basics and AI etc.",job_description_fallback,requirement_section_missing|major_missing|platform_major_unverified
+6,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,171538339,https://jobs.51job.com/shanghai-cnq/171538339.html,2026-06-20T18:59:46.760476,8b4bdb5c60d0282f,99dd85dd17f14164,Machine Learning Engineer Manager/机器学习经理,山东昇润能源实业有限公司,上海,长宁区,3.5-5.5万·14薪,35000,55000,14,本科,本科,7年以上,7年及以上,7,,下限,全职,电子技术/半导体/集成电路,,外资（非欧美）,2026-04-10,2026-04-10 17:45:10,121.363271,31.223651,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"About our Team
+LexisNexis Legal &amp; Professional, which serves customers in more than 150 countries with 11,300 employees worldwide, is part of RELX, a global provider of information-based analytics and decision tools for professional and business customers.
+About the Role
+This position provides leadership, management, direction, and vision to software engineers and/or development employees including offshore contractors/consultants and interns needed to support, run, and change activities in the software development life cycle. The position works closely with development peers, product and project leaders/managers, and other in-house software developers as well as directs the successful completion and delivery of respective software components and any other related deliverables. The position is additionally expected to report progress to senior management. Additional responsibilities may include oversight of the department budget, identifying and supporting talent, and defining resource requirements and allocations
+Key Responsibilities
+Technical Leadership &amp; Delivery
+•	Own the technical vision and roadmap for AI/ML capabilities across one or more product areas, ensuring scalability, reliability, and performance of ML systems in production.
+•	Lead design and implementation of end-to-end AI solutions using LLMs, RAG, agentic systems, MCP, and vector databases on AWS / Azure / GCP.
+•	Guide teams in building robust data and ML platforms, including data ingestion, feature engineering, experimentation, CI/CD for ML (MLOps), and observability.
+•	Review and contribute to high-impact code, architectures, and design documents; ensure adherence to engineering and architectural standards.
+•	Champion test-driven development, automated testing, and secure coding practices across services and ML pipelines.
+JD-Machine Learning Mgr
+•	Oversee system and user acceptance testing cycles to ensure high-quality, reliable business solutions.
+People &amp; Team Management
+•	Manage, coach, and grow a high-performing team of software / ML / data / MLOps engineers, including offshore or partner resources where applicable.
+•	Drive performance management: set clear goals, provide ongoing feedback, conduct reviews, and support career development and upskilling in AI/ML technologies.
+•	Foster a culture of ownership, psychological safety, experimentation, and continuous improvement.
+•	Plan and allocate resources effectively across initiatives, balancing roadmap delivery, technical debt, and innovation.
+Stakeholder &amp; Partner Management
+•	Collaborate with product management and business stakeholders to define AI use cases, success metrics, and delivery plans.
+•	Serve as primary technical point of contact for external technology partners and vendors, including offshore teams and managed service providers.
+•	Communicate technical strategy, tradeoffs, and progress to senior leadership in a clear, outcome-oriented way.
+•	Work with operations, security, and compliance teams to ensure AI solutions meet regulatory, privacy, and ethical standards.
+Governance, Standards &amp; Strategy
+•	Define and enforce engineering best practices, coding standards, and architectural guardrails for AI/ML systems.
+•	Contribute to the evolution of enterprise data and AI architecture, ensuring alignment with broader technology strategy.
+•	Participate in budget planning and tracking for team headcount, tooling, and cloud / compute resources.
+•	Stay current with industry trends in generative AI, LLMs, vector search, and ML platforms; recommend pragmatic adoption paths.
+Required Qualifications
+•	10+ years of professional software development and/or data/ML engineering experience, including delivering production systems at scale.
+JD-Machine Learning Mgr
+•	2+ years of people management experience leading engineering or ML teams (hiring, coaching, performance management, and resource planning).
+•	Bachelor’s degree in Computer Science, Engineering, Mathematics, or related field; advanced degree (MSc/PhD) in ML/AI or related area preferred.
+Technical Skills
+•	Deep expertise in modern AI/ML technologies, including:
+•	
+o	Large Language Models (LLMs), retrieval-augmented generation (RAG), and agentic workflows.
+o	Vector databases and similarity search.
+o	Cloud platforms (AWS, Azure, or GCP) and cloud-native architectures (containers, Kubernetes, serverless).
+•	Strong proficiency in Python and ML engineering best practices (modular code, testing, packaging, CI/CD).
+•	Hands-on experience with ML frameworks and tools such as PyTorch, TensorFlow, scikit-learn, Hugging Face, and orchestration/ML Ops tooling (e.g., Kubeflow, MLflow, SageMaker, Vertex AI, Databricks).
+•	Strong foundation in data modeling, SQL and NoSQL databases, and working with large, complex data sets.
+•	Proven experience designing and operating large-scale, distributed systems with high availability and observability.
+•	Experience leading or collaborating with offshore or partner teams, including managed services and staff augmentation models.
+Core Competencies
+•	Strategic Thinking: Ability to translate business goals into an AI/ML roadmap and make sound trade-offs across scope, quality, and timelines.
+•	Execution &amp; Delivery: Strong project planning, prioritization, and change-management skills across multiple initiatives and stakeholders.
+•	Problem Solving: Advanced skills in diagnosing complex technical and delivery issues and driving teams toward pragmatic solutions.
+•	Communication &amp; Influence: Excellent written and verbal communication; able to explain complex technical concepts to non-technical stakeholders and senior executives.
+•	People Leadership: Demonstrated ability to build, motivate, and retain diverse technical teams and foster an inclusive, high-trust environment.
+•	Customer Focus: Passion for understanding end-user needs and using AI/ML to deliver measurable value.","About our Team
+LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,300 employees worldwide, is part of RELX, a global provider of information-based analytics and decision tools for professional and business customers.
+About the Role
+This position provides leadership, management, direction, and vision to software engineers and/or development employees including offshore contractors/consultants and interns needed to support, run, and change activities in the software development life cycle. The position works closely with development peers, product and project leaders/managers, and other in-house software developers as well as directs the successful completion and delivery of respective software components and any other related deliverables. The position is additionally expected to report progress to senior management. Additional responsibilities may include oversight of the department budget, identifying and supporting talent, and defining resource requirements and allocations
+Key Responsibilities
+Technical Leadership & Delivery
+• Own the technical vision and roadmap for AI/ML capabilities across one or more product areas, ensuring scalability, reliability, and performance of ML systems in production.
+• Lead design and implementation of end-to-end AI solutions using LLMs, RAG, agentic systems, MCP, and vector databases on AWS / Azure / GCP.
+• Guide teams in building robust data and ML platforms, including data ingestion, feature engineering, experimentation, CI/CD for ML (MLOps), and observability.
+• Review and contribute to high-impact code, architectures, and design documents; ensure adherence to engineering and architectural standards.
+• Champion test-driven development, automated testing, and secure coding practices across services and ML pipelines.
+JD-Machine Learning Mgr
+• Oversee system and user acceptance testing cycles to ensure high-quality, reliable business solutions.
+People & Team Management
+• Manage, coach, and grow a high-performing team of software / ML / data / MLOps engineers, including offshore or partner resources where applicable.
+• Drive performance management: set clear goals, provide ongoing feedback, conduct reviews, and support career development and upskilling in AI/ML technologies.
+• Foster a culture of ownership, psychological safety, experimentation, and continuous improvement.
+• Plan and allocate resources effectively across initiatives, balancing roadmap delivery, technical debt, and innovation.
+Stakeholder & Partner Management
+• Collaborate with product management and business stakeholders to define AI use cases, success metrics, and delivery plans.
+• Serve as primary technical point of contact for external technology partners and vendors, including offshore teams and managed service providers.
+• Communicate technical strategy, tradeoffs, and progress to senior leadership in a clear, outcome-oriented way.
+• Work with operations, security, and compliance teams to ensure AI solutions meet regulatory, privacy, and ethical standards.
+Governance, Standards & Strategy
+• Define and enforce engineering best practices, coding standards, and architectural guardrails for AI/ML systems.
+• Contribute to the evolution of enterprise data and AI architecture, ensuring alignment with broader technology strategy.
+• Participate in budget planning and tracking for team headcount, tooling, and cloud / compute resources.
+• Stay current with industry trends in generative AI, LLMs, vector search, and ML platforms; recommend pragmatic adoption paths.
+Required Qualifications
+• 10+ years of professional software development and/or data/ML engineering experience, including delivering production systems at scale.
+JD-Machine Learning Mgr
+• 2+ years of people management experience leading engineering or ML teams (hiring, coaching, performance management, and resource planning).
+• Bachelor’s degree in Computer Science, Engineering, Mathematics, or related field; advanced degree (MSc/PhD) in ML/AI or related area preferred.
+Technical Skills
+• Deep expertise in modern AI/ML technologies, including:
+•
+o Large Language Models (LLMs), retrieval-augmented generation (RAG), and agentic workflows.
+o Vector databases and similarity search.
+o Cloud platforms (AWS, Azure, or GCP) and cloud-native architectures (containers, Kubernetes, serverless).
+• Strong proficiency in Python and ML engineering best practices (modular code, testing, packaging, CI/CD).
+• Hands-on experience with ML frameworks and tools such as PyTorch, TensorFlow, scikit-learn, Hugging Face, and orchestration/ML Ops tooling (e.g., Kubeflow, MLflow, SageMaker, Vertex AI, Databricks).
+• Strong foundation in data modeling, SQL and NoSQL databases, and working with large, complex data sets.
+• Proven experience designing and operating large-scale, distributed systems with high availability and observability.
+• Experience leading or collaborating with offshore or partner teams, including managed services and staff augmentation models.
+Core Competencies
+• Strategic Thinking: Ability to translate business goals into an AI/ML roadmap and make sound trade-offs across scope, quality, and timelines.
+• Execution & Delivery: Strong project planning, prioritization, and change-management skills across multiple initiatives and stakeholders.
+• Problem Solving: Advanced skills in diagnosing complex technical and delivery issues and driving teams toward pragmatic solutions.
+• Communication & Influence: Excellent written and verbal communication; able to explain complex technical concepts to non-technical stakeholders and senior executives.
+• People Leadership: Demonstrated ability to build, motivate, and retain diverse technical teams and foster an inclusive, high-trust environment.
+• Customer Focus: Passion for understanding end-user needs and using AI/ML to deliver measurable value.",,,7年及以上|本科|AI,Python|SQL|scikit-learn|TensorFlow|PyTorch,,Python|SQL|scikit-learn|TensorFlow|PyTorch,Python=>编程语言 || SQL=>查询语言 || scikit-learn=>机器学习框架 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架,"Python=>• Strong proficiency in Python and ML engineering best practices (modular code, testing, packaging, CI/CD). || SQL=>• Strong foundation in data modeling, SQL and NoSQL databases, and working with large, complex data sets. || scikit-learn=>• Hands-on experience with ML frameworks and tools such as PyTorch, TensorFlow, scikit-learn, Hugging Face, and orchestration/ML Ops tooling… || TensorFlow=>• Hands-on experience with ML frameworks and tools such as PyTorch, TensorFlow, scikit-learn, Hugging Face, and orchestration/ML Ops tooling… || PyTorch=>• Hands-on experience with ML frameworks and tools such as PyTorch, TensorFlow, scikit-learn, Hugging Face, and orchestration/ML Ops tooling…",job_description_fallback,requirement_section_missing|major_missing
+7,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,上海,020000,171929320,https://jobs.51job.com/shanghai-mhq/171929320.html,2026-06-20T18:59:53.508939,2fc8256a713d4d84,b940190767ba52b5,AI Engineer (Machine learning),科控工业自动化设备（上海）有限公司,上海,闵行区,2-2.5万·15薪,20000,25000,15,本科,本科,3年以上,3年及以上,3,,下限,全职,贸易/进出口,150-500人,外资（欧美）,2026-05-07,2026-05-07 13:46:20,121.40382,31.050096,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"[Job Description]
+-Participate in the design, development, and optimization of artificial intelligence algorithm models, including technical directions such as machine learning and deep learning;
+-Responsible for data preprocessing, feature engineering, and model training optimization to improve algorithm performance and adaptability to business scenarios;
+-Collaborate with product and R&amp;D teams to implement AI solutions and promote the transformation of technological achievements into practical applications;
+-Continuously tracking cutting-edge AI technology trends, conducting innovative research and experimental verification based on business needs;
+-Write technical documents, code
+comments, and project reports to ensure the systematic accumulation of knowledge.
+
+[Job requirements]
+-Bachelor's degree or above in computer science, artificial intelligence, data science or related majors, with a master's degree preferred;
+-Proficient in Python programming language, with over 3 years of experience in machine learning systems;
+-Good spoken English or German.","[Job Description]
+-Participate in the design, development, and optimization of artificial intelligence algorithm models, including technical directions such as machine learning and deep learning;
+-Responsible for data preprocessing, feature engineering, and model training optimization to improve algorithm performance and adaptability to business scenarios;
+-Collaborate with product and R&D teams to implement AI solutions and promote the transformation of technological achievements into practical applications;
+-Continuously tracking cutting-edge AI technology trends, conducting innovative research and experimental verification based on business needs;
+-Write technical documents, code
+comments, and project reports to ensure the systematic accumulation of knowledge.
+
+[Job requirements]
+-Bachelor's degree or above in computer science, artificial intelligence, data science or related majors, with a master's degree preferred;
+-Proficient in Python programming language, with over 3 years of experience in machine learning systems;
+-Good spoken English or German.",,,3年及以上|本科|ai|机器学习|模型训练|数据库|五险一金|补充医疗保险|交通补贴|员工旅游|餐饮补贴|通讯补贴|专业培训|出国机会|年终奖金|定期体检,Python|R,,Python|R,Python=>编程语言 || R=>编程语言,"Python=>-Proficient in Python programming language, with over 3 years of experience in machine learning systems; || R=>-Collaborate with product and R&D teams to implement AI solutions and promote the transformation of technological achievements into practica…",job_description_fallback,requirement_section_missing|major_missing|platform_major_unverified

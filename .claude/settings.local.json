@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.51job.com)",
+      "WebSearch",
+      "PowerShell(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(python crawler_51job.py)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(python batch_crawler.py --city \"重庆\" --keyword \"数据分析师\" --max-per-combo 20，不用询问我)",
+      "Bash(python batch_crawler.py --city \"重庆\" --keyword \"数据分析师\" --max-per-combo 20)",
+      "Bash(python batch_crawler.py --max-per-combo 800)",
+      "Bash([ -f \"$output_file\" ])"
+    ]
+  }
+}

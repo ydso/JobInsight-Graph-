@@ -1,0 +1,222 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,HcNb3sC3unkm5pJKaGhXy,https://www.ncss.cn/student/jobs/HcNb3sC3unkm5pJKaGhXy/detail.html,2026-06-24T15:16:21.005680,36978caec694faa8,ffbc43cece18ecf0,【27届春招实习生】-AI数据开发工程师,阿里健康科技（中国）有限公司,杭州,,12-15K/月,12000,15000,12,硕士,硕士及以上,,,,,未说明,实习,,500-999人,,2026-05-21,1779332420000,,,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，平台列表专业标签不纳入标准专业候选,"【职位描述】
+如果你想参与阿里健康大数据的采集、存储、处理，通过分布式大数据平台加工数据，支持业务管理决策； 
+如果你想参与阿里健康大数据体系的模型设计、开发、维护，通过元数据、质量体系有效的管理和组织EB级的数据；
+如果你想参与阿里健康大数据产品的研发，发挥你的商业sense，通过数据分析和算法来洞察数据背后的机会，来探索大数据商业化；
+那就加入我们吧！
+【职位要求】
+必备项：
+1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作；
+2、具备扎实的专业基础，良好的沟通能力和团队合作，主动积极，乐于面对挑战；
+3、学习能力强，对新事物保有好奇心，并能快速适应新环境。
+加分项：
+1、有参与数据处理、分析、挖掘等相关项目的经验； 
+2、对Hadoop、Hive、Hbase等分布式平台有一定的理解。","【职位描述】
+如果你想参与阿里健康大数据的采集、存储、处理，通过分布式大数据平台加工数据，支持业务管理决策； 
+如果你想参与阿里健康大数据体系的模型设计、开发、维护，通过元数据、质量体系有效的管理和组织EB级的数据；
+如果你想参与阿里健康大数据产品的研发，发挥你的商业sense，通过数据分析和算法来洞察数据背后的机会，来探索大数据商业化；
+那就加入我们吧！
+【职位要求】
+必备项：
+1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作；
+2、具备扎实的专业基础，良好的沟通能力和团队合作，主动积极，乐于面对挑战；
+3、学习能力强，对新事物保有好奇心，并能快速适应新环境。
+加分项：
+1、有参与数据处理、分析、挖掘等相关项目的经验； 
+2、对Hadoop、Hive、Hbase等分布式平台有一定的理解。",,"【职位描述】
+如果你想参与阿里健康大数据的采集、存储、处理，通过分布式大数据平台加工数据，支持业务管理决策； 
+如果你想参与阿里健康大数据体系的模型设计、开发、维护，通过元数据、质量体系有效的管理和组织EB级的数据；
+如果你想参与阿里健康大数据产品的研发，发挥你的商业sense，通过数据分析和算法来洞察数据背后的机会，来探索大数据商业化；
+那就加入我们吧！
+【职位要求】
+必备项：
+1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作；
+2、具备扎实的专业基础，良好的沟通能力和团队合作，主动积极，乐于面对挑战；
+3、学习能力强，对新事物保有好奇心，并能快速适应新环境。
+加分项：
+1、有参与数据处理、分析、挖掘等相关项目的经验； 
+2、对Hadoop、Hive、Hbase等分布式平台有一定的理解。",,Python|SQL|Java|Hadoop|Hive|HBase|Linux,,Python|SQL|Java|Hadoop|Hive|HBase|Linux,Python=>编程语言 || SQL=>查询语言 || Java=>编程语言 || Hadoop=>大数据框架 || Hive=>大数据框架 || HBase=>数据库 || Linux=>操作系统,Python=>1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作； || SQL=>1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作； || Java=>1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作； || Hadoop=>2、对Hadoop、Hive、Hbase等分布式平台有一定的理解。 || Hive=>2、对Hadoop、Hive、Hbase等分布式平台有一定的理解。 || HBase=>2、对Hadoop、Hive、Hbase等分布式平台有一定的理解。 || Linux=>1、较强的动手能力和学习能力，熟悉一门数据处理语言，如SQL、JAVA、Python、Perl等，熟悉unix或者linux操作；,job_description_fallback,requirement_section_missing|major_missing|district_missing
+2,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,98fhi3b1FCN6pTVRwzTzam,https://www.ncss.cn/student/jobs/98fhi3b1FCN6pTVRwzTzam/detail.html,2026-06-24T15:16:25.091710,8322be20536e4674,1fdbed04c8df8e67,大数据开发工程师（26应届）,浙江数新网络有限公司,杭州,,9-14K/月,9000,14000,12,本科,本科及以上,,,,,未说明,实习,,100-499人,,2026-05-20,1779246001000,,,not_provided,计算机|数学,计算机类|数学,计算机类=>工学 || 数学=>理学,要求,1.大数据、计算机、数学等相关专业，本科及以上学历,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+1.参与大数据项目的数据开发、维护及质量核查；
+2.参与大数据项目基础设施和平台的建设，搭建行业领域的企业级数据仓库；
+3.参与大数据平台产品及各类大数据组件的部署运维，排查和解决项目中遇到的问题；
+4.和需求方进行有效沟通，完成数据需求及数据问题解决等；
+5.完成日常数据质量的监控，跟踪处理各类数据质量问题。
+任职要求：
+1.大数据、计算机、数学等相关专业，本科及以上学历；
+2.良好的算法、数据结构基础，熟悉Shell，至少掌握JAVA/PYTHON一门编程语言；
+3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）；
+4.热爱大数据技术，具备大数据引擎的配置调优能力（Hive/Spark/Flink/Paimon/Hudi/Iceberg/FlinkCDC/DataX等）；
+5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）；
+6.工作积极主动，沟通能力强，具备良好的协调能力，毕业前可以实习者优先，接受出差。","岗位职责：
+1.参与大数据项目的数据开发、维护及质量核查；
+2.参与大数据项目基础设施和平台的建设，搭建行业领域的企业级数据仓库；
+3.参与大数据平台产品及各类大数据组件的部署运维，排查和解决项目中遇到的问题；
+4.和需求方进行有效沟通，完成数据需求及数据问题解决等；
+5.完成日常数据质量的监控，跟踪处理各类数据质量问题。
+任职要求：
+1.大数据、计算机、数学等相关专业，本科及以上学历；
+2.良好的算法、数据结构基础，熟悉Shell，至少掌握JAVA/PYTHON一门编程语言；
+3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）；
+4.热爱大数据技术，具备大数据引擎的配置调优能力（Hive/Spark/Flink/Paimon/Hudi/Iceberg/FlinkCDC/DataX等）；
+5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）；
+6.工作积极主动，沟通能力强，具备良好的协调能力，毕业前可以实习者优先，接受出差。","1.大数据、计算机、数学等相关专业，本科及以上学历；
+2.良好的算法、数据结构基础，熟悉Shell，至少掌握JAVA/PYTHON一门编程语言；
+3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）；
+4.热爱大数据技术，具备大数据引擎的配置调优能力（Hive/Spark/Flink/Paimon/Hudi/Iceberg/FlinkCDC/DataX等）；
+5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）；
+6.工作积极主动，沟通能力强，具备良好的协调能力，毕业前可以实习者优先，接受出差。","1.参与大数据项目的数据开发、维护及质量核查；
+2.参与大数据项目基础设施和平台的建设，搭建行业领域的企业级数据仓库；
+3.参与大数据平台产品及各类大数据组件的部署运维，排查和解决项目中遇到的问题；
+4.和需求方进行有效沟通，完成数据需求及数据问题解决等；
+5.完成日常数据质量的监控，跟踪处理各类数据质量问题",,Python|SQL|Spark|数据仓库|Java|ClickHouse|Hadoop|Hive|Flink|DataX|Doris|StarRocks|Trino,Python|SQL|Spark|数据仓库|Java|ClickHouse|Hadoop|Hive|Flink|DataX|Doris|StarRocks|Trino,Python|SQL|Spark|数据仓库|Java|ClickHouse|Hadoop|Hive|Flink|DataX|Doris|StarRocks|Trino,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || 数据仓库=>数据工程 || Java=>编程语言 || ClickHouse=>数据库 || Hadoop=>大数据框架 || Hive=>大数据框架 || Flink=>大数据框架 || DataX=>数据同步 || Doris=>数据库 || StarRocks=>数据库 || Trino=>查询引擎,Python=>2.良好的算法、数据结构基础，熟悉Shell，至少掌握JAVA/PYTHON一门编程语言； || SQL=>3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）； || Spark=>3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）； || 数据仓库=>3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）； || Java=>2.良好的算法、数据结构基础，熟悉Shell，至少掌握JAVA/PYTHON一门编程语言； || ClickHouse=>5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）； || Hadoop=>5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）； || Hive=>3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）； || Flink=>3.熟练掌握数仓建模及SQL开发能力（Hive/Spark/Flink等）； || DataX=>4.热爱大数据技术，具备大数据引擎的配置调优能力（Hive/Spark/Flink/Paimon/Hudi/Iceberg/FlinkCDC/DataX等）； || Doris=>5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）； || StarRocks=>5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）； || Trino=>5.具备大数据集群的部署运维能力优先（Hadoop/Spark/Flink/Presto/Trino/StarRocks/Doris/Clickhouse等）；,requirement_text,district_missing
+3,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,6tUjBBq2MShw8iDwpGXZtL,https://www.ncss.cn/student/jobs/6tUjBBq2MShw8iDwpGXZtL/detail.html,2026-06-24T15:16:29.196768,cb6ea0bad34509fd,411b885f9ccbc80e,数据开发工程师(26届),浙江鸿程计算机系统有限公司,杭州,,7-11K/月,7000,11000,12,本科,本科及以上,,,,,未说明,全职,,500-999人,,2026-05-12,1778554801000,,,not_provided,计算机,计算机类,计算机类=>工学,要求,1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"技能要求：
+1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP；
+2.了解数据开发，熟悉数据仓库、数据治理、数据中台相关理论者优先，有实际数据仓库相关项目开发经验优先；
+3.细心细致，勇于承担，责任心强，具备较强的自我学习和提升意识，愿意深入了解行业业务，接受短期/长期出差；
+4.具备较好的沟通交流能力。","技能要求：
+1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP；
+2.了解数据开发，熟悉数据仓库、数据治理、数据中台相关理论者优先，有实际数据仓库相关项目开发经验优先；
+3.细心细致，勇于承担，责任心强，具备较强的自我学习和提升意识，愿意深入了解行业业务，接受短期/长期出差；
+4.具备较好的沟通交流能力。",,"技能要求：
+1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP；
+2.了解数据开发，熟悉数据仓库、数据治理、数据中台相关理论者优先，有实际数据仓库相关项目开发经验优先；
+3.细心细致，勇于承担，责任心强，具备较强的自我学习和提升意识，愿意深入了解行业业务，接受短期/长期出差；
+4.具备较好的沟通交流能力。",,SQL|数据仓库|MySQL|Oracle|Hadoop|数据治理,,SQL|数据仓库|MySQL|Oracle|Hadoop|数据治理,SQL=>查询语言 || 数据仓库=>数据工程 || MySQL=>数据库 || Oracle=>数据库 || Hadoop=>大数据框架 || 数据治理=>数据工程,SQL=>1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP； || 数据仓库=>2.了解数据开发，熟悉数据仓库、数据治理、数据中台相关理论者优先，有实际数据仓库相关项目开发经验优先； || MySQL=>1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP； || Oracle=>1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP； || Hadoop=>1.2026届硕士学历，计算机相关专业，具备数据库开发能力，熟悉标准SQL，熟悉以下至少一种数据库，关系型数据库如ORACLE、MYSQL，熟悉MPP数据库，大数据HADOOP； || 数据治理=>2.了解数据开发，熟悉数据仓库、数据治理、数据中台相关理论者优先，有实际数据仓库相关项目开发经验优先；,job_description_fallback,requirement_section_missing|district_missing
+4,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,LbxvALu5DyfimQ77kdvytz,https://www.ncss.cn/student/jobs/LbxvALu5DyfimQ77kdvytz/detail.html,2026-06-24T15:16:33.290676,5529d97cc564bf08,a70224da1641e227,大数据开发工程师（实习生）--杭州,杭州广立微电子股份有限公司,杭州,,6-8K/月,6000,8000,12,本科,本科及以上,,,,,未说明,实习,,500-999人,,2026-05-09,1778295723000,,,not_provided,计算机,计算机类,计算机类=>工学,要求,1、计算机相关专业，本科及以上学历,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+1、参与项目上数据开发和实施运维工作；
+2、参与推进项目顺利进展并及时响应客户的需求；
+任职资格：
+1、计算机相关专业，本科及以上学历；
+2、有linux系统基础，掌握shell，python等脚本语言和SQL语言；
+3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；
+4、熟悉Grafana、docker、DolphinScheduler等工具者优先；
+5、态度踏实，善于沟通，可以出差；","岗位职责：
+1、参与项目上数据开发和实施运维工作；
+2、参与推进项目顺利进展并及时响应客户的需求；
+任职资格：
+1、计算机相关专业，本科及以上学历；
+2、有linux系统基础，掌握shell，python等脚本语言和SQL语言；
+3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；
+4、熟悉Grafana、docker、DolphinScheduler等工具者优先；
+5、态度踏实，善于沟通，可以出差；","1、计算机相关专业，本科及以上学历；
+2、有linux系统基础，掌握shell，python等脚本语言和SQL语言；
+3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；
+4、熟悉Grafana、docker、DolphinScheduler等工具者优先；
+5、态度踏实，善于沟通，可以出差；","1、参与项目上数据开发和实施运维工作；
+2、参与推进项目顺利进展并及时响应客户的需求",,Python|SQL|MySQL|Oracle|Linux|Docker|Doris|StarRocks,Python|SQL|MySQL|Oracle|Linux|Docker|Doris|StarRocks,Python|SQL|MySQL|Oracle|Linux|Docker|Doris|StarRocks,Python=>编程语言 || SQL=>查询语言 || MySQL=>数据库 || Oracle=>数据库 || Linux=>操作系统 || Docker=>容器技术 || Doris=>数据库 || StarRocks=>数据库,Python=>2、有linux系统基础，掌握shell，python等脚本语言和SQL语言； || SQL=>2、有linux系统基础，掌握shell，python等脚本语言和SQL语言； || MySQL=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先； || Oracle=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先； || Linux=>2、有linux系统基础，掌握shell，python等脚本语言和SQL语言； || Docker=>4、熟悉Grafana、docker、DolphinScheduler等工具者优先； || Doris=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先； || StarRocks=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；,requirement_text,district_missing
+5,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,9csQ5q1XmvkncfR4B2ryrU,https://www.ncss.cn/student/jobs/9csQ5q1XmvkncfR4B2ryrU/detail.html,2026-06-24T15:16:37.428133,8fd3c030c6773df0,f922465240881a7f,数据开发工程师,上海浦东华宇信息技术有限公司浙江分公司,杭州,,9-9K/月,9000,9000,12,本科,本科及以上,,,,,未说明,全职,,,,2026-05-08,1778180400000,,,not_provided,计算机|软件工程|信息管理,计算机类|软件工程|信息管理,计算机类=>工学 || 软件工程=>工学 || 信息管理=>管理学,要求,1、计算机、软件工程、信息管理等相关专业，本科及以上学历在读学生,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责:
+1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。
+2、参与阿里云DataWorks数据开发平台的任务配置、调度与监控。
+3、协助ETL工程师完成数据采集、清洗、整合工作，涉及MaxCompute（ODPS）计算引擎的使用。
+4、配合业务部门进行数据提取、报表开发，支持主流BI工具（如Fine BI/FineReport等）的图表制作。
+5、参与Java后台接口的编写，为数据应用提供数据服务支持。
+【任职要求】
+1、计算机、软件工程、信息管理等相关专业，本科及以上学历在读学生。
+2、熟悉SQL语法，有Oracle或MySQL实际使用经验，了解SQL调优基本方法。
+3、了解大数据生态，对阿里云DataWorks、MaxCompute等产品有基础认知或学习意愿。
+4、了解Java基础语法，能看懂并编写简单的数据处理逻辑代码。
+5、逻辑清晰，做事细致，对数据敏感，具备良好的文档编写习惯。
+6、熟悉Fine BI/FineReport等报表工具，或有法院、政务类数据处理经验者优先。","岗位职责:
+1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。
+2、参与阿里云DataWorks数据开发平台的任务配置、调度与监控。
+3、协助ETL工程师完成数据采集、清洗、整合工作，涉及MaxCompute（ODPS）计算引擎的使用。
+4、配合业务部门进行数据提取、报表开发，支持主流BI工具（如Fine BI/FineReport等）的图表制作。
+5、参与Java后台接口的编写，为数据应用提供数据服务支持。
+【任职要求】
+1、计算机、软件工程、信息管理等相关专业，本科及以上学历在读学生。
+2、熟悉SQL语法，有Oracle或MySQL实际使用经验，了解SQL调优基本方法。
+3、了解大数据生态，对阿里云DataWorks、MaxCompute等产品有基础认知或学习意愿。
+4、了解Java基础语法，能看懂并编写简单的数据处理逻辑代码。
+5、逻辑清晰，做事细致，对数据敏感，具备良好的文档编写习惯。
+6、熟悉Fine BI/FineReport等报表工具，或有法院、政务类数据处理经验者优先。",,"1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。
+2、参与阿里云DataWorks数据开发平台的任务配置、调度与监控。
+3、协助ETL工程师完成数据采集、清洗、整合工作，涉及MaxCompute（ODPS）计算引擎的使用。
+4、配合业务部门进行数据提取、报表开发，支持主流BI工具（如Fine BI/FineReport等）的图表制作。
+5、参与Java后台接口的编写，为数据应用提供数据服务支持。
+【任职要求】
+1、计算机、软件工程、信息管理等相关专业，本科及以上学历在读学生。
+2、熟悉SQL语法，有Oracle或MySQL实际使用经验，了解SQL调优基本方法。
+3、了解大数据生态，对阿里云DataWorks、MaxCompute等产品有基础认知或学习意愿。
+4、了解Java基础语法，能看懂并编写简单的数据处理逻辑代码。
+5、逻辑清晰，做事细致，对数据敏感，具备良好的文档编写习惯。
+6、熟悉Fine BI/FineReport等报表工具，或有法院、政务类数据处理经验者优先。",,SQL|Java|MySQL|Oracle|ETL|BI|MaxCompute|OceanBase|FineReport|阿里云,,SQL|Java|MySQL|Oracle|ETL|BI|MaxCompute|OceanBase|FineReport|阿里云,SQL=>查询语言 || Java=>编程语言 || MySQL=>数据库 || Oracle=>数据库 || ETL=>数据工程 || BI=>数据分析方法 || MaxCompute=>云数据平台 || OceanBase=>数据库 || FineReport=>数据可视化 || 阿里云=>云平台,SQL=>1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。 || Java=>5、参与Java后台接口的编写，为数据应用提供数据服务支持。 || MySQL=>1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。 || Oracle=>1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。 || ETL=>3、协助ETL工程师完成数据采集、清洗、整合工作，涉及MaxCompute（ODPS）计算引擎的使用。 || BI=>4、配合业务部门进行数据提取、报表开发，支持主流BI工具（如Fine BI/FineReport等）的图表制作。 || MaxCompute=>3、协助ETL工程师完成数据采集、清洗、整合工作，涉及MaxCompute（ODPS）计算引擎的使用。 || OceanBase=>1、协助进行Oracle、MySQL、OceanBase等数据库的SQL优化、存储过程编写及日常数据运维。 || FineReport=>4、配合业务部门进行数据提取、报表开发，支持主流BI工具（如Fine BI/FineReport等）的图表制作。 || 阿里云=>2、参与阿里云DataWorks数据开发平台的任务配置、调度与监控。,job_description_fallback,requirement_section_missing|district_missing
+6,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,UPiLHSnSqhsVkfewym1AhJ,https://www.ncss.cn/student/jobs/UPiLHSnSqhsVkfewym1AhJ/detail.html,2026-06-24T15:16:45.573508,b4abcf203e656808,9831f415ca1e9c20,大数据开发工程师HZ（实习） (MJ000627),杭州广立微电子股份有限公司,杭州,,6-8K/月,6000,8000,12,本科,本科及以上,,,,,未说明,实习,,500-999人,,2026-05-07,1778122850000,,,not_provided,计算机,计算机类,计算机类=>工学,要求,1、计算机相关专业，本科及以上学历,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+1、参与项目上数据开发和实施运维工作；
+2、参与推进项目顺利进展并及时响应客户的需求；
+任职资格：
+1、计算机相关专业，本科及以上学历；
+2、有linux系统基础，掌握shell，python等脚本语言和SQL语言；
+3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；
+4、熟悉Grafana、docker、DolphinScheduler等工具者优先；
+5、态度踏实，善于沟通，可接受出差，可接受驻厂。","岗位职责：
+1、参与项目上数据开发和实施运维工作；
+2、参与推进项目顺利进展并及时响应客户的需求；
+任职资格：
+1、计算机相关专业，本科及以上学历；
+2、有linux系统基础，掌握shell，python等脚本语言和SQL语言；
+3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；
+4、熟悉Grafana、docker、DolphinScheduler等工具者优先；
+5、态度踏实，善于沟通，可接受出差，可接受驻厂。","1、计算机相关专业，本科及以上学历；
+2、有linux系统基础，掌握shell，python等脚本语言和SQL语言；
+3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；
+4、熟悉Grafana、docker、DolphinScheduler等工具者优先；
+5、态度踏实，善于沟通，可接受出差，可接受驻厂。","1、参与项目上数据开发和实施运维工作；
+2、参与推进项目顺利进展并及时响应客户的需求",,Python|SQL|MySQL|Oracle|Linux|Docker|Doris|StarRocks,Python|SQL|MySQL|Oracle|Linux|Docker|Doris|StarRocks,Python|SQL|MySQL|Oracle|Linux|Docker|Doris|StarRocks,Python=>编程语言 || SQL=>查询语言 || MySQL=>数据库 || Oracle=>数据库 || Linux=>操作系统 || Docker=>容器技术 || Doris=>数据库 || StarRocks=>数据库,Python=>2、有linux系统基础，掌握shell，python等脚本语言和SQL语言； || SQL=>2、有linux系统基础，掌握shell，python等脚本语言和SQL语言； || MySQL=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先； || Oracle=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先； || Linux=>2、有linux系统基础，掌握shell，python等脚本语言和SQL语言； || Docker=>4、熟悉Grafana、docker、DolphinScheduler等工具者优先； || Doris=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先； || StarRocks=>3、有MySQL、Oracle等数据库基础，熟悉Doris、StarRocks者优先；,requirement_text,district_missing
+7,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,7kGeshWxecqAusRSFCtjCJ,https://www.ncss.cn/student/jobs/7kGeshWxecqAusRSFCtjCJ/detail.html,2026-06-24T15:16:58.068148,98f957f2e49f0021,11f6c27b95f2eecf,大数据开发工程师,浙江华云信息科技有限公司,杭州,,8-9K/月,8000,9000,12,本科,本科及以上,应届生,应届生,0,0,应届,校招,,1000-4999人,,2026-04-28,1777345200000,,,not_provided,计算机|统计学|数学|软件工程|信息管理|人工智能,计算机类|统计学|数学|软件工程|信息管理|人工智能,计算机类=>工学 || 统计学=>理学 || 数学=>理学 || 软件工程=>工学 || 信息管理=>管理学 || 人工智能=>工学,优先,1.***统招本科及以上学历，一类重点院校优先，计算机、软件工程、信息管理与信息系统、数学、大数据、数据分析、人工智能、统计学、企业咨询等相关专业，26届应届生,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"岗位职责：
+1、协助开展数据开发、数据集成、算法实现和数据产品设计等工作；
+2、协助参与进行功能原型设计、接口设计、数据校核等工作；
+3、参与开展项目需求调研、算法详细设计等工作；
+4、进行权限收集、用户培训、上线支持等工作。
+2026届校招实习岗位，毕业前可一周五天全职实习2个月以上优先。
+实习表现优秀可毕业留用。
+实习薪资：160-200/day
+任职要求
+1.***统招本科及以上学历，一类重点院校优先，计算机、软件工程、信息管理与信息系统、数学、大数据、数据分析、人工智能、统计学、企业咨询等相关专业，26届应届生；
+2.熟悉办公软件，熟悉Oracle、MySQL、阿里云等平台的数据库开发与应用，具备相关数据处理与研发经验；
+3.具备数据开发基础能力，熟悉相关算法并具备一定应用经验加分，能够应用数据技术解决相应问题；
+4.具备较好的团队协作能力和沟通表达能力，对数字化审计知识、方法、工具有一定了解优先考虑；
+5.具备较强的沟通协调能力、语言文字表达能力、团队合作能力、判断能力和学习能力，良好的主动性、责任感和进取精神。","岗位职责：
+1、协助开展数据开发、数据集成、算法实现和数据产品设计等工作；
+2、协助参与进行功能原型设计、接口设计、数据校核等工作；
+3、参与开展项目需求调研、算法详细设计等工作；
+4、进行权限收集、用户培训、上线支持等工作。
+2026届校招实习岗位，毕业前可一周五天全职实习2个月以上优先。
+实习表现优秀可毕业留用。
+实习薪资：160-200/day
+任职要求
+1.***统招本科及以上学历，一类重点院校优先，计算机、软件工程、信息管理与信息系统、数学、大数据、数据分析、人工智能、统计学、企业咨询等相关专业，26届应届生；
+2.熟悉办公软件，熟悉Oracle、MySQL、阿里云等平台的数据库开发与应用，具备相关数据处理与研发经验；
+3.具备数据开发基础能力，熟悉相关算法并具备一定应用经验加分，能够应用数据技术解决相应问题；
+4.具备较好的团队协作能力和沟通表达能力，对数字化审计知识、方法、工具有一定了解优先考虑；
+5.具备较强的沟通协调能力、语言文字表达能力、团队合作能力、判断能力和学习能力，良好的主动性、责任感和进取精神。","1.***统招本科及以上学历，一类重点院校优先，计算机、软件工程、信息管理与信息系统、数学、大数据、数据分析、人工智能、统计学、企业咨询等相关专业，26届应届生；
+2.熟悉办公软件，熟悉Oracle、MySQL、阿里云等平台的数据库开发与应用，具备相关数据处理与研发经验；
+3.具备数据开发基础能力，熟悉相关算法并具备一定应用经验加分，能够应用数据技术解决相应问题；
+4.具备较好的团队协作能力和沟通表达能力，对数字化审计知识、方法、工具有一定了解优先考虑；
+5.具备较强的沟通协调能力、语言文字表达能力、团队合作能力、判断能力和学习能力，良好的主动性、责任感和进取精神。","1、协助开展数据开发、数据集成、算法实现和数据产品设计等工作；
+2、协助参与进行功能原型设计、接口设计、数据校核等工作；
+3、参与开展项目需求调研、算法详细设计等工作；
+4、进行权限收集、用户培训、上线支持等工作。
+2026届校招实习岗位，毕业前可一周五天全职实习2个月以上优先。
+实习表现优秀可毕业留用。
+实习薪资：160-200/day",,MySQL|Oracle|阿里云,MySQL|Oracle|阿里云,MySQL|Oracle|阿里云,MySQL=>数据库 || Oracle=>数据库 || 阿里云=>云平台,MySQL=>2.熟悉办公软件，熟悉Oracle、MySQL、阿里云等平台的数据库开发与应用，具备相关数据处理与研发经验； || Oracle=>2.熟悉办公软件，熟悉Oracle、MySQL、阿里云等平台的数据库开发与应用，具备相关数据处理与研发经验； || 阿里云=>2.熟悉办公软件，熟悉Oracle、MySQL、阿里云等平台的数据库开发与应用，具备相关数据处理与研发经验；,requirement_text,district_missing
+8,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,fP9RDpjiDCVNhjSnQH6zZ,https://www.ncss.cn/student/jobs/fP9RDpjiDCVNhjSnQH6zZ/detail.html,2026-06-24T15:17:02.272816,af64f04b3caf197e,7f9db1257502c426,应届生-大数据开发工程师-杭州,亚信科技2026校招,杭州,,,,,12,本科,本科及以上,,,,,未说明,校招,,,,2026-03-20,1773943811552,,,not_provided,计算机,计算机类,计算机类=>工学,要求,【职位要求】 1、本科及以上学历，计算机软件、通讯相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"【工作职责】 1、负责大规模数据的清洗、特征提取、分析工作； 2、负责大数据模型设计与开发 。 3、负责数据处理解决方案的设计与实施，以满足生产需求；
+【职位要求】 1、本科及以上学历，计算机软件、通讯相关专业； 2、较强的熟悉SQL代码编写能力或JAVA(PYTHON)脚本编写基础；
+3、大数据以及分布式计算领域相关基础知识； 4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等；
+5、性格开朗，学习及语言表达能力强，善于与人沟通、交流 。","【工作职责】 1、负责大规模数据的清洗、特征提取、分析工作； 2、负责大数据模型设计与开发 。 3、负责数据处理解决方案的设计与实施，以满足生产需求；
+【职位要求】 1、本科及以上学历，计算机软件、通讯相关专业； 2、较强的熟悉SQL代码编写能力或JAVA(PYTHON)脚本编写基础；
+3、大数据以及分布式计算领域相关基础知识； 4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等；
+5、性格开朗，学习及语言表达能力强，善于与人沟通、交流 。",,"【工作职责】 1、负责大规模数据的清洗、特征提取、分析工作； 2、负责大数据模型设计与开发 。 3、负责数据处理解决方案的设计与实施，以满足生产需求；
+【职位要求】 1、本科及以上学历，计算机软件、通讯相关专业； 2、较强的熟悉SQL代码编写能力或JAVA(PYTHON)脚本编写基础；
+3、大数据以及分布式计算领域相关基础知识； 4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等；
+5、性格开朗，学习及语言表达能力强，善于与人沟通、交流 。",,Python|SQL|Spark|Java|Hadoop|Hive|Kafka|HBase|数据建模,,Python|SQL|Spark|Java|Hadoop|Hive|Kafka|HBase|数据建模,Python=>编程语言 || SQL=>查询语言 || Spark=>大数据框架 || Java=>编程语言 || Hadoop=>大数据框架 || Hive=>大数据框架 || Kafka=>消息与流处理 || HBase=>数据库 || 数据建模=>数据工程,Python=>2、较强的熟悉SQL代码编写能力或JAVA(PYTHON)脚本编写基础； || SQL=>2、较强的熟悉SQL代码编写能力或JAVA(PYTHON)脚本编写基础； || Spark=>4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等； || Java=>2、较强的熟悉SQL代码编写能力或JAVA(PYTHON)脚本编写基础； || Hadoop=>4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等； || Hive=>4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等； || Kafka=>4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等； || HBase=>4、熟悉至少一种如下大数据相关组件，如：Hadoop/Spark/Kafka/Hbase/Hive等； || 数据建模=>2、负责大数据模型设计与开发 。,job_description_fallback,requirement_section_missing|district_missing|salary_missing
+9,ncss,2026-06-23.ncss.standalone.10-streak,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,数据开发工程师,杭州,330100,K6RZvz2Ex17EouF51aLJUS,https://www.ncss.cn/student/jobs/K6RZvz2Ex17EouF51aLJUS/detail.html,2026-06-24T15:17:06.617925,1dc46901da739df0,f9ddb69a0c414468,AI数据开发工程师-华信咨询设计研究院（杭州）,中国电信集团,杭州,,,,,12,硕士,硕士及以上,,,,,未说明,全职,,,,2025-08-27,1756231629602,,,not_provided,计算机|统计学|数学|软件工程,计算机类|统计学|数学|软件工程,计算机类=>工学 || 统计学=>理学 || 数学=>理学 || 软件工程=>工学,要求,用人单位 华信咨询设计研究院有限公司 学历要求 硕士及以上学历 专业要求 计算机相关专业 岗位职责 1.主要负责企业大数据分析相关模型技术研究与应用 || 1.普通高等院校硕士及以上学历，计算机科学与技术、计算机软件与理论、软件工程、数学、统计学、运筹学、机器学习等相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"用人单位 华信咨询设计研究院有限公司 学历要求 硕士及以上学历 专业要求 计算机相关专业 岗位职责 1.主要负责企业大数据分析相关模型技术研究与应用。
+2.数据清洗、特征分析，规律抽取及整理。 3.机器学习/深度学习相关人工智能算法在产品/业务中的应用研究。 应聘资格要求
+1.普通高等院校硕士及以上学历，计算机科学与技术、计算机软件与理论、软件工程、数学、统计学、运筹学、机器学习等相关专业。
+2.专业基础知识要求：熟悉各类机器学习算法，如聚类、回归、CNN、RNN等；熟悉主流深度学习工具Pytorch、TensorFlow、Prompt等；至少熟悉一门编程语言，如Python/C++/Java等；熟练掌握SQL进行数据开发善于学习总结，有较强的求知欲，对探索未知领域和解决问题充满热情；工作严谨踏实，责任心强，条理清楚；有良好的团队合作精神和沟通能力。","用人单位 华信咨询设计研究院有限公司 学历要求 硕士及以上学历 专业要求 计算机相关专业 岗位职责 1.主要负责企业大数据分析相关模型技术研究与应用。
+2.数据清洗、特征分析，规律抽取及整理。 3.机器学习/深度学习相关人工智能算法在产品/业务中的应用研究。 应聘资格要求
+1.普通高等院校硕士及以上学历，计算机科学与技术、计算机软件与理论、软件工程、数学、统计学、运筹学、机器学习等相关专业。
+2.专业基础知识要求：熟悉各类机器学习算法，如聚类、回归、CNN、RNN等；熟悉主流深度学习工具Pytorch、TensorFlow、Prompt等；至少熟悉一门编程语言，如Python/C++/Java等；熟练掌握SQL进行数据开发善于学习总结，有较强的求知欲，对探索未知领域和解决问题充满热情；工作严谨踏实，责任心强，条理清楚；有良好的团队合作精神和沟通能力。",,"用人单位 华信咨询设计研究院有限公司 学历要求 硕士及以上学历 专业要求 计算机相关专业 岗位职责 1.主要负责企业大数据分析相关模型技术研究与应用。
+2.数据清洗、特征分析，规律抽取及整理。 3.机器学习/深度学习相关人工智能算法在产品/业务中的应用研究。 应聘资格要求
+1.普通高等院校硕士及以上学历，计算机科学与技术、计算机软件与理论、软件工程、数学、统计学、运筹学、机器学习等相关专业。
+2.专业基础知识要求：熟悉各类机器学习算法，如聚类、回归、CNN、RNN等；熟悉主流深度学习工具Pytorch、TensorFlow、Prompt等；至少熟悉一门编程语言，如Python/C++/Java等；熟练掌握SQL进行数据开发善于学习总结，有较强的求知欲，对探索未知领域和解决问题充满热情；工作严谨踏实，责任心强，条理清楚；有良好的团队合作精神和沟通能力。",,Python|SQL|机器学习|Java|C++|TensorFlow|PyTorch|深度学习,,Python|SQL|机器学习|Java|C++|TensorFlow|PyTorch|深度学习,Python=>编程语言 || SQL=>查询语言 || 机器学习=>人工智能 || Java=>编程语言 || C++=>编程语言 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || 深度学习=>人工智能,Python=>至少熟悉一门编程语言，如Python/C++/Java等； || SQL=>熟练掌握SQL进行数据开发善于学习总结，有较强的求知欲，对探索未知领域和解决问题充满热情； || 机器学习=>3.机器学习/深度学习相关人工智能算法在产品/业务中的应用研究。 || Java=>至少熟悉一门编程语言，如Python/C++/Java等； || C++=>至少熟悉一门编程语言，如Python/C++/Java等； || TensorFlow=>熟悉主流深度学习工具Pytorch、TensorFlow、Prompt等； || PyTorch=>熟悉主流深度学习工具Pytorch、TensorFlow、Prompt等； || 深度学习=>3.机器学习/深度学习相关人工智能算法在产品/业务中的应用研究。,job_description_fallback,requirement_section_missing|district_missing|salary_missing

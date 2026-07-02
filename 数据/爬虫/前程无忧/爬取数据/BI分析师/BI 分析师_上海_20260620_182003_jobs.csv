@@ -1,0 +1,330 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,172527036,https://jobs.51job.com/shanghai-sjq/172527036.html,2026-06-20T18:20:07.165436,dda476dbd17f3ab0,9888605e0be56738,BI工程师,锐奇控股股份有限公司,上海,松江区,1.8-2.5万,18000,25000,12,本科,本科,3年以上,3年及以上,3,,下限,全职,机械/设备/重工,500-1000人,已上市,2026-06-12,2026-06-12 10:03:03,121.290072,31.053444,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"工作职责：
+1、负责集团内部相关系统各类可视化报表数据抽取、清洗、汇总、展示
+2、负责设计和实现ETL流程，确保数据的准确性和完整性
+3、熟练使用Finebi、FineReport等工具，根据业务需求，开发和维护交互式报表和仪表盘，支持业务部门的决策需求
+4、负责对接各部门需求，评估报表需求可行性以及工期,根据项目需求参与需求分析，负责项目中的BI设计、实施和开发
+5、基于报表产品对数据结构的要求，反向推动应用层数据的完善及落地实施
+6、完成领导安排的其他桌面运维、信息部耗材购买的流程工作
+任职要求：
+1、深刻理解BI开发相关技术，如数据仓库、ETL、数据治理等。熟悉和了解数据仓库，精通ETL 工具，如Kettle或其他;
+2、精通SQL,熟练运用SQL、Excel对数据进行处理分析，熟悉Sqlserver、Mysql等常用数据库；
+3、熟悉ETL工具Kettle等，熟练使用Finebi、FineReport，能够熟练进行BI项目的分析设计和开发工作。
+4、具备数据敏感性、有一定的数据分析、处理和解决问题的能力；
+5、具备较强逻辑思维能力、良好的沟通能力、快速学习能力，富有责任心及团队协作精神","工作职责：
+1、负责集团内部相关系统各类可视化报表数据抽取、清洗、汇总、展示
+2、负责设计和实现ETL流程，确保数据的准确性和完整性
+3、熟练使用Finebi、FineReport等工具，根据业务需求，开发和维护交互式报表和仪表盘，支持业务部门的决策需求
+4、负责对接各部门需求，评估报表需求可行性以及工期,根据项目需求参与需求分析，负责项目中的BI设计、实施和开发
+5、基于报表产品对数据结构的要求，反向推动应用层数据的完善及落地实施
+6、完成领导安排的其他桌面运维、信息部耗材购买的流程工作
+任职要求：
+1、深刻理解BI开发相关技术，如数据仓库、ETL、数据治理等。熟悉和了解数据仓库，精通ETL 工具，如Kettle或其他;
+2、精通SQL,熟练运用SQL、Excel对数据进行处理分析，熟悉Sqlserver、Mysql等常用数据库；
+3、熟悉ETL工具Kettle等，熟练使用Finebi、FineReport，能够熟练进行BI项目的分析设计和开发工作。
+4、具备数据敏感性、有一定的数据分析、处理和解决问题的能力；
+5、具备较强逻辑思维能力、良好的沟通能力、快速学习能力，富有责任心及团队协作精神","1、深刻理解BI开发相关技术，如数据仓库、ETL、数据治理等。熟悉和了解数据仓库，精通ETL 工具，如Kettle或其他;
+2、精通SQL,熟练运用SQL、Excel对数据进行处理分析，熟悉Sqlserver、Mysql等常用数据库；
+3、熟悉ETL工具Kettle等，熟练使用Finebi、FineReport，能够熟练进行BI项目的分析设计和开发工作。
+4、具备数据敏感性、有一定的数据分析、处理和解决问题的能力；
+5、具备较强逻辑思维能力、良好的沟通能力、快速学习能力，富有责任心及团队协作精神","1、负责集团内部相关系统各类可视化报表数据抽取、清洗、汇总、展示
+2、负责设计和实现ETL流程，确保数据的准确性和完整性
+3、熟练使用Finebi、FineReport等工具，根据业务需求，开发和维护交互式报表和仪表盘，支持业务部门的决策需求
+4、负责对接各部门需求，评估报表需求可行性以及工期,根据项目需求参与需求分析，负责项目中的BI设计、实施和开发
+5、基于报表产品对数据结构的要求，反向推动应用层数据的完善及落地实施
+6、完成领导安排的其他桌面运维、信息部耗材购买的流程工作",3年及以上|本科|mysql|数据库|数据分析|excel|需求分析|sql|sqlserver|数据结构|etl|kettle,SQL|数据仓库|MySQL|FineBI|Excel|ETL|数据治理|数据可视化,SQL|数据仓库|MySQL|FineBI|Excel|ETL|数据治理,SQL|数据仓库|MySQL|FineBI|Excel|ETL|数据治理,SQL=>查询语言 || 数据仓库=>数据工程 || MySQL=>数据库 || FineBI=>数据可视化 || Excel=>办公与分析工具 || ETL=>数据工程 || 数据治理=>数据工程,"SQL=>2、精通SQL,熟练运用SQL、Excel对数据进行处理分析，熟悉Sqlserver、Mysql等常用数据库； || 数据仓库=>1、深刻理解BI开发相关技术，如数据仓库、ETL、数据治理等。 || MySQL=>2、精通SQL,熟练运用SQL、Excel对数据进行处理分析，熟悉Sqlserver、Mysql等常用数据库； || FineBI=>3、熟悉ETL工具Kettle等，熟练使用Finebi、FineReport，能够熟练进行BI项目的分析设计和开发工作。 || Excel=>2、精通SQL,熟练运用SQL、Excel对数据进行处理分析，熟悉Sqlserver、Mysql等常用数据库； || ETL=>1、深刻理解BI开发相关技术，如数据仓库、ETL、数据治理等。 || 数据治理=>1、深刻理解BI开发相关技术，如数据仓库、ETL、数据治理等。",requirement_text,major_missing|platform_major_unverified
+2,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,171762918,https://jobs.51job.com/shanghai-jaq/171762918.html,2026-06-20T18:20:07.166437,503e7d1b96124134,bc3141a5dc41a70f,bi数据工程师,上海伍贤信息技术股份有限公司,上海,静安区,1.2-1.5万·13薪,12000,15000,13,本科,本科,5年以上,5年及以上,5,,下限,全职,计算机服务(系统、数据服务、维修),50-150人,已上市,2026-04-23,2026-04-23 14:32:09,121.456596,31.298724,confirmed_by_description,计算机|数据科学|软件工程,计算机类|数据科学|软件工程,计算机类=>工学 || 数据科学=>工学 || 软件工程=>工学,要求,1.本科及以上学历，计算机、软件工程、数据科学等相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"本岗位长期驻场至知名外企
+
+【岗位描述】
+1.负责日常数据报表运维工作
+2.负责powerbi数据报表开发
+3.负责日常需求整理及需求沟通
+
+【任职条件】
+1.本科及以上学历，计算机、软件工程、数据科学等相关专业;
+2.5年以上大数据开发经验，接口开发经验,数据分析经验
+3.对Python,Java熟悉，能够独立进行数据开发
+4.熟悉Azure ,阿里云等云产品数据组件","本岗位长期驻场至知名外企
+
+【岗位描述】
+1.负责日常数据报表运维工作
+2.负责powerbi数据报表开发
+3.负责日常需求整理及需求沟通
+
+【任职条件】
+1.本科及以上学历，计算机、软件工程、数据科学等相关专业;
+2.5年以上大数据开发经验，接口开发经验,数据分析经验
+3.对Python,Java熟悉，能够独立进行数据开发
+4.熟悉Azure ,阿里云等云产品数据组件","1.本科及以上学历，计算机、软件工程、数据科学等相关专业;
+2.5年以上大数据开发经验，接口开发经验,数据分析经验
+3.对Python,Java熟悉，能够独立进行数据开发
+4.熟悉Azure ,阿里云等云产品数据组件","本岗位长期驻场至知名外企
+
+【岗位描述】
+1.负责日常数据报表运维工作
+2.负责powerbi数据报表开发
+3.负责日常需求整理及需求沟通",5年及以上|本科|计算机|java|数据分析|软件工程|大数据|ai|数据采集|接口开发|阿里云|数据开发,Python|Java|Power BI,Python|Java,Python|Java,Python=>编程语言 || Java=>编程语言,"Python=>3.对Python,Java熟悉，能够独立进行数据开发 || Java=>3.对Python,Java熟悉，能够独立进行数据开发",requirement_text,
+3,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,163466454,https://jobs.51job.com/shanghai-mhq/163466454.html,2026-06-20T18:20:07.170656,8b77aa68bc0a402a,07cc456a9ec62f7a,bi数据工程师,上海延安药业有限公司,上海,闵行区,1.2-1.8万·13薪,12000,18000,13,本科,本科,3-5年,3-5年,3,5,区间,全职,制药/生物工程,500-1000人,民营,2026-06-15,2026-06-15 09:11:45,121.393641,31.121512,not_provided,,,,要求,10、梳理和掌握相关专业领域的业务逻辑，并撰写相关文档,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"工作内容
+1、负责集团内部相关系统各类综合报表、可视化图表、数据分析报告产出；
+2、负责数据模型指标搭建和维护，运维追踪和分析，确保各类指标数据的准确性及有效性；
+3、通过数据分析，提取新的业务价值或支持产品改进及新模式的探索；
+4、负责数据可视化的产品管理及应用扩展。
+5、根据项目需求参与需求分析，负责项目中的BI实施和开发；
+6、参与公司数仓建设，设计结构合理、性能优秀的表结构与抽取方案，以及定时与实时ETL开发与维护；
+7、参与公司docker、mysql、kettle等服务的搭建与维护，并维持服务器的稳定运行； 
+8、数据可视化方案设计与开发，能够结合业务场景设计出实用的可视化方案，并提供优秀的用户体验；
+9、协助数据治理工作，包括数据从收集、存储、清洗、转换到使用等各环节的质量和安全等；
+10、梳理和掌握相关专业领域的业务逻辑，并撰写相关文档。
+任职资格：
+1、本科及以上学历，3-5年相关领域和行业的数据分析等相关经验；
+2、深刻理解BI开发相关技术，如数据仓库、建模理论、ETL、数据治理等。熟悉和了解数据仓库设计，精通一种以上主流 ETL 工具，如 Alteryx，Kettle，Talend，DataStage或其他;
+3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库；
+4、熟悉可视化呈现工具，具有Tableau、FineReport/FineBI、Python等实战经验者优先，精通者或有相关证书者犹佳；
+5、具备数据敏感性、有一定的数据分析、处理和解决问题的能力；
+6、具备较强逻辑思维能力、良好的沟通能力、快速学习能力，富有责任心及团队协作精神；","工作内容
+1、负责集团内部相关系统各类综合报表、可视化图表、数据分析报告产出；
+2、负责数据模型指标搭建和维护，运维追踪和分析，确保各类指标数据的准确性及有效性；
+3、通过数据分析，提取新的业务价值或支持产品改进及新模式的探索；
+4、负责数据可视化的产品管理及应用扩展。
+5、根据项目需求参与需求分析，负责项目中的BI实施和开发；
+6、参与公司数仓建设，设计结构合理、性能优秀的表结构与抽取方案，以及定时与实时ETL开发与维护；
+7、参与公司docker、mysql、kettle等服务的搭建与维护，并维持服务器的稳定运行；
+8、数据可视化方案设计与开发，能够结合业务场景设计出实用的可视化方案，并提供优秀的用户体验；
+9、协助数据治理工作，包括数据从收集、存储、清洗、转换到使用等各环节的质量和安全等；
+10、梳理和掌握相关专业领域的业务逻辑，并撰写相关文档。
+任职资格：
+1、本科及以上学历，3-5年相关领域和行业的数据分析等相关经验；
+2、深刻理解BI开发相关技术，如数据仓库、建模理论、ETL、数据治理等。熟悉和了解数据仓库设计，精通一种以上主流 ETL 工具，如 Alteryx，Kettle，Talend，DataStage或其他;
+3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库；
+4、熟悉可视化呈现工具，具有Tableau、FineReport/FineBI、Python等实战经验者优先，精通者或有相关证书者犹佳；
+5、具备数据敏感性、有一定的数据分析、处理和解决问题的能力；
+6、具备较强逻辑思维能力、良好的沟通能力、快速学习能力，富有责任心及团队协作精神；","1、本科及以上学历，3-5年相关领域和行业的数据分析等相关经验；
+2、深刻理解BI开发相关技术，如数据仓库、建模理论、ETL、数据治理等。熟悉和了解数据仓库设计，精通一种以上主流 ETL 工具，如 Alteryx，Kettle，Talend，DataStage或其他;
+3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库；
+4、熟悉可视化呈现工具，具有Tableau、FineReport/FineBI、Python等实战经验者优先，精通者或有相关证书者犹佳；
+5、具备数据敏感性、有一定的数据分析、处理和解决问题的能力；
+6、具备较强逻辑思维能力、良好的沟通能力、快速学习能力，富有责任心及团队协作精神；","1、负责集团内部相关系统各类综合报表、可视化图表、数据分析报告产出；
+2、负责数据模型指标搭建和维护，运维追踪和分析，确保各类指标数据的准确性及有效性；
+3、通过数据分析，提取新的业务价值或支持产品改进及新模式的探索；
+4、负责数据可视化的产品管理及应用扩展。
+5、根据项目需求参与需求分析，负责项目中的BI实施和开发；
+6、参与公司数仓建设，设计结构合理、性能优秀的表结构与抽取方案，以及定时与实时ETL开发与维护；
+7、参与公司docker、mysql、kettle等服务的搭建与维护，并维持服务器的稳定运行；
+8、数据可视化方案设计与开发，能够结合业务场景设计出实用的可视化方案，并提供优秀的用户体验；
+9、协助数据治理工作，包括数据从收集、存储、清洗、转换到使用等各环节的质量和安全等；
+10、梳理和掌握相关专业领域的业务逻辑，并撰写相关文档。",3-5年|本科|mysql|oracle|数据库|数据分析|excel|需求分析|sql|docker|服务器|etl|五险一金|年终奖金|定期体检|绩效奖金|餐饮补贴|员工旅游|带薪年假|交通补贴|周末双休|节日福利|做五休二,Python|SQL|Tableau|数据仓库|MySQL|Oracle|FineBI|Excel|ETL|数据治理|数据建模|数据可视化|Docker,Python|SQL|Tableau|数据仓库|MySQL|Oracle|FineBI|Excel|ETL|数据治理,Python|SQL|Tableau|数据仓库|MySQL|Oracle|FineBI|Excel|ETL|数据治理,Python=>编程语言 || SQL=>查询语言 || Tableau=>数据可视化 || 数据仓库=>数据工程 || MySQL=>数据库 || Oracle=>数据库 || FineBI=>数据可视化 || Excel=>办公与分析工具 || ETL=>数据工程 || 数据治理=>数据工程,Python=>4、熟悉可视化呈现工具，具有Tableau、FineReport/FineBI、Python等实战经验者优先，精通者或有相关证书者犹佳； || SQL=>3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库； || Tableau=>4、熟悉可视化呈现工具，具有Tableau、FineReport/FineBI、Python等实战经验者优先，精通者或有相关证书者犹佳； || 数据仓库=>2、深刻理解BI开发相关技术，如数据仓库、建模理论、ETL、数据治理等。 || MySQL=>3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库； || Oracle=>3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库； || FineBI=>4、熟悉可视化呈现工具，具有Tableau、FineReport/FineBI、Python等实战经验者优先，精通者或有相关证书者犹佳； || Excel=>3、熟练运用SQL、Excel对数据进行处理分析，熟悉Oracle、Mysql等常用数据库； || ETL=>2、深刻理解BI开发相关技术，如数据仓库、建模理论、ETL、数据治理等。 || 数据治理=>2、深刻理解BI开发相关技术，如数据仓库、建模理论、ETL、数据治理等。,requirement_text,major_missing
+4,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,171381289,https://jobs.51job.com/shanghai-ptq/171381289.html,2026-06-20T18:20:07.171657,a775b1edd817f35a,992be470721d4f04,PowerBI工程师,百舜信息技术（上海）有限公司,上海,普陀区,1.5-2.8万,15000,28000,12,本科,本科,2年以上,2年及以上,2,,下限,全职,计算机服务(系统、数据服务、维修),50-150人,外资（欧美）,2026-04-01,2026-04-01 16:35:34,121.415276,31.256173,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"【岗位职责】
+1. 数据探索与分析，通过对业务数据的分析探查和业务用数场景的理解，产生洞察，设计报表/可视化看板； 
+2. 需求文档（PRD）的撰写与标准化输出，明确数据可视化看板的目标、指标定义、数据源范围、交互规则（如钻取、筛选条件）及视觉呈现要求； 
+3. 基于PRD，独立使用Power BI完成数据可视化看板的设计与开发，包括：
+1）数据建模（基础数据清洗、关联关系搭建、计算列/度量值设计）；
+2）可视化组件选型（图表类型、配色、布局），确保指标直观易懂、重点突出； 
+3）交互功能配置（筛选器、切片器、钻取逻辑），提升用户自助分析效率； 
+4. 跟进报表上线后的用户反馈，快速迭代优化（如调整指标口径、优化视觉布局），并输出使用说明文档。
+【任职要求】
+1．计算机相关领域的本科及以上学历；
+2．3年及以上业务分析、数据可视化相关经验，有Power BI实际项目落地经验者优先；
+3．擅长使用Power BI软件，能够熟练创建、操作和维护数据应用程序和仪表板。","【岗位职责】
+1. 数据探索与分析，通过对业务数据的分析探查和业务用数场景的理解，产生洞察，设计报表/可视化看板；
+2. 需求文档（PRD）的撰写与标准化输出，明确数据可视化看板的目标、指标定义、数据源范围、交互规则（如钻取、筛选条件）及视觉呈现要求；
+3. 基于PRD，独立使用Power BI完成数据可视化看板的设计与开发，包括：
+1）数据建模（基础数据清洗、关联关系搭建、计算列/度量值设计）；
+2）可视化组件选型（图表类型、配色、布局），确保指标直观易懂、重点突出；
+3）交互功能配置（筛选器、切片器、钻取逻辑），提升用户自助分析效率；
+4. 跟进报表上线后的用户反馈，快速迭代优化（如调整指标口径、优化视觉布局），并输出使用说明文档。
+【任职要求】
+1．计算机相关领域的本科及以上学历；
+2．3年及以上业务分析、数据可视化相关经验，有Power BI实际项目落地经验者优先；
+3．擅长使用Power BI软件，能够熟练创建、操作和维护数据应用程序和仪表板。","1．计算机相关领域的本科及以上学历；
+2．3年及以上业务分析、数据可视化相关经验，有Power BI实际项目落地经验者优先；
+3．擅长使用Power BI软件，能够熟练创建、操作和维护数据应用程序和仪表板。","1. 数据探索与分析，通过对业务数据的分析探查和业务用数场景的理解，产生洞察，设计报表/可视化看板；
+2. 需求文档（PRD）的撰写与标准化输出，明确数据可视化看板的目标、指标定义、数据源范围、交互规则（如钻取、筛选条件）及视觉呈现要求；
+3. 基于PRD，独立使用Power BI完成数据可视化看板的设计与开发，包括：
+1）数据建模（基础数据清洗、关联关系搭建、计算列/度量值设计）；
+2）可视化组件选型（图表类型、配色、布局），确保指标直观易懂、重点突出；
+3）交互功能配置（筛选器、切片器、钻取逻辑），提升用户自助分析效率；
+4. 跟进报表上线后的用户反馈，快速迭代优化（如调整指标口径、优化视觉布局），并输出使用说明文档。",2年及以上|本科|计算机|需求文档|数据可视化|数据清洗|prd|业务分析|数据建模|bi|迭代优化|五险一金|带薪年假|年终奖金|绩效奖金|有餐补|专业培训,Power BI|数据建模|数据可视化,Power BI|数据可视化,Power BI|数据可视化,Power BI=>数据可视化 || 数据可视化=>数据可视化,Power BI=>2．3年及以上业务分析、数据可视化相关经验，有Power BI实际项目落地经验者优先； || 数据可视化=>2．3年及以上业务分析、数据可视化相关经验，有Power BI实际项目落地经验者优先；,requirement_text,major_missing
+5,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,153412756,https://jobs.51job.com/shanghai-pdxq/153412756.html,2026-06-20T18:20:13.852604,c980ba87169c1107,503f980f245b0a42,power bi工程师,菲斯科（上海）软件有限公司,上海,浦东新区,7-8千·13薪,7000,8000,13,大专,大专,1年以上,1年及以上,1,,下限,全职,计算机服务(系统、数据服务、维修),50-150人,民营,2026-03-02,2026-03-02 14:43:08,121.62232,31.25755,not_provided,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"职位要求：
+1、半年以上power bi 开发经验
+2、熟悉SQL开发语言
+3、能独立使用power bi 完成报表开发
+
+办公地点在浦东","职位要求：
+1、半年以上power bi 开发经验
+2、熟悉SQL开发语言
+3、能独立使用power bi 完成报表开发
+
+办公地点在浦东","1、半年以上power bi 开发经验
+2、熟悉SQL开发语言
+3、能独立使用power bi 完成报表开发
+
+办公地点在浦东",,1年及以上|大专|sql|powerbi|报表开发|弹性工作|周末双休|五险一金|带薪年假|专业培训,SQL|Power BI,SQL|Power BI,SQL|Power BI,SQL=>查询语言 || Power BI=>数据可视化,SQL=>2、熟悉SQL开发语言 || Power BI=>1、半年以上power bi 开发经验,requirement_text,major_missing
+6,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,171657839,https://jobs.51job.com/shanghai-mhq/171657839.html,2026-06-20T18:20:27.305170,640755a02111c98a,d73bb622921d3121,商业智能数据分析专员 Data Specialist,百汇（上海）医院管理有限公司,上海,闵行区,1-2万,10000,20000,12,本科,本科,3年以上,3年及以上,3,,下限,全职,医疗/护理/卫生,500-1000人,外资（非欧美）,2026-04-17,2026-04-17 11:51:20,121.285959,31.217369,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"Job Responsibilities
+
+1.Design, build, and maintain BI platforms,dashboards and reports using tools such as Power BI, Tableau, etc
+2.Collaborate with business stakeholders to translate requirements into data models, KPIs, and visualization logic
+3.Define and implement data integration strategies and ETL/ELT patterns to ingest, transform, and distribute data from internal and external sources
+4.Collaborate with data, IT and business teams to translate business requirements into robust and reusable data and AI solutions across the organization 
+5.Coordinate with the Group Data Team to align on data platform architecture, standards, and governance policies
+6.Ensure data quality, accuracy, and consistency through robust validation, governance, and documentation practices
+7.Document data assets and workflows to promote transparency, reusability, and cross-functional understanding
+ 
+
+Requirements
+
+-Bachelor’s or Master’s degree in Computer Science, Statistics, Information Systems, or a related field
+-3+ years of proven experience in analytics, BI development, or similar data-focused roles with hands on delivery of enterprise data solutions
+-Experience with at least one major cloud platform (e.g., AWS, Azure, GCP) is preferred
+-Proficiency in SQL, Python and experience with ETL/ELT tools and frameworks 
+-Familiarity with AI/ML workflows,including data preparation and model integration into production systems
+-Strong understanding of data governance, data quality, metadata management and data catalog practices
+-Knowledge of data security, privacy, and compliance concepts, including role‑based access control and protection of sensitive data
+-Strong communication and stakeholder management skills, with the ability to explain complex data concepts to non‑technical audiences and translate business needs into technical solutions 
+-Problem‑solving mindset and track record of designing scalable, maintainable data solutions in complex environments
+-Knowledge of healthcare data standards (e.g., HL7, FHIR) is highly desirable","Job Responsibilities
+
+1.Design, build, and maintain BI platforms,dashboards and reports using tools such as Power BI, Tableau, etc
+2.Collaborate with business stakeholders to translate requirements into data models, KPIs, and visualization logic
+3.Define and implement data integration strategies and ETL/ELT patterns to ingest, transform, and distribute data from internal and external sources
+4.Collaborate with data, IT and business teams to translate business requirements into robust and reusable data and AI solutions across the organization
+5.Coordinate with the Group Data Team to align on data platform architecture, standards, and governance policies
+6.Ensure data quality, accuracy, and consistency through robust validation, governance, and documentation practices
+7.Document data assets and workflows to promote transparency, reusability, and cross-functional understanding
+
+Requirements
+
+-Bachelor’s or Master’s degree in Computer Science, Statistics, Information Systems, or a related field
+-3+ years of proven experience in analytics, BI development, or similar data-focused roles with hands on delivery of enterprise data solutions
+-Experience with at least one major cloud platform (e.g., AWS, Azure, GCP) is preferred
+-Proficiency in SQL, Python and experience with ETL/ELT tools and frameworks
+-Familiarity with AI/ML workflows,including data preparation and model integration into production systems
+-Strong understanding of data governance, data quality, metadata management and data catalog practices
+-Knowledge of data security, privacy, and compliance concepts, including role‑based access control and protection of sensitive data
+-Strong communication and stakeholder management skills, with the ability to explain complex data concepts to non‑technical audiences and translate business needs into technical solutions
+-Problem‑solving mindset and track record of designing scalable, maintainable data solutions in complex environments
+-Knowledge of healthcare data standards (e.g., HL7, FHIR) is highly desirable",,,3年及以上|本科|ai|etl|tableau|power|bi|transform|data|quality|models,Python|SQL|Tableau|Power BI|ETL,,Python|SQL|Tableau|Power BI|ETL,Python=>编程语言 || SQL=>查询语言 || Tableau=>数据可视化 || Power BI=>数据可视化 || ETL=>数据工程,"Python=>-Proficiency in SQL, Python and experience with ETL/ELT tools and frameworks || SQL=>-Proficiency in SQL, Python and experience with ETL/ELT tools and frameworks || Tableau=>1.Design, build, and maintain BI platforms,dashboards and reports using tools such as Power BI, Tableau, etc || Power BI=>1.Design, build, and maintain BI platforms,dashboards and reports using tools such as Power BI, Tableau, etc || ETL=>3.Define and implement data integration strategies and ETL/ELT patterns to ingest, transform, and distribute data from internal and external…",job_description_fallback,requirement_section_missing|major_missing|platform_major_unverified
+7,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,171692483,https://jobs.51job.com/shanghai/171692483.html,2026-06-20T18:20:34.100288,d0292f1b9870150f,d183f663857693ab,商业智能分析专家/经理,美年大健康产业控股股份有限公司,上海,,2.5-3万·13薪,25000,30000,13,本科,本科,5年以上,5年及以上,5,,下限,全职,医疗/护理/卫生,10000人以上,已上市,2026-04-20,2026-04-20 14:37:07,121.454845,31.290768,confirmed_by_description,统计学|数学|信息工程,统计学|数学|电子信息类,统计学=>理学 || 数学=>理学 || 电子信息类=>工学,要求,• 学历要求：全日制本科及以上，数学、统计学或信息工程等相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"核心职责
+1. 业务指标体系搭建与看板设计
+•	业务需求对接：与业务团队深度沟通，理解其运营模式、管理场景与核心关注点，将模糊的业务诉求转化为清晰、可量化的指标定义与看板需求。
+•	看板产品设计：围绕业务团队的核心管理场景，如用户增长、服务效率、目标达成监控等，设计直观、易用、高价值的BI看板与数据产品，产出高质量的原型图与PRD文档，明确数据来源、加工逻辑、展示方式及交互需求。
+•	取值逻辑定义：负责核心指标的业务口径与数据取值逻辑的明确定义，确保指标在不同业务线、不同时间维度下的统一性与可比性，让业务团队对数据“看得懂、信得过、用得上”。指标设计需充分利用CDP标签体系、One-ID用户统一视图等已有数据资产。
+2. 数据协同与交付管理
+•	需求统筹管理：作为C端数智化中心对接业务的数据需求入口，统筹管理来自业务团队的数据看板与报表需求，评估优先级，协调数据开发资源，跟进交付进度，确保需求的及时响应与高质量落地。
+•	数据质量保障：与数据工程团队（包括底层数据平台建设团队）紧密配合，建立核心看板指标的日常监控与异常预警机制。当数据出现偏差时，能够快速定位问题（是业务变动、口径变化还是ETL问题），并推动修复，保障业务决策的数据可靠性。
+•	数据资产复用：与MarTech产品团队协作，推动通用分析模型与看板模板的沉淀，将高频使用的分析场景固化，提升后续需求的响应效率与一致性。同时，向MarTech团队反馈业务对数据资产的使用体验与优化建议，形成数据建设与应用的良性循环。
+3. 业务分析与策略支持
+•	目标达成监控：围绕不同业务目标，搭建达成进度监控体系，帮助业务管理者实时掌握核心指标（如用户活跃、转化率、留存、LTV、服务响应时效、满意度等）的完成情况与趋势变化。
+•	专题分析支持：根据业务团队的阶段性重点，开展专题数据分析（如活动效果复盘、用户分群洞察、服务流程优化分析等），输出清晰的数据结论与可执行的策略建议。分析中需充分利用CDP标签进行用户分群，结合MA链路数据评估营销效果。
+•	数据解读与赋能：主动向业务团队解读看板数据，帮助业务人员提升数据敏感度与使用能力，推动数据驱动的业务决策文化在增长中心、客服中心落地生根。
+4. 数据能力建设与创新探索
+•	分析能力提升：持续关注BI领域的前沿工具与方法论，探索更高效的数据可视化、数据解读方式，提升看板产品的用户体验与业务价值。
+•	智能化探索：结合数智化中心的整体规划，探索AIGC、NL2SQL等新技术在看板交互、智能数据解读场景的应用潜力，为业务团队提供更智能的数据服务体验。
+
+任职要求
+必备条件：
+•	学历要求：全日制本科及以上，数学、统计学或信息工程等相关专业
+•	工作经验：5年以上商业智能、数据分析或数据产品相关经验，有互联网、互联网广告、电商、新零售或本地生活服务行业C端业务分析经验者优先。
+•	业务理解力：深刻理解C端用户运营、增长玩法或客服服务等业务场景，能够快速理解业务团队的管理痛点与数据诉求，有服务于业务侧目标达成监控的实际经验。
+•	看板设计能力：具备优秀的BI看板与数据产品设计能力，能够独立产出高质量的数据需求文档（PRD）与交互原型图；熟练使用Tableau、PowerBI、帆软等主流BI工具，了解其实现原理与理想实践。
+•	取数与SQL能力：具备扎实的数据功底，能够熟练编写复杂SQL进行数据探查、指标逻辑验证与问题排查；深刻理解数据仓库分层架构、ETL加工流程及指标一致性保障机制。
+•	数据资产理解力：熟悉CDP、One-ID、标签体系等数据资产的基本原理与应用方式，能够基于已有数据底座设计合理的分析方案，并与MarTech产品团队顺畅协作。
+•	沟通与协同能力：出色的跨部门沟通能力，能够作为“翻译官”高效连接业务需求与数据实现，推动数据开发团队按时、高质量交付；具备多需求并***况下的优先级管理与沟通协调能力。
+•	逻辑与分析能力：具备敏锐的数据洞察力与结构化思维能力，能够从数据中提炼核心结论，并以清晰、有说服力的方式呈现给业务决策层。
+•	对AIGC在BI场景的应用（如自然语言交互、智能数据解读）有探索兴趣
+•	具备一定的算法或统计学知识，了解用户分群、漏斗分析、A/B测试等分析方法。熟悉Python或R语言，能够进行更复杂的数据处理与分析者优先","核心职责
+1. 业务指标体系搭建与看板设计
+• 业务需求对接：与业务团队深度沟通，理解其运营模式、管理场景与核心关注点，将模糊的业务诉求转化为清晰、可量化的指标定义与看板需求。
+• 看板产品设计：围绕业务团队的核心管理场景，如用户增长、服务效率、目标达成监控等，设计直观、易用、高价值的BI看板与数据产品，产出高质量的原型图与PRD文档，明确数据来源、加工逻辑、展示方式及交互需求。
+• 取值逻辑定义：负责核心指标的业务口径与数据取值逻辑的明确定义，确保指标在不同业务线、不同时间维度下的统一性与可比性，让业务团队对数据“看得懂、信得过、用得上”。指标设计需充分利用CDP标签体系、One-ID用户统一视图等已有数据资产。
+2. 数据协同与交付管理
+• 需求统筹管理：作为C端数智化中心对接业务的数据需求入口，统筹管理来自业务团队的数据看板与报表需求，评估优先级，协调数据开发资源，跟进交付进度，确保需求的及时响应与高质量落地。
+• 数据质量保障：与数据工程团队（包括底层数据平台建设团队）紧密配合，建立核心看板指标的日常监控与异常预警机制。当数据出现偏差时，能够快速定位问题（是业务变动、口径变化还是ETL问题），并推动修复，保障业务决策的数据可靠性。
+• 数据资产复用：与MarTech产品团队协作，推动通用分析模型与看板模板的沉淀，将高频使用的分析场景固化，提升后续需求的响应效率与一致性。同时，向MarTech团队反馈业务对数据资产的使用体验与优化建议，形成数据建设与应用的良性循环。
+3. 业务分析与策略支持
+• 目标达成监控：围绕不同业务目标，搭建达成进度监控体系，帮助业务管理者实时掌握核心指标（如用户活跃、转化率、留存、LTV、服务响应时效、满意度等）的完成情况与趋势变化。
+• 专题分析支持：根据业务团队的阶段性重点，开展专题数据分析（如活动效果复盘、用户分群洞察、服务流程优化分析等），输出清晰的数据结论与可执行的策略建议。分析中需充分利用CDP标签进行用户分群，结合MA链路数据评估营销效果。
+• 数据解读与赋能：主动向业务团队解读看板数据，帮助业务人员提升数据敏感度与使用能力，推动数据驱动的业务决策文化在增长中心、客服中心落地生根。
+4. 数据能力建设与创新探索
+• 分析能力提升：持续关注BI领域的前沿工具与方法论，探索更高效的数据可视化、数据解读方式，提升看板产品的用户体验与业务价值。
+• 智能化探索：结合数智化中心的整体规划，探索AIGC、NL2SQL等新技术在看板交互、智能数据解读场景的应用潜力，为业务团队提供更智能的数据服务体验。
+
+任职要求
+必备条件：
+• 学历要求：全日制本科及以上，数学、统计学或信息工程等相关专业
+• 工作经验：5年以上商业智能、数据分析或数据产品相关经验，有互联网、互联网广告、电商、新零售或本地生活服务行业C端业务分析经验者优先。
+• 业务理解力：深刻理解C端用户运营、增长玩法或客服服务等业务场景，能够快速理解业务团队的管理痛点与数据诉求，有服务于业务侧目标达成监控的实际经验。
+• 看板设计能力：具备优秀的BI看板与数据产品设计能力，能够独立产出高质量的数据需求文档（PRD）与交互原型图；熟练使用Tableau、PowerBI、帆软等主流BI工具，了解其实现原理与理想实践。
+• 取数与SQL能力：具备扎实的数据功底，能够熟练编写复杂SQL进行数据探查、指标逻辑验证与问题排查；深刻理解数据仓库分层架构、ETL加工流程及指标一致性保障机制。
+• 数据资产理解力：熟悉CDP、One-ID、标签体系等数据资产的基本原理与应用方式，能够基于已有数据底座设计合理的分析方案，并与MarTech产品团队顺畅协作。
+• 沟通与协同能力：出色的跨部门沟通能力，能够作为“翻译官”高效连接业务需求与数据实现，推动数据开发团队按时、高质量交付；具备多需求并***况下的优先级管理与沟通协调能力。
+• 逻辑与分析能力：具备敏锐的数据洞察力与结构化思维能力，能够从数据中提炼核心结论，并以清晰、有说服力的方式呈现给业务决策层。
+• 对AIGC在BI场景的应用（如自然语言交互、智能数据解读）有探索兴趣
+• 具备一定的算法或统计学知识，了解用户分群、漏斗分析、A/B测试等分析方法。熟悉Python或R语言，能够进行更复杂的数据处理与分析者优先","必备条件：
+• 学历要求：全日制本科及以上，数学、统计学或信息工程等相关专业
+• 工作经验：5年以上商业智能、数据分析或数据产品相关经验，有互联网、互联网广告、电商、新零售或本地生活服务行业C端业务分析经验者优先。
+• 业务理解力：深刻理解C端用户运营、增长玩法或客服服务等业务场景，能够快速理解业务团队的管理痛点与数据诉求，有服务于业务侧目标达成监控的实际经验。
+• 看板设计能力：具备优秀的BI看板与数据产品设计能力，能够独立产出高质量的数据需求文档（PRD）与交互原型图；熟练使用Tableau、PowerBI、帆软等主流BI工具，了解其实现原理与理想实践。
+• 取数与SQL能力：具备扎实的数据功底，能够熟练编写复杂SQL进行数据探查、指标逻辑验证与问题排查；深刻理解数据仓库分层架构、ETL加工流程及指标一致性保障机制。
+• 数据资产理解力：熟悉CDP、One-ID、标签体系等数据资产的基本原理与应用方式，能够基于已有数据底座设计合理的分析方案，并与MarTech产品团队顺畅协作。
+• 沟通与协同能力：出色的跨部门沟通能力，能够作为“翻译官”高效连接业务需求与数据实现，推动数据开发团队按时、高质量交付；具备多需求并***况下的优先级管理与沟通协调能力。
+• 逻辑与分析能力：具备敏锐的数据洞察力与结构化思维能力，能够从数据中提炼核心结论，并以清晰、有说服力的方式呈现给业务决策层。
+• 对AIGC在BI场景的应用（如自然语言交互、智能数据解读）有探索兴趣
+• 具备一定的算法或统计学知识，了解用户分群、漏斗分析、A/B测试等分析方法。熟悉Python或R语言，能够进行更复杂的数据处理与分析者优先","核心职责
+1. 业务指标体系搭建与看板设计
+• 业务需求对接：与业务团队深度沟通，理解其运营模式、管理场景与核心关注点，将模糊的业务诉求转化为清晰、可量化的指标定义与看板需求。
+• 看板产品设计：围绕业务团队的核心管理场景，如用户增长、服务效率、目标达成监控等，设计直观、易用、高价值的BI看板与数据产品，产出高质量的原型图与PRD文档，明确数据来源、加工逻辑、展示方式及交互需求。
+• 取值逻辑定义：负责核心指标的业务口径与数据取值逻辑的明确定义，确保指标在不同业务线、不同时间维度下的统一性与可比性，让业务团队对数据“看得懂、信得过、用得上”。指标设计需充分利用CDP标签体系、One-ID用户统一视图等已有数据资产。
+2. 数据协同与交付管理
+• 需求统筹管理：作为C端数智化中心对接业务的数据需求入口，统筹管理来自业务团队的数据看板与报表需求，评估优先级，协调数据开发资源，跟进交付进度，确保需求的及时响应与高质量落地。
+• 数据质量保障：与数据工程团队（包括底层数据平台建设团队）紧密配合，建立核心看板指标的日常监控与异常预警机制。当数据出现偏差时，能够快速定位问题（是业务变动、口径变化还是ETL问题），并推动修复，保障业务决策的数据可靠性。
+• 数据资产复用：与MarTech产品团队协作，推动通用分析模型与看板模板的沉淀，将高频使用的分析场景固化，提升后续需求的响应效率与一致性。同时，向MarTech团队反馈业务对数据资产的使用体验与优化建议，形成数据建设与应用的良性循环。
+3. 业务分析与策略支持
+• 目标达成监控：围绕不同业务目标，搭建达成进度监控体系，帮助业务管理者实时掌握核心指标（如用户活跃、转化率、留存、LTV、服务响应时效、满意度等）的完成情况与趋势变化。
+• 专题分析支持：根据业务团队的阶段性重点，开展专题数据分析（如活动效果复盘、用户分群洞察、服务流程优化分析等），输出清晰的数据结论与可执行的策略建议。分析中需充分利用CDP标签进行用户分群，结合MA链路数据评估营销效果。
+• 数据解读与赋能：主动向业务团队解读看板数据，帮助业务人员提升数据敏感度与使用能力，推动数据驱动的业务决策文化在增长中心、客服中心落地生根。
+4. 数据能力建设与创新探索
+• 分析能力提升：持续关注BI领域的前沿工具与方法论，探索更高效的数据可视化、数据解读方式，提升看板产品的用户体验与业务价值。
+• 智能化探索：结合数智化中心的整体规划，探索AIGC、NL2SQL等新技术在看板交互、智能数据解读场景的应用潜力，为业务团队提供更智能的数据服务体验。",5年及以上|本科|etl|原型图|prd|业务分析|修复|数据产品|监控体系|数据建设|数据资产|取值逻辑|五险一金|专业培训|定期体检|周末双休,Python|SQL|Tableau|数据仓库|R|Power BI|ETL|A/B测试|数据可视化|BI,Python|SQL|Tableau|数据仓库|R|Power BI|ETL|A/B测试|BI,Python|SQL|Tableau|数据仓库|R|Power BI|ETL|A/B测试|BI,Python=>编程语言 || SQL=>查询语言 || Tableau=>数据可视化 || 数据仓库=>数据工程 || R=>编程语言 || Power BI=>数据可视化 || ETL=>数据工程 || A/B测试=>实验分析 || BI=>数据分析方法,Python=>熟悉Python或R语言，能够进行更复杂的数据处理与分析者优先 || SQL=>• 取数与SQL能力：具备扎实的数据功底，能够熟练编写复杂SQL进行数据探查、指标逻辑验证与问题排查； || Tableau=>熟练使用Tableau、PowerBI、帆软等主流BI工具，了解其实现原理与理想实践。 || 数据仓库=>深刻理解数据仓库分层架构、ETL加工流程及指标一致性保障机制。 || R=>熟悉Python或R语言，能够进行更复杂的数据处理与分析者优先 || Power BI=>熟练使用Tableau、PowerBI、帆软等主流BI工具，了解其实现原理与理想实践。 || ETL=>深刻理解数据仓库分层架构、ETL加工流程及指标一致性保障机制。 || A/B测试=>• 具备一定的算法或统计学知识，了解用户分群、漏斗分析、A/B测试等分析方法。 || BI=>• 工作经验：5年以上商业智能、数据分析或数据产品相关经验，有互联网、互联网广告、电商、新零售或本地生活服务行业C端业务分析经验者优先。,requirement_text,district_missing
+8,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,BI分析师,上海,020000,171560089,https://jobs.51job.com/shanghai-ptq/171560089.html,2026-06-20T18:20:47.631088,d9ab108925138026,4a9f71fe01f234a1,高级Tableau&Power BI工程师,上海必盈特软件系统有限公司,上海,普陀区,1.6-2.2万,16000,22000,12,本科,本科,3年以上,3年及以上,3,,下限,全职,计算机软件,50-150人,合资,2026-04-13,2026-04-13 11:58:18,121.436195,31.252768,partially_confirmed,计算机科学,计算机类,计算机类=>工学,要求,1. 本科及以上学历，信息技术、计算机科学或相关专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"主要职责：
+1. 根据需求和设计要求，从数据库中抓取数据，并利用Power BI和Tableau进行可视化报表和功能的开发、测试和发布。
+2. 负责已上线的Power BI和Tableau可视化产品的运维工作，解决可能出现的各类问题，并管理用户权限等。
+3. 编写相关的实施文档、用户手册、测试文档和验收文档，确保开发工作的完整性和可追溯性。
+4. 与Global同事沟通账号、权限、服务器等方面的问题，及时提供支持和解决方案。
+
+任职要求：
+1. 本科及以上学历，信息技术、计算机科学或相关专业。
+2. 精通Power BI和Tableau，Tableau开发能力强者优先。
+3. 至少有3年以上实际项目开发经验，有大型企业可视化项目开发经验者优先。
+4. 熟悉基本的SQL数据库语言，能够理解上游数据库的数据内容并在可视化报表中充分利用或编辑逻辑。
+5. 有过Tableau Server、Power BI Workspace管理经验者优先。
+6. 具备良好的沟通能力，能够快速理解业务需求并与团队成员有效地沟通。
+7. 具备责任心，能够按时按质按量完成任务。
+8. 积极主动，能够快速寻求解决方案。
+9. 具备良好的英文沟通能力，能够适应外企基本的书面和口语沟通。","主要职责：
+1. 根据需求和设计要求，从数据库中抓取数据，并利用Power BI和Tableau进行可视化报表和功能的开发、测试和发布。
+2. 负责已上线的Power BI和Tableau可视化产品的运维工作，解决可能出现的各类问题，并管理用户权限等。
+3. 编写相关的实施文档、用户手册、测试文档和验收文档，确保开发工作的完整性和可追溯性。
+4. 与Global同事沟通账号、权限、服务器等方面的问题，及时提供支持和解决方案。
+
+任职要求：
+1. 本科及以上学历，信息技术、计算机科学或相关专业。
+2. 精通Power BI和Tableau，Tableau开发能力强者优先。
+3. 至少有3年以上实际项目开发经验，有大型企业可视化项目开发经验者优先。
+4. 熟悉基本的SQL数据库语言，能够理解上游数据库的数据内容并在可视化报表中充分利用或编辑逻辑。
+5. 有过Tableau Server、Power BI Workspace管理经验者优先。
+6. 具备良好的沟通能力，能够快速理解业务需求并与团队成员有效地沟通。
+7. 具备责任心，能够按时按质按量完成任务。
+8. 积极主动，能够快速寻求解决方案。
+9. 具备良好的英文沟通能力，能够适应外企基本的书面和口语沟通。","1. 本科及以上学历，信息技术、计算机科学或相关专业。
+2. 精通Power BI和Tableau，Tableau开发能力强者优先。
+3. 至少有3年以上实际项目开发经验，有大型企业可视化项目开发经验者优先。
+4. 熟悉基本的SQL数据库语言，能够理解上游数据库的数据内容并在可视化报表中充分利用或编辑逻辑。
+5. 有过Tableau Server、Power BI Workspace管理经验者优先。
+6. 具备良好的沟通能力，能够快速理解业务需求并与团队成员有效地沟通。
+7. 具备责任心，能够按时按质按量完成任务。
+8. 积极主动，能够快速寻求解决方案。
+9. 具备良好的英文沟通能力，能够适应外企基本的书面和口语沟通。","主要职责：
+1. 根据需求和设计要求，从数据库中抓取数据，并利用Power BI和Tableau进行可视化报表和功能的开发、测试和发布。
+2. 负责已上线的Power BI和Tableau可视化产品的运维工作，解决可能出现的各类问题，并管理用户权限等。
+3. 编写相关的实施文档、用户手册、测试文档和验收文档，确保开发工作的完整性和可追溯性。
+4. 与Global同事沟通账号、权限、服务器等方面的问题，及时提供支持和解决方案。",3年及以上|本科|数据库|运维|项目开发|测试文档|计算机科学|用户手册|信息技术|tableau|验收文档|实施文档,SQL|Tableau|Power BI|数据可视化,SQL|Tableau|Power BI|数据可视化,SQL|Tableau|Power BI|数据可视化,SQL=>查询语言 || Tableau=>数据可视化 || Power BI=>数据可视化 || 数据可视化=>数据可视化,SQL=>4. 熟悉基本的SQL数据库语言，能够理解上游数据库的数据内容并在可视化报表中充分利用或编辑逻辑。 || Tableau=>2. 精通Power BI和Tableau，Tableau开发能力强者优先。 || Power BI=>2. 精通Power BI和Tableau，Tableau开发能力强者优先。 || 数据可视化=>4. 熟悉基本的SQL数据库语言，能够理解上游数据库的数据内容并在可视化报表中充分利用或编辑逻辑。,requirement_text,

@@ -1,0 +1,372 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,深圳,040000,168616861,https://jobs.51job.com/shenzhen-baq/168616861.html,2026-06-20T19:01:29.745213,3b5da7c3d6d3e301,66107dc9eb283516,资深机器学习工程师,深圳个元科技有限公司,深圳,宝安区,2.5-4.5万·13薪,25000,45000,13,本科,本科,3年以上,3年及以上,3,,下限,全职,互联网/电子商务,150-500人,民营,2025-10-14,2025-10-14 17:16:47,113.844891,22.612052,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"【Company 公司介绍】
+UnitX是一家2018年创立，全球化运营的高科技机器视觉公司。为全球大型制造业客户提供基于人工智能的工业视觉自动化产品。
+UnitX核心技术团队来自美国Stanford / MIT / UC Berkeley / Google / Tiktok 等知名高校以及高科技公司，服务了包括中美电动车、锂电池制造企业。过去3年，UnitX在中国和美国市场以每年3倍的速度高速成长。目前公司估值数亿美元，已经完成B轮融资。
+
+【主要职责】
+1、与美国团队和产品团队合作：
+● 深入了解公司深度学习系统中机器学习产品的特性，经过培训后可以独立评估模型效果，定位模型问题等；
+● 掌握训练机和产线机中模型训练，模型部署，模型推理等重要模块的代码，能够快速定位并解决这些模块中出现的问题；
+● 参与新的机器学习产品和功能的讨论及开发，帮助推进新产品在国内的落地，负责机器学习产品在国内项目中的调试和迭代；
+2、与中国FAE团队以及Prod Ops工程团队合作：
+● 深入了解部署项目中的机器学习问题，评估建模的可行性和风险，对风险高的建模方案给出简化或替代方案；
+● 对FAE团队在数据收集，样本标注，，数据清洗，模型训练等环节中给予指导；
+● 采集现场模型数据，在实验室复现漏杀/过杀问题，定位模型遇到的主要问题，并给出相应的指导建议。
+
+【任职要求】
+1、计算机科学、电子工程或相关领域本科及以上学历；
+2、具备良好工程开发能力，丰富的机器学习和深度学习经验，尤其是监督学习和视觉模型方面；
+3、熟悉数据标注，数据集清洗及模型微调流程，具有实际项目部署经验为佳；
+4、良好的数据分析和问题解决能力；
+5、优秀的英语口语和书面沟通能力；
+6、良好的跨团队协作能力。
+
+【所需技能】
+* 英语可以作为工作语言。
+1、机器学习基础知识：熟悉机器学习和深度学习的基本原理，主要包括：
+● 监督学习：线性回归（regression），逻辑回归（logistic regression），神经网络（neural network），卷积神经网络（CNN）；
+● 模型训练：损失函数（loss function），反向传播（back propagation），学习率（learning rate）；
+● 模型评估：准确率（accuracy），召回率（recall），漏杀/过杀（FA/FR），欠拟合（underfit），过拟合（overfit），偏差（model bias），方差（model variance）；
+● 模型优化：数据增强（data augmentation），数据合成（synthetic data）；
+2、视觉深度模型：了解常见的视觉深度模型的工作原理
+● 常见模型结构：如U-Net；
+● 常见视觉模型任务：图像分割（image segmentation），图像分类（image classification），物体检测（object detection）；","【Company 公司介绍】
+UnitX是一家2018年创立，全球化运营的高科技机器视觉公司。为全球大型制造业客户提供基于人工智能的工业视觉自动化产品。
+UnitX核心技术团队来自美国Stanford / MIT / UC Berkeley / Google / Tiktok 等知名高校以及高科技公司，服务了包括中美电动车、锂电池制造企业。过去3年，UnitX在中国和美国市场以每年3倍的速度高速成长。目前公司估值数亿美元，已经完成B轮融资。
+
+【主要职责】
+1、与美国团队和产品团队合作：
+● 深入了解公司深度学习系统中机器学习产品的特性，经过培训后可以独立评估模型效果，定位模型问题等；
+● 掌握训练机和产线机中模型训练，模型部署，模型推理等重要模块的代码，能够快速定位并解决这些模块中出现的问题；
+● 参与新的机器学习产品和功能的讨论及开发，帮助推进新产品在国内的落地，负责机器学习产品在国内项目中的调试和迭代；
+2、与中国FAE团队以及Prod Ops工程团队合作：
+● 深入了解部署项目中的机器学习问题，评估建模的可行性和风险，对风险高的建模方案给出简化或替代方案；
+● 对FAE团队在数据收集，样本标注，，数据清洗，模型训练等环节中给予指导；
+● 采集现场模型数据，在实验室复现漏杀/过杀问题，定位模型遇到的主要问题，并给出相应的指导建议。
+
+【任职要求】
+1、计算机科学、电子工程或相关领域本科及以上学历；
+2、具备良好工程开发能力，丰富的机器学习和深度学习经验，尤其是监督学习和视觉模型方面；
+3、熟悉数据标注，数据集清洗及模型微调流程，具有实际项目部署经验为佳；
+4、良好的数据分析和问题解决能力；
+5、优秀的英语口语和书面沟通能力；
+6、良好的跨团队协作能力。
+
+【所需技能】
+* 英语可以作为工作语言。
+1、机器学习基础知识：熟悉机器学习和深度学习的基本原理，主要包括：
+● 监督学习：线性回归（regression），逻辑回归（logistic regression），神经网络（neural network），卷积神经网络（CNN）；
+● 模型训练：损失函数（loss function），反向传播（back propagation），学习率（learning rate）；
+● 模型评估：准确率（accuracy），召回率（recall），漏杀/过杀（FA/FR），欠拟合（underfit），过拟合（overfit），偏差（model bias），方差（model variance）；
+● 模型优化：数据增强（data augmentation），数据合成（synthetic data）；
+2、视觉深度模型：了解常见的视觉深度模型的工作原理
+● 常见模型结构：如U-Net；
+● 常见视觉模型任务：图像分割（image segmentation），图像分类（image classification），物体检测（object detection）；","1、计算机科学、电子工程或相关领域本科及以上学历；
+2、具备良好工程开发能力，丰富的机器学习和深度学习经验，尤其是监督学习和视觉模型方面；
+3、熟悉数据标注，数据集清洗及模型微调流程，具有实际项目部署经验为佳；
+4、良好的数据分析和问题解决能力；
+5、优秀的英语口语和书面沟通能力；
+6、良好的跨团队协作能力。
+
+【所需技能】
+* 英语可以作为工作语言。
+1、机器学习基础知识：熟悉机器学习和深度学习的基本原理，主要包括：
+● 监督学习：线性回归（regression），逻辑回归（logistic regression），神经网络（neural network），卷积神经网络（CNN）；
+● 模型训练：损失函数（loss function），反向传播（back propagation），学习率（learning rate）；
+● 模型评估：准确率（accuracy），召回率（recall），漏杀/过杀（FA/FR），欠拟合（underfit），过拟合（overfit），偏差（model bias），方差（model variance）；
+● 模型优化：数据增强（data augmentation），数据合成（synthetic data）；
+2、视觉深度模型：了解常见的视觉深度模型的工作原理
+● 常见模型结构：如U-Net；
+● 常见视觉模型任务：图像分割（image segmentation），图像分类（image classification），物体检测（object detection）；","【Company 公司介绍】
+UnitX是一家2018年创立，全球化运营的高科技机器视觉公司。为全球大型制造业客户提供基于人工智能的工业视觉自动化产品。
+UnitX核心技术团队来自美国Stanford / MIT / UC Berkeley / Google / Tiktok 等知名高校以及高科技公司，服务了包括中美电动车、锂电池制造企业。过去3年，UnitX在中国和美国市场以每年3倍的速度高速成长。目前公司估值数亿美元，已经完成B轮融资。
+
+【主要职责】
+1、与美国团队和产品团队合作：
+● 深入了解公司深度学习系统中机器学习产品的特性，经过培训后可以独立评估模型效果，定位模型问题等；
+● 掌握训练机和产线机中模型训练，模型部署，模型推理等重要模块的代码，能够快速定位并解决这些模块中出现的问题；
+● 参与新的机器学习产品和功能的讨论及开发，帮助推进新产品在国内的落地，负责机器学习产品在国内项目中的调试和迭代；
+2、与中国FAE团队以及Prod Ops工程团队合作：
+● 深入了解部署项目中的机器学习问题，评估建模的可行性和风险，对风险高的建模方案给出简化或替代方案；
+● 对FAE团队在数据收集，样本标注，，数据清洗，模型训练等环节中给予指导；
+● 采集现场模型数据，在实验室复现漏杀/过杀问题，定位模型遇到的主要问题，并给出相应的指导建议。",3年及以上|本科|调试|数据收集|机器学习|数据清洗|深度学习|计算机科学|团队合作|模型训练|工程开发|模型推理|体检|培训,机器学习|深度学习,机器学习|深度学习,机器学习|深度学习,机器学习=>人工智能 || 深度学习=>人工智能,机器学习=>2、具备良好工程开发能力，丰富的机器学习和深度学习经验，尤其是监督学习和视觉模型方面； || 深度学习=>2、具备良好工程开发能力，丰富的机器学习和深度学习经验，尤其是监督学习和视觉模型方面；,requirement_text,major_missing|platform_major_unverified
+2,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,深圳,040000,172195433,https://jobs.51job.com/shenzhen-psq/172195433.html,2026-06-20T19:01:29.750502,22ba2e3df9dc2517,0c8c7eb415ee9714,机器学习工程师,科睿驰（深圳）医疗科技发展有限公司,深圳,坪山区,2-4万·15薪,20000,40000,15,硕士,硕士,2年以上,2年及以上,2,,下限,全职,医疗设备/器械,150-500人,合资,2026-06-08,2026-06-08 13:10:30,114.410902,22.742392,not_supported_by_description,计算机科学|数学|电子信息,计算机类|数学|电子信息类,计算机类=>工学 || 数学=>理学 || 电子信息类=>工学,要求,- 硕士及以上学历，计算机科学、人工智能、电子信息、应用数学或相关交叉学科（如计算科学/化学信息学）等专业,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"具体工作说明
+
+1. 面向小样本与多模态数据的建模策略制定
+- 配方优化模型：主导贝叶斯优化、高斯过程等样本高效优化算法，智能优选材料配方组合，实现包封率、载药量、突释率多指标协同优化。
+- 迁移学习与预训练表示：基于大规模仿真数据开展模型预训练与表征学习，迁移适配真实实验数据，构建聚合物与药物通用分子表征。
+- 多模态融合架构：设计网络结构，融合配方工艺与光谱影像数据，共同预测药物在载体中的空间分布状态和释放动力学，解决模态异构与训练失衡问题。
+2. 构建物理信息驱动的AI模型
+- 嵌入物理约束：融合材料溶胀、扩散物理机理构建模型约束，开发物理驱动预测算法，保障药物释放行为预测符合材料宏观物化规律。
+- 开发图神经网：基于分子拓扑结构构建图表征，研发图神经网络模型，预测分子间作用与扩散能垒，解析分子结构对药物负载稳定性的影响。
+3. 搭建并维护全生命周期的 MLOps 流水线
+- 实验追踪与模型注册：搭建实验追踪与模型版本管理体系，自动记录训练超参、数据版本、评估指标及模型资产，实现全量实验可追溯、结果可复现。
+- 模型持续训练与部署：搭建模型自动化 CI/CD 流水线，完成新数据自动触发模型重训微调，实现模型版本平滑部署与标准化接口服务。
+- 模型监控与漂移检测: 上线模型线上监控与数据漂移检测，实时监测输入分布与预测效果，异常自动告警、版本回退并联动研究人员补全数据。
+4. 将 AI 能力平台化，赋能非技术团队
+- 构建简易预测工具：搭建轻量化可视化预测 Web 工具，集成内部账号体系，支持配方参数输入，快速完成包封率与释放曲线智能预测。
+- 搭主动学习循环的交互接口：建主动学习人机协同接口，展示多目标优化候选实验方案，支持科研人员经验筛选与约束调整，形成闭环研发迭代。
+5. 作为算法与领域知识的翻译枢纽
+- 从化学直觉到算法实现：理解制剂研发专业机理，将实验现象与行业经验转化为模型训练标签与辅助任务，强化多任务建模能力。
+- 向非技术团队解释模型决策：运用模型可解释性算法，生成可视化决策解释结果，向非技术研发团队拆解模型预测依据，提升模型可信度与落地应用价值。
+
+任职资格
+
+学历
+- 硕士及以上学历，计算机科学、人工智能、电子信息、应用数学或相关交叉学科（如计算科学/化学信息学）等专业。
+- 具有扎实的概率论、线性代数、最优化理论基础，系统学习过机器学习经典教材（如PRML、ESL）。
+- 研究课题涉及科学机器学习（SciML）、小样本学习、图神经网络或药物材料AI的优先。
+经验
+- 精通PyTorch，能够从零搭建复杂模型而非仅调用Sklearn接口。精通Python，熟练使用numpy、scipy等科学计算栈。
+- 熟悉掌握其中一种物理信息神经：DeepXDE、Modulus (NVIDIA)、NeuralPDE.jl，具有将微分方程约束集成到神经网络训练中的经验。
+- 熟练使用MLflow、Weights &amp; Biases、DVC（与数据工程师配合作业），能使用Docker进行模型容器化，接触过Kubernetes模型服务（如KServe）；
+- 具有处理图像（如高光谱/医学影像）与表格数据融合的多输入网络设计经验，熟悉PyTorch Lightning等工程化模板以保持代码整洁；
+- 具有使用Streamlit、Gradio或Plotly Dash其中之一快速构建内部应用原型的经验；
+- 具有优秀的学习能力，以及快速理解和学习跨领域的能力，具备一定生物医药/材料数据的感性的敏感性；
+- 具有元学习、度量学习、贝叶斯方法或半监督学习处理昂贵、稀少样本的项目经验；
+- 熟悉高光谱、拉曼成像或显微镜图像分析项目，了解这些模态的数据格式和常用预处理方法，能与计算材料研究员共同制定图像特征提取方案。","具体工作说明
+
+1. 面向小样本与多模态数据的建模策略制定
+- 配方优化模型：主导贝叶斯优化、高斯过程等样本高效优化算法，智能优选材料配方组合，实现包封率、载药量、突释率多指标协同优化。
+- 迁移学习与预训练表示：基于大规模仿真数据开展模型预训练与表征学习，迁移适配真实实验数据，构建聚合物与药物通用分子表征。
+- 多模态融合架构：设计网络结构，融合配方工艺与光谱影像数据，共同预测药物在载体中的空间分布状态和释放动力学，解决模态异构与训练失衡问题。
+2. 构建物理信息驱动的AI模型
+- 嵌入物理约束：融合材料溶胀、扩散物理机理构建模型约束，开发物理驱动预测算法，保障药物释放行为预测符合材料宏观物化规律。
+- 开发图神经网：基于分子拓扑结构构建图表征，研发图神经网络模型，预测分子间作用与扩散能垒，解析分子结构对药物负载稳定性的影响。
+3. 搭建并维护全生命周期的 MLOps 流水线
+- 实验追踪与模型注册：搭建实验追踪与模型版本管理体系，自动记录训练超参、数据版本、评估指标及模型资产，实现全量实验可追溯、结果可复现。
+- 模型持续训练与部署：搭建模型自动化 CI/CD 流水线，完成新数据自动触发模型重训微调，实现模型版本平滑部署与标准化接口服务。
+- 模型监控与漂移检测: 上线模型线上监控与数据漂移检测，实时监测输入分布与预测效果，异常自动告警、版本回退并联动研究人员补全数据。
+4. 将 AI 能力平台化，赋能非技术团队
+- 构建简易预测工具：搭建轻量化可视化预测 Web 工具，集成内部账号体系，支持配方参数输入，快速完成包封率与释放曲线智能预测。
+- 搭主动学习循环的交互接口：建主动学习人机协同接口，展示多目标优化候选实验方案，支持科研人员经验筛选与约束调整，形成闭环研发迭代。
+5. 作为算法与领域知识的翻译枢纽
+- 从化学直觉到算法实现：理解制剂研发专业机理，将实验现象与行业经验转化为模型训练标签与辅助任务，强化多任务建模能力。
+- 向非技术团队解释模型决策：运用模型可解释性算法，生成可视化决策解释结果，向非技术研发团队拆解模型预测依据，提升模型可信度与落地应用价值。
+
+任职资格
+
+学历
+- 硕士及以上学历，计算机科学、人工智能、电子信息、应用数学或相关交叉学科（如计算科学/化学信息学）等专业。
+- 具有扎实的概率论、线性代数、最优化理论基础，系统学习过机器学习经典教材（如PRML、ESL）。
+- 研究课题涉及科学机器学习（SciML）、小样本学习、图神经网络或药物材料AI的优先。
+经验
+- 精通PyTorch，能够从零搭建复杂模型而非仅调用Sklearn接口。精通Python，熟练使用numpy、scipy等科学计算栈。
+- 熟悉掌握其中一种物理信息神经：DeepXDE、Modulus (NVIDIA)、NeuralPDE.jl，具有将微分方程约束集成到神经网络训练中的经验。
+- 熟练使用MLflow、Weights & Biases、DVC（与数据工程师配合作业），能使用Docker进行模型容器化，接触过Kubernetes模型服务（如KServe）；
+- 具有处理图像（如高光谱/医学影像）与表格数据融合的多输入网络设计经验，熟悉PyTorch Lightning等工程化模板以保持代码整洁；
+- 具有使用Streamlit、Gradio或Plotly Dash其中之一快速构建内部应用原型的经验；
+- 具有优秀的学习能力，以及快速理解和学习跨领域的能力，具备一定生物医药/材料数据的感性的敏感性；
+- 具有元学习、度量学习、贝叶斯方法或半监督学习处理昂贵、稀少样本的项目经验；
+- 熟悉高光谱、拉曼成像或显微镜图像分析项目，了解这些模态的数据格式和常用预处理方法，能与计算材料研究员共同制定图像特征提取方案。","学历
+- 硕士及以上学历，计算机科学、人工智能、电子信息、应用数学或相关交叉学科（如计算科学/化学信息学）等专业。
+- 具有扎实的概率论、线性代数、最优化理论基础，系统学习过机器学习经典教材（如PRML、ESL）。
+- 研究课题涉及科学机器学习（SciML）、小样本学习、图神经网络或药物材料AI的优先。
+经验
+- 精通PyTorch，能够从零搭建复杂模型而非仅调用Sklearn接口。精通Python，熟练使用numpy、scipy等科学计算栈。
+- 熟悉掌握其中一种物理信息神经：DeepXDE、Modulus (NVIDIA)、NeuralPDE.jl，具有将微分方程约束集成到神经网络训练中的经验。
+- 熟练使用MLflow、Weights & Biases、DVC（与数据工程师配合作业），能使用Docker进行模型容器化，接触过Kubernetes模型服务（如KServe）；
+- 具有处理图像（如高光谱/医学影像）与表格数据融合的多输入网络设计经验，熟悉PyTorch Lightning等工程化模板以保持代码整洁；
+- 具有使用Streamlit、Gradio或Plotly Dash其中之一快速构建内部应用原型的经验；
+- 具有优秀的学习能力，以及快速理解和学习跨领域的能力，具备一定生物医药/材料数据的感性的敏感性；
+- 具有元学习、度量学习、贝叶斯方法或半监督学习处理昂贵、稀少样本的项目经验；
+- 熟悉高光谱、拉曼成像或显微镜图像分析项目，了解这些模态的数据格式和常用预处理方法，能与计算材料研究员共同制定图像特征提取方案。","具体工作说明
+
+1. 面向小样本与多模态数据的建模策略制定
+- 配方优化模型：主导贝叶斯优化、高斯过程等样本高效优化算法，智能优选材料配方组合，实现包封率、载药量、突释率多指标协同优化。
+- 迁移学习与预训练表示：基于大规模仿真数据开展模型预训练与表征学习，迁移适配真实实验数据，构建聚合物与药物通用分子表征。
+- 多模态融合架构：设计网络结构，融合配方工艺与光谱影像数据，共同预测药物在载体中的空间分布状态和释放动力学，解决模态异构与训练失衡问题。
+2. 构建物理信息驱动的AI模型
+- 嵌入物理约束：融合材料溶胀、扩散物理机理构建模型约束，开发物理驱动预测算法，保障药物释放行为预测符合材料宏观物化规律。
+- 开发图神经网：基于分子拓扑结构构建图表征，研发图神经网络模型，预测分子间作用与扩散能垒，解析分子结构对药物负载稳定性的影响。
+3. 搭建并维护全生命周期的 MLOps 流水线
+- 实验追踪与模型注册：搭建实验追踪与模型版本管理体系，自动记录训练超参、数据版本、评估指标及模型资产，实现全量实验可追溯、结果可复现。
+- 模型持续训练与部署：搭建模型自动化 CI/CD 流水线，完成新数据自动触发模型重训微调，实现模型版本平滑部署与标准化接口服务。
+- 模型监控与漂移检测: 上线模型线上监控与数据漂移检测，实时监测输入分布与预测效果，异常自动告警、版本回退并联动研究人员补全数据。
+4. 将 AI 能力平台化，赋能非技术团队
+- 构建简易预测工具：搭建轻量化可视化预测 Web 工具，集成内部账号体系，支持配方参数输入，快速完成包封率与释放曲线智能预测。
+- 搭主动学习循环的交互接口：建主动学习人机协同接口，展示多目标优化候选实验方案，支持科研人员经验筛选与约束调整，形成闭环研发迭代。
+5. 作为算法与领域知识的翻译枢纽
+- 从化学直觉到算法实现：理解制剂研发专业机理，将实验现象与行业经验转化为模型训练标签与辅助任务，强化多任务建模能力。
+- 向非技术团队解释模型决策：运用模型可解释性算法，生成可视化决策解释结果，向非技术研发团队拆解模型预测依据，提升模型可信度与落地应用价值。",2年及以上|硕士|ai|版本管理|网络结构|聚合物|迁移学习|分子结构|模型监控|ai模型|接口服务|五险一金|补充医疗保险|员工旅游|年终奖金|绩效奖金|股票期权|定期体检|餐饮补贴|专业培训|交通补贴,Python|机器学习|NumPy|scikit-learn|PyTorch|Docker,Python|机器学习|NumPy|scikit-learn|PyTorch|Docker,Python|机器学习|NumPy|scikit-learn|PyTorch|Docker,Python=>编程语言 || 机器学习=>人工智能 || NumPy=>数据处理库 || scikit-learn=>机器学习框架 || PyTorch=>深度学习框架 || Docker=>容器技术,Python=>精通Python，熟练使用numpy、scipy等科学计算栈。 || 机器学习=>- 具有扎实的概率论、线性代数、最优化理论基础，系统学习过机器学习经典教材（如PRML、ESL）。 || NumPy=>精通Python，熟练使用numpy、scipy等科学计算栈。 || scikit-learn=>- 精通PyTorch，能够从零搭建复杂模型而非仅调用Sklearn接口。 || PyTorch=>- 精通PyTorch，能够从零搭建复杂模型而非仅调用Sklearn接口。 || Docker=>- 熟练使用MLflow、Weights & Biases、DVC（与数据工程师配合作业），能使用Docker进行模型容器化，接触过Kubernetes模型服务（如KServe）；,requirement_text,platform_major_not_supported
+3,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,深圳,040000,170134026,https://jobs.51job.com/shenzhen/170134026.html,2026-06-20T19:01:29.760243,52b07c57f2f90197,585e50c4b879cbee,机器学习工程师 - 合规/供应链/ESG方向,达岸咨询（深圳）有限公司,深圳,,2-3万·13薪,20000,30000,13,本科,本科,10年以上,10年及以上,10,,下限,全职,检测，认证,150-500人,外资（欧美）,2026-01-06,2026-01-06 11:22:01,114.126694,22.547769,unverified_api_only,,,,未说明,,not_specified,岗位正文未明确专业要求，API隐藏专业标签不纳入标准专业候选,"About LRQA 
+
+We are the leading global assurance partner, bringing together decades of unrivalled expertise in assessment, advisory, inspection and cybersecurity services. Our solutions-based partnerships are supported by data-driven insights that help our clients solve their biggest business challenges. Our award-winning compliance, supply chain, cybersecurity and ESG specialists help more than 61,000 clients across almost every sector to anticipate, mitigate and manage risk wherever they operate. 
+ 作为全球当先的保障合作伙伴，我们凝聚数十年评估、咨询、检验与网络安全服务领域的卓著经验，以数据驱动的洞察力支撑基于解决方案的伙伴关系，助力客户应对最严峻的商业挑战。凭借屡获殊荣的专业团队，我们在合规、供应链、网络安全及ESG（环境、社会和治理）领域为超过61,000家横跨几乎所有行业的客户提供支持，协助他们在全球运营中预见风险、化解风险并管理风险。
+
+Purpose of role 岗位核心目标
+
+
+Lead the technical development and optimization of our adverse media screening services by leveraging advanced data science, AI, and machine learning techniques. Stay updated on technological advancements to continuously enhance product design, risk detection accuracy, and delivery performance in a dynamic regulatory environment.
+
+该岗位负责指导媒体筛查服务的技术开发与优化，充分运用先进的数据科学、AI人工智能和机器学习技术。需关注***趋势，持续产品优化，提升风险识别的准确性和交付效率，以应对不断变化的监管环境。 
+
+
+Key Responsibilities 核心职责
+
+a.) Spearhead the technical roadmap for our adverse media screening solution, driving innovation and implementing cutting-edge algorithms that keep us ahead of the competition. 
+制定并指导媒体筛查服务的技术路线图，推动创新，应用前沿算法，保持产品行业当先。
+
+b.) Develop and fine-tune ML models and NLP systems that effectively detect and analyze adverse media across global sources, with particular focus on multi-language content and regional nuances. 
+设计、开发并优化机器学习模型及自然语言处理系统，实现全球范围内媒体筛查的高效识别与分析，重点关注多语言文本及区域性表达差异。 
+
+c.) Keep a finger on the pulse of emerging technologies in AI, NLP and data science fields that could enhance our risk screening capabilities and user experience. 
+密切关注 AI、NLP 和数据科学领域的新兴技术，探索提升风险筛查能力和用户体验。
+
+d.) Streamline data processing pipelines to handle the increasing volume and complexity of media sources without compromising on performance or accuracy. 
+优化数据处理流程，应对媒体来源日益增长的数量和复杂性，同时处理确保性能与准确性不受影响。 
+
+e.) Work hand-in-hand with our compliance, legal and risk management teams to ensure our technical solutions address regulatory requirements and evolving risk frameworks. 
+与合规、法务及风险管理团队紧密合作，确保技术符合监管要求并适应不断变化的风险框架。 
+
+f.) Tackle the persistent challenge of false positives by enhancing contextual understanding through advanced entity resolution and sentiment analysis techniques. 
+通过先进的实体解析和情感分析技术，增强模型的语境理解能力，有效减少并解决误报问题。 
+
+g.) Architect and build resilient ML infrastructure that supports real-time monitoring with minimal latency and maximum reliability. 
+构建稳健的机器学习基础架构，支持实时监控，确保低延迟和高可靠性。 
+
+h.) Champion rigorous testing methodologies and model validation processes that deliver transparency and meet regulatory standards. 
+推动严密的测试方法和模型验证流程，确保透明度并符合监管标准。 
+
+i.) Coach and develop talent within our technical teams, fostering a culture of continuous learning and technical excellence. 
+指导并培养技术团队成员，营造持续学习和追求技术卓著的文化。 
+
+Required Skills and Experience 岗位技能经验要求
+
+a.) Solid track record in applied data science, ML and NLP, ideally within compliance technology, or risk screening sectors. 
+在应用数据科学、机器学习及自然语言处理领域具有扎实的实践经验，具备合规科技或风险筛查行业背景者优先。 
+
+b.) Hands-on experience addressing the unique challenges of adverse media analysis, including disambiguation of entities and processing text across multiple languages and sources. 
+熟悉负面媒体内容分析的关键难点并掌握相关经验，包括实体消歧、多语言及多来源文本处理。
+
+c.) Technical proficiency in sentiment analysis, named entity recognition, classification algorithms, and anomaly detection systems. 
+精通情感分析、命名实体识别、分类算法及异常检测系统等技术。 
+
+d.) Strong Python development skills and practical experience with major ML frameworks (TensorFlow, PyTorch, Scikit-learn, etc.). 
+具备扎实的 Python 开发能力，并熟练使用主流机器学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）。 
+
+e.) Working knowledge of big data technologies and experience building systems that process information in near real-time. 
+了解大数据技术，具备构建近实时信息处理系统的经验。 
+
+f.) Demonstrated ability to implement transparent, explainable AI solutions that meet regulatory requirements in highly regulated industries. 
+能够实施透明、可解释的 AI 解决方案，满足高度监管行业的合规要求。 
+
+g.) Sharp problem-solving abilities, strategic mindset, and excellent stakeholder management skills. 
+具备敏锐的问题解决能力、战略思维，以及优秀的利益相关方管理技巧。
+
+h.) Previous experience leading technical initiatives or managing technical teams in a product environment is highly desirable. 
+有在产品环境中领导技术项目或管理技术团队的经验者优先。","About LRQA
+
+We are the leading global assurance partner, bringing together decades of unrivalled expertise in assessment, advisory, inspection and cybersecurity services. Our solutions-based partnerships are supported by data-driven insights that help our clients solve their biggest business challenges. Our award-winning compliance, supply chain, cybersecurity and ESG specialists help more than 61,000 clients across almost every sector to anticipate, mitigate and manage risk wherever they operate.
+作为全球当先的保障合作伙伴，我们凝聚数十年评估、咨询、检验与网络安全服务领域的卓著经验，以数据驱动的洞察力支撑基于解决方案的伙伴关系，助力客户应对最严峻的商业挑战。凭借屡获殊荣的专业团队，我们在合规、供应链、网络安全及ESG（环境、社会和治理）领域为超过61,000家横跨几乎所有行业的客户提供支持，协助他们在全球运营中预见风险、化解风险并管理风险。
+
+Purpose of role 岗位核心目标
+
+Lead the technical development and optimization of our adverse media screening services by leveraging advanced data science, AI, and machine learning techniques. Stay updated on technological advancements to continuously enhance product design, risk detection accuracy, and delivery performance in a dynamic regulatory environment.
+
+该岗位负责指导媒体筛查服务的技术开发与优化，充分运用先进的数据科学、AI人工智能和机器学习技术。需关注***趋势，持续产品优化，提升风险识别的准确性和交付效率，以应对不断变化的监管环境。
+
+Key Responsibilities 核心职责
+
+a.) Spearhead the technical roadmap for our adverse media screening solution, driving innovation and implementing cutting-edge algorithms that keep us ahead of the competition.
+制定并指导媒体筛查服务的技术路线图，推动创新，应用前沿算法，保持产品行业当先。
+
+b.) Develop and fine-tune ML models and NLP systems that effectively detect and analyze adverse media across global sources, with particular focus on multi-language content and regional nuances.
+设计、开发并优化机器学习模型及自然语言处理系统，实现全球范围内媒体筛查的高效识别与分析，重点关注多语言文本及区域性表达差异。
+
+c.) Keep a finger on the pulse of emerging technologies in AI, NLP and data science fields that could enhance our risk screening capabilities and user experience.
+密切关注 AI、NLP 和数据科学领域的新兴技术，探索提升风险筛查能力和用户体验。
+
+d.) Streamline data processing pipelines to handle the increasing volume and complexity of media sources without compromising on performance or accuracy.
+优化数据处理流程，应对媒体来源日益增长的数量和复杂性，同时处理确保性能与准确性不受影响。
+
+e.) Work hand-in-hand with our compliance, legal and risk management teams to ensure our technical solutions address regulatory requirements and evolving risk frameworks.
+与合规、法务及风险管理团队紧密合作，确保技术符合监管要求并适应不断变化的风险框架。
+
+f.) Tackle the persistent challenge of false positives by enhancing contextual understanding through advanced entity resolution and sentiment analysis techniques.
+通过先进的实体解析和情感分析技术，增强模型的语境理解能力，有效减少并解决误报问题。
+
+g.) Architect and build resilient ML infrastructure that supports real-time monitoring with minimal latency and maximum reliability.
+构建稳健的机器学习基础架构，支持实时监控，确保低延迟和高可靠性。
+
+h.) Champion rigorous testing methodologies and model validation processes that deliver transparency and meet regulatory standards.
+推动严密的测试方法和模型验证流程，确保透明度并符合监管标准。
+
+i.) Coach and develop talent within our technical teams, fostering a culture of continuous learning and technical excellence.
+指导并培养技术团队成员，营造持续学习和追求技术卓著的文化。
+
+Required Skills and Experience 岗位技能经验要求
+
+a.) Solid track record in applied data science, ML and NLP, ideally within compliance technology, or risk screening sectors.
+在应用数据科学、机器学习及自然语言处理领域具有扎实的实践经验，具备合规科技或风险筛查行业背景者优先。
+
+b.) Hands-on experience addressing the unique challenges of adverse media analysis, including disambiguation of entities and processing text across multiple languages and sources.
+熟悉负面媒体内容分析的关键难点并掌握相关经验，包括实体消歧、多语言及多来源文本处理。
+
+c.) Technical proficiency in sentiment analysis, named entity recognition, classification algorithms, and anomaly detection systems.
+精通情感分析、命名实体识别、分类算法及异常检测系统等技术。
+
+d.) Strong Python development skills and practical experience with major ML frameworks (TensorFlow, PyTorch, Scikit-learn, etc.).
+具备扎实的 Python 开发能力，并熟练使用主流机器学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）。
+
+e.) Working knowledge of big data technologies and experience building systems that process information in near real-time.
+了解大数据技术，具备构建近实时信息处理系统的经验。
+
+f.) Demonstrated ability to implement transparent, explainable AI solutions that meet regulatory requirements in highly regulated industries.
+能够实施透明、可解释的 AI 解决方案，满足高度监管行业的合规要求。
+
+g.) Sharp problem-solving abilities, strategic mindset, and excellent stakeholder management skills.
+具备敏锐的问题解决能力、战略思维，以及优秀的利益相关方管理技巧。
+
+h.) Previous experience leading technical initiatives or managing technical teams in a product environment is highly desirable.
+有在产品环境中领导技术项目或管理技术团队的经验者优先。",,,10年及以上|本科|esg|合规|supply|chain|供应链|数据分析|六险一金|通讯补贴|专业培训|绩效奖金|年终奖金|弹性工作|定期体检,Python|机器学习|scikit-learn|TensorFlow|PyTorch,,Python|机器学习|scikit-learn|TensorFlow|PyTorch,Python=>编程语言 || 机器学习=>人工智能 || scikit-learn=>机器学习框架 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架,"Python=>d.) Strong Python development skills and practical experience with major ML frameworks (TensorFlow, PyTorch, Scikit-learn, etc.). || 机器学习=>该岗位负责指导媒体筛查服务的技术开发与优化，充分运用先进的数据科学、AI人工智能和机器学习技术。 || scikit-learn=>d.) Strong Python development skills and practical experience with major ML frameworks (TensorFlow, PyTorch, Scikit-learn, etc.). || TensorFlow=>d.) Strong Python development skills and practical experience with major ML frameworks (TensorFlow, PyTorch, Scikit-learn, etc.). || PyTorch=>d.) Strong Python development skills and practical experience with major ML frameworks (TensorFlow, PyTorch, Scikit-learn, etc.).",job_description_fallback,requirement_section_missing|district_missing|major_missing|platform_major_unverified
+4,51job,2026-06-20.6,2026-06-18.1,2026-06-18.1,机器学习工程师,深圳,040000,166988796,https://jobs.51job.com/shenzhen-nsq/166988796.html,2026-06-20T19:01:29.762244,1b8adf0673b92ad1,a593e8822999e96e,初级java开发+机器学习工程师,深圳市瑞维控股有限公司,深圳,南山区,7千-1.2万·13薪,7000,12000,13,本科,本科,1年以上,1年及以上,1,,下限,全职,计算机软件,150-500人,民营,2026-06-15,2026-06-15 10:19:30,113.943692,22.550702,not_provided,计算机,计算机类,计算机类=>工学,要求,1、计算机相关专业，本科一本及以上学历，具有 1年左右相关工作经验，接受2025年985/211院校应届生投递,description,仅依据岗位正文中的专业要求及证据生成标准专业候选,"配比：Java30%+机器学习65%+测试5%
+岗位职责：
+1、参与机器学习相关项目的需求分析、方案设计和技术预研，结合业务目标制定建模策略。
+2、负责业务数据的采集、清洗、预处理及特征构建与优化。
+3、在指导下或独立完成预测类模型的选型、训练、评估与调优。
+4、分析模型效果，诊断并解决性能退化等问题。
+5、参与模型上线后的监控与迭代优化，确保预测结果满足业务目标。
+6、跟踪机器学习与数据科学领域的前沿技术，并探索其在业务场景中的应用落地。
+7、编写技术文档、分析报告和项目总结。
+
+任职要求：
+1、计算机相关专业，本科一本及以上学历，具有 1年左右相关工作经验，接受2025年985/211院校应届生投递。
+2、熟悉Java及Spring框架，熟悉Python
+3、熟悉常用机器学习算法及评估指标，具备良好的数据分析与建模能力。
+4、熟悉至少一种机器学习平台（如 H2O、SageMaker、Databricks 等）。
+5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。
+6、熟悉并能应用常见建模算法，如GBM、XGBoost、DRF（分布式随机森林）、XRT（极端随机树）、深度学习中的一种或几种。
+7、具备独立完成数据清洗、特征处理及优化的能力。
+8、具备良好的学习能力、沟通能力和团队协作精神。","配比：Java30%+机器学习65%+测试5%
+岗位职责：
+1、参与机器学习相关项目的需求分析、方案设计和技术预研，结合业务目标制定建模策略。
+2、负责业务数据的采集、清洗、预处理及特征构建与优化。
+3、在指导下或独立完成预测类模型的选型、训练、评估与调优。
+4、分析模型效果，诊断并解决性能退化等问题。
+5、参与模型上线后的监控与迭代优化，确保预测结果满足业务目标。
+6、跟踪机器学习与数据科学领域的前沿技术，并探索其在业务场景中的应用落地。
+7、编写技术文档、分析报告和项目总结。
+
+任职要求：
+1、计算机相关专业，本科一本及以上学历，具有 1年左右相关工作经验，接受2025年985/211院校应届生投递。
+2、熟悉Java及Spring框架，熟悉Python
+3、熟悉常用机器学习算法及评估指标，具备良好的数据分析与建模能力。
+4、熟悉至少一种机器学习平台（如 H2O、SageMaker、Databricks 等）。
+5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。
+6、熟悉并能应用常见建模算法，如GBM、XGBoost、DRF（分布式随机森林）、XRT（极端随机树）、深度学习中的一种或几种。
+7、具备独立完成数据清洗、特征处理及优化的能力。
+8、具备良好的学习能力、沟通能力和团队协作精神。","1、计算机相关专业，本科一本及以上学历，具有 1年左右相关工作经验，接受2025年985/211院校应届生投递。
+2、熟悉Java及Spring框架，熟悉Python
+3、熟悉常用机器学习算法及评估指标，具备良好的数据分析与建模能力。
+4、熟悉至少一种机器学习平台（如 H2O、SageMaker、Databricks 等）。
+5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。
+6、熟悉并能应用常见建模算法，如GBM、XGBoost、DRF（分布式随机森林）、XRT（极端随机树）、深度学习中的一种或几种。
+7、具备独立完成数据清洗、特征处理及优化的能力。
+8、具备良好的学习能力、沟通能力和团队协作精神。","1、参与机器学习相关项目的需求分析、方案设计和技术预研，结合业务目标制定建模策略。
+2、负责业务数据的采集、清洗、预处理及特征构建与优化。
+3、在指导下或独立完成预测类模型的选型、训练、评估与调优。
+4、分析模型效果，诊断并解决性能退化等问题。
+5、参与模型上线后的监控与迭代优化，确保预测结果满足业务目标。
+6、跟踪机器学习与数据科学领域的前沿技术，并探索其在业务场景中的应用落地。
+7、编写技术文档、分析报告和项目总结。",1年及以上|本科|机器学习|五险一金|员工旅游|餐饮补贴|周末双休|年终奖金|定期体检|过节费,Python|机器学习|Java|scikit-learn|TensorFlow|PyTorch|深度学习,Python|机器学习|Java|scikit-learn|TensorFlow|PyTorch|深度学习,Python|机器学习|Java|scikit-learn|TensorFlow|PyTorch|深度学习,Python=>编程语言 || 机器学习=>人工智能 || Java=>编程语言 || scikit-learn=>机器学习框架 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || 深度学习=>人工智能,Python=>2、熟悉Java及Spring框架，熟悉Python || 机器学习=>3、熟悉常用机器学习算法及评估指标，具备良好的数据分析与建模能力。 || Java=>2、熟悉Java及Spring框架，熟悉Python || scikit-learn=>5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。 || TensorFlow=>5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。 || PyTorch=>5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。 || 深度学习=>5、熟练掌握至少一种常用机器学习/深度学习库（如 Scikit-learn、LightGBM、TensorFlow、PyTorch 等）。,requirement_text,

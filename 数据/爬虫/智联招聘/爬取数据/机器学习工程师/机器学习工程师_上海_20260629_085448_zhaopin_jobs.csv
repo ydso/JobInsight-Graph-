@@ -1,0 +1,419 @@
+﻿序号,数据源,爬虫版本,技能词典版本,专业词典版本,搜索岗位,搜索城市,搜索城市编码,来源岗位ID,来源链接,采集时间,来源岗位指纹,内容指纹,岗位名称,公司名称,实际城市,区县,薪资原文,最低月薪,最高月薪,年薪月数,学历要求,学历原文,经验要求,经验原文,最低经验年限,最高经验年限,经验要求类型,岗位类型,行业,公司规模,公司性质,发布日期,发布日期原文,经度,纬度,API隐藏专业标签核验状态,正文专业候选原文,正文确认标准专业,专业类别,专业要求级别,专业证据,专业判定来源,专业判定说明,岗位描述原文,岗位描述清洗文本,任职要求文本,岗位职责文本,官网岗位标签,描述技能候选,任职要求技能候选,确认技能候选,技能类别,技能证据,技能提取范围,数据质量标记
+1,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,机器学习工程师,上海,538,40852372314,http://jobs.zhaopin.com/CC176030620J40852372314.htm,2026-06-29T09:04:51,99bee5115923850f,7846568c64822197,机器学习工程师,上海中智人才顾问咨询有限公司,上海,浦东,2-4万,20000,40000,12,本科,本科,3-5年,3-5年,3,5,区间,全职,人力资源,20-99人,国企,2026-03-31,2026-03-31 11:38:42,,,not_provided,计算机科学|统计学|数学|人工智能,计算机类|统计学|数学|人工智能,计算机类=>工学 || 统计学=>理学 || 数学=>理学 || 人工智能=>工学,相关专业优先,"计算机类=>学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•5年以上经验者优先，薪资面议
+•了解MLOps最佳 || 统计学=>学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•5年以上经验者优先，薪资面议
+•了解MLOps最佳实践，有模型部署与监控经 || 数学=>学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•5年以上经验者优先，薪资面议
+•了解MLOps最佳实践，有模型部署 || 人工智能=>学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•5年以上经验者优先，薪资面议
+•了解MLOps最佳实践，有模",description,仅依据岗位正文中的专业要求语境抽取,"岗位职责
+•负责机器学习算法的研究、设计与实现，涵盖分类、回归、聚类、推荐系统等核心领域
+•搭建与维护机器学习模型训练pipeline，包括数据预处理、特征工程、模型选型与训练
+•针对业务场景进行模型参数调优（Hyperparameter Tuning），持续提升模型效果与线上表现
+•跟踪大语言模型（LLM）前沿技术，负责LLM在实际业务中的应用开发与集成，包括但不限于Prompt Engineering、RAG、Fine-tuning、Agent等方向
+•与产品、工程团队紧密协作，将算法能力转化为可落地的产品功能
+•撰写技术文档，进行算法方案评审和技术分享
+任职要求
+学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•3–5年机器学习相关工作经验；具备丰富项目经验者，3年以下亦可考虑（需提供可演示的项目成果）
+•5年以上经验者优先，薪资面议
+专业技能
+•扎实的机器学习理论基础，熟悉常见算法（如SVM、XGBoost、Random Forest、神经网络等）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架
+•具备模型调优实战经验，熟悉Grid Search、Bayesian Optimization、学习率调度等调参策略
+•熟悉大语言模型的原理与应用，了解Transformer架构，具备LLM相关项目经验（如Prompt Engineering、RAG、Fine-tuning等）
+•了解MLOps最佳实践，有模型部署与监控经验者优先
+加分项
+•有Kaggle竞赛获奖经历或高质量开源项目贡献
+•在机器学习、NLP、CV等领域有论文发表
+•具备分布式训练经验（如DeepSpeed、Megatron等）
+•有多模态模型（Vision-Language Model）或Agent框架开发经验","岗位职责
+•负责机器学习算法的研究、设计与实现，涵盖分类、回归、聚类、推荐系统等核心领域
+•搭建与维护机器学习模型训练pipeline，包括数据预处理、特征工程、模型选型与训练
+•针对业务场景进行模型参数调优（Hyperparameter Tuning），持续提升模型效果与线上表现
+•跟踪大语言模型（LLM）前沿技术，负责LLM在实际业务中的应用开发与集成，包括但不限于Prompt Engineering、RAG、Fine-tuning、Agent等方向
+•与产品、工程团队紧密协作，将算法能力转化为可落地的产品功能
+•撰写技术文档，进行算法方案评审和技术分享
+任职要求
+学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•3–5年机器学习相关工作经验；具备丰富项目经验者，3年以下亦可考虑（需提供可演示的项目成果）
+•5年以上经验者优先，薪资面议
+专业技能
+•扎实的机器学习理论基础，熟悉常见算法（如SVM、XGBoost、Random Forest、神经网络等）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架
+•具备模型调优实战经验，熟悉Grid Search、Bayesian Optimization、学习率调度等调参策略
+•熟悉大语言模型的原理与应用，了解Transformer架构，具备LLM相关项目经验（如Prompt Engineering、RAG、Fine-tuning等）
+•了解MLOps最佳实践，有模型部署与监控经验者优先
+加分项
+•有Kaggle竞赛获奖经历或高质量开源项目贡献
+•在机器学习、NLP、CV等领域有论文发表
+•具备分布式训练经验（如DeepSpeed、Megatron等）
+•有多模态模型（Vision-Language Model）或Agent框架开发经验","学历与经验
+•本科及以上学历（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•3–5年机器学习相关工作经验；具备丰富项目经验者，3年以下亦可考虑（需提供可演示的项目成果）
+•5年以上经验者优先，薪资面议
+专业技能
+•扎实的机器学习理论基础，熟悉常见算法（如SVM、XGBoost、Random Forest、神经网络等）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架
+•具备模型调优实战经验，熟悉Grid Search、Bayesian Optimization、学习率调度等调参策略
+•熟悉大语言模型的原理与应用，了解Transformer架构，具备LLM相关项目经验（如Prompt Engineering、RAG、Fine-tuning等）
+•了解MLOps最佳实践，有模型部署与监控经验者优先
+加分项
+•有Kaggle竞赛获奖经历或高质量开源项目贡献
+•在机器学习、NLP、CV等领域有论文发表
+•具备分布式训练经验（如DeepSpeed、Megatron等）
+•有多模态模型（Vision-Language Model）或Agent框架开发经验","•负责机器学习算法的研究、设计与实现，涵盖分类、回归、聚类、推荐系统等核心领域
+•搭建与维护机器学习模型训练pipeline，包括数据预处理、特征工程、模型选型与训练
+•针对业务场景进行模型参数调优（Hyperparameter Tuning），持续提升模型效果与线上表现
+•跟踪大语言模型（LLM）前沿技术，负责LLM在实际业务中的应用开发与集成，包括但不限于Prompt Engineering、RAG、Fine-tuning、Agent等方向
+•与产品、工程团队紧密协作，将算法能力转化为可落地的产品功能
+•撰写技术文档，进行算法方案评审和技术分享",自然语言处理|机器视觉|搜索/推荐算法|本科|3-5年|人工智能,Python|机器学习|scikit-learn|TensorFlow|PyTorch|大语言模型|RAG|NLP|推荐算法|Prompt Engineering,Python|机器学习|scikit-learn|TensorFlow|PyTorch|大语言模型|RAG|NLP|Prompt Engineering,Python|机器学习|scikit-learn|TensorFlow|PyTorch|大语言模型|RAG|NLP|Prompt Engineering,Python=>编程语言 || 机器学习=>人工智能 || scikit-learn=>机器学习框架 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || 大语言模型=>人工智能 || RAG=>人工智能应用 || NLP=>人工智能 || Prompt Engineering=>人工智能应用,"Python=>如SVM、XGBoost、Random Forest、神经网络等）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架 || 机器学习=>（一本/211/985院校优先）计算机科学、人工智能、数学、统计学等相关专业，
+•3–5年机器学习相关工作经验；具备丰富项目经验者，3年以下亦可考虑（需提供可演示的项目成果）
+•5年以上经 || scikit-learn=>）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架
+•具备模型调优实战经验，熟悉Grid Search、Bayesian Op || TensorFlow=>Forest、神经网络等）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架
+•具备模型调优实战经验，熟悉Grid Sea || PyTorch=>ost、Random Forest、神经网络等）及其适用场景
+•熟练掌握Python，熟悉PyTorch / TensorFlow / Scikit-learn等主流ML框架
+•具备模型调优实战 || 大语言模型=>d Search、Bayesian Optimization、学习率调度等调参策略
+•熟悉大语言模型的原理与应用，了解Transformer架构，具备LLM相关项目经验（如Prompt En || RAG=>ransformer架构，具备LLM相关项目经验（如Prompt Engineering、RAG、Fine-tuning等）
+•了解MLOps最佳实践，有模型部署与监控经验者优先
+加分项 || NLP=>与监控经验者优先
+加分项
+•有Kaggle竞赛获奖经历或高质量开源项目贡献
+•在机器学习、NLP、CV等领域有论文发表
+•具备分布式训练经验（如DeepSpeed、Megatron等） || Prompt Engineering=>•熟悉大语言模型的原理与应用，了解Transformer架构，具备LLM相关项目经验（如Prompt Engineering、RAG、Fine-tuning等）
+•了解MLOps最佳实践，有模型部署与监控经验者优先",requirement_text,
+2,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,机器学习工程师,上海,538,40887970312,http://jobs.zhaopin.com/CC185804120J40887970312.htm,2026-06-29T09:04:51,14f6ab9952a24880,fed22673bd364ae3,人工智能/机器学习工程师,爱多邦(北京)信息技术服务有限公司,上海,杨浦,1.5-2.5万,15000,25000,12,本科,本科,5-10年,5-10年,5,10,区间,全职,软件/IT服务,100-299人,民营,2026-03-24,2026-03-24 11:50:09,,,not_provided,,,,未说明,,not_specified,岗位正文未识别到明确专业要求,"About the Job
+Now, more than ever, Technology needs to respond quickly to turn market disruptions into opportunities for our world-class brand. To achieve this, we must continue to develop our Enterprise Analytics, Data Science & Machine Learning capabilities and team to ensure we’re maximizing the power of the Nike enterprise in the analytics/machine learning space and managing data as a competitive advantage.
+If you’re ready to innovate and be a driving force for building solutions in Enterprise Data and Analytics organization, come join us now! You will be part of an organization that is revolutionizing Nike technology platforms and architecting a data and analytics landscape that is simplified, modern, flexible—and will ultimately enable Nike on its journey to beyond.
+Key Responsibilities
+Design, develop, and deploy intelligent AI agents capable of autonomous reasoning, tool use, memory management, and multi-step task execution using large language models (LLMs) and multi-modal models.
+Build and optimize Retrieval-Augmented Generation (RAG) systems with advanced retrieval, re-ranking, and context fusion strategies.
+Architect agent workflows using frameworks such as LangGraph, LangChain, DIFY, or similar orchestration platforms to support complex, stateful interactions.
+Implement robust prompt engineering, chain-of-thought prompting, and self-reflection mechanisms to enhance agent reliability and performance.
+Integrate external tools, APIs, and enterprise data sources into agent systems to enable real-world action and decision-making.
+Leverage classical and modern NLP techniques (e.g., BERT, Transformers, instruction-tuned models) to improve understanding, generation, and grounding.
+Collaborate with product, engineering, and data teams to embed agent-powered features into Nike’s digital products and internal platforms.
+Deploy and monitor agent applications using CI/CD pipelines (e.g., Jenkins, GitLab CI), containerization (Docker), and observability best practices.
+Scale AI infrastructure on public cloud platforms (AWS, Alibaba Cloud) to support low-latency, high-availability agent services.
+Qualifications:
+Bachelor’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field. Master’s or Ph.D. preferred.
+3+ years of hands-on experience in AI/ML, with demonstrated expertise in LLMs, RAG, and AI agent development.
+Proficiency with agent and workflow frameworks such as LangChain, LangGraph, DIFY, or AutoGen.
+Strong foundation in NLP and deep learning (Transformers, BERT, fine-tuning, quantization, etc.).
+Experience building search/retrieval systems with emphasis on recall, ranking, and semantic matching.
+Solid cloud engineering skills on AWS and/or Alibaba Cloud (e.g., SageMaker, ECS, Lambda, OSS).
+Familiarity with software engineering best practices: version control (Git), testing, CI/CD, and containerization.
+Ability to prototype rapidly while maintaining production-grade code quality.
+Excellent communication skills to bridge technical implementation and business impact.
+Why Join Us?
+Opportunity to pioneer next-generation AI agents that transform how Nike serves athletes and operates internally.
+Collaborative, innovative culture with access to cutting-edge research and real-world scale.
+Flexible, global work environment with mentorship and career growth paths in AI engineering.","About the Job
+Now, more than ever, Technology needs to respond quickly to turn market disruptions into opportunities for our world-class brand. To achieve this, we must continue to develop our Enterprise Analytics, Data Science & Machine Learning capabilities and team to ensure we’re maximizing the power of the Nike enterprise in the analytics/machine learning space and managing data as a competitive advantage.
+If you’re ready to innovate and be a driving force for building solutions in Enterprise Data and Analytics organization, come join us now! You will be part of an organization that is revolutionizing Nike technology platforms and architecting a data and analytics landscape that is simplified, modern, flexible—and will ultimately enable Nike on its journey to beyond.
+Key Responsibilities
+Design, develop, and deploy intelligent AI agents capable of autonomous reasoning, tool use, memory management, and multi-step task execution using large language models (LLMs) and multi-modal models.
+Build and optimize Retrieval-Augmented Generation (RAG) systems with advanced retrieval, re-ranking, and context fusion strategies.
+Architect agent workflows using frameworks such as LangGraph, LangChain, DIFY, or similar orchestration platforms to support complex, stateful interactions.
+Implement robust prompt engineering, chain-of-thought prompting, and self-reflection mechanisms to enhance agent reliability and performance.
+Integrate external tools, APIs, and enterprise data sources into agent systems to enable real-world action and decision-making.
+Leverage classical and modern NLP techniques (e.g., BERT, Transformers, instruction-tuned models) to improve understanding, generation, and grounding.
+Collaborate with product, engineering, and data teams to embed agent-powered features into Nike’s digital products and internal platforms.
+Deploy and monitor agent applications using CI/CD pipelines (e.g., Jenkins, GitLab CI), containerization (Docker), and observability best practices.
+Scale AI infrastructure on public cloud platforms (AWS, Alibaba Cloud) to support low-latency, high-availability agent services.
+Qualifications:
+Bachelor’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field. Master’s or Ph.D. preferred.
+3+ years of hands-on experience in AI/ML, with demonstrated expertise in LLMs, RAG, and AI agent development.
+Proficiency with agent and workflow frameworks such as LangChain, LangGraph, DIFY, or AutoGen.
+Strong foundation in NLP and deep learning (Transformers, BERT, fine-tuning, quantization, etc.).
+Experience building search/retrieval systems with emphasis on recall, ranking, and semantic matching.
+Solid cloud engineering skills on AWS and/or Alibaba Cloud (e.g., SageMaker, ECS, Lambda, OSS).
+Familiarity with software engineering best practices: version control (Git), testing, CI/CD, and containerization.
+Ability to prototype rapidly while maintaining production-grade code quality.
+Excellent communication skills to bridge technical implementation and business impact.
+Why Join Us?
+Opportunity to pioneer next-generation AI agents that transform how Nike serves athletes and operates internally.
+Collaborative, innovative culture with access to cutting-edge research and real-world scale.
+Flexible, global work environment with mentorship and career growth paths in AI engineering.",,"About the Job
+Now, more than ever, Technology needs to respond quickly to turn market disruptions into opportunities for our world-class brand. To achieve this, we must continue to develop our Enterprise Analytics, Data Science & Machine Learning capabilities and team to ensure we’re maximizing the power of the Nike enterprise in the analytics/machine learning space and managing data as a competitive advantage.
+If you’re ready to innovate and be a driving force for building solutions in Enterprise Data and Analytics organization, come join us now! You will be part of an organization that is revolutionizing Nike technology platforms and architecting a data and analytics landscape that is simplified, modern, flexible—and will ultimately enable Nike on its journey to beyond.
+Key Responsibilit",自然语言处理|机器视觉|集成学习|分类回归|聚类算法|搜索/检索/知识图谱|DIFY/AUTOGEN|Python|GIT/CI/CD/容器化|AWS/阿里云|LANGGRAPH|搜索/推荐算法|AGENT 开发|C语言|本科|5-10年|AGENT /供应链|国际贸易|人工智能,Git|Docker|RAG|LangChain|Transformers|NLP|Prompt Engineering|Jenkins|GitLab CI|阿里云|AWS,,Git|Docker|RAG|LangChain|Transformers|NLP|Prompt Engineering|Jenkins|GitLab CI|阿里云|AWS,Git=>开发工具 || Docker=>容器技术 || RAG=>人工智能应用 || LangChain=>大模型框架 || Transformers=>深度学习框架 || NLP=>人工智能 || Prompt Engineering=>人工智能应用 || Jenkins=>DevOps || GitLab CI=>DevOps || 阿里云=>云平台 || AWS=>云平台,"Git=>engineering best practices: version control (Git), testing, CI/CD, and containerization.
+Abi || Docker=>e.g., Jenkins, GitLab CI), containerization (Docker), and observability best practices.
+Scale A || RAG=>and optimize Retrieval-Augmented Generation (RAG) systems with advanced retrieval, re-ranking || LangChain=>orkflows using frameworks such as LangGraph, LangChain, DIFY, or similar orchestration platforms to || Transformers=>sical and modern NLP techniques (e.g., BERT, Transformers, instruction-tuned models) to improve unders || NLP=>ision-making.
+Leverage classical and modern NLP techniques (e.g., BERT, Transformers, instru || Prompt Engineering=>ex, stateful interactions.
+Implement robust prompt engineering, chain-of-thought prompting, and self-reflec || Jenkins=>nt applications using CI/CD pipelines (e.g., Jenkins, GitLab CI), containerization (Docker), and || GitLab CI=>ations using CI/CD pipelines (e.g., Jenkins, GitLab CI), containerization (Docker), and observabili || 阿里云=>frastructure on public cloud platforms (AWS, Alibaba Cloud) to support low-latency, high-availability a || AWS=>AI infrastructure on public cloud platforms (AWS, Alibaba Cloud) to support low-latency, high",job_description,
+3,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,机器学习工程师,上海,538,40841091405,http://jobs.zhaopin.com/CCL1480117890J40841091405.htm,2026-06-29T09:04:51,26d24fce97fa21bd,f6baccdbf79de615,AI工程师-机器学习,外企德科数字技术有限公司,上海,浦东,1.5-3万·14薪,15000,30000,14,本科,本科,1-3年,1-3年,1,3,区间,全职,软件/IT服务,10000人以上,合资,2026-06-29,2026-06-29 00:29:34,,,not_provided,计算机科学|统计学|应用数学,计算机类|统计学|数学,计算机类=>工学 || 统计学=>理学 || 数学=>理学,相关专业优先,"计算机类=>1、计算机科学、机器学习、统计学、应用数学等相关专业
+能够开发基于实时数据的高性能分布式算法者优先
+4、 || 统计学=>1、计算机科学、机器学习、统计学、应用数学等相关专业
+能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和 || 数学=>1、计算机科学、机器学习、统计学、应用数学等相关专业
+能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和学术期刊发",description,仅依据岗位正文中的专业要求语境抽取,"定级定薪不卡涨幅
+岗位职责：
+1、从事机器学习算法和理论的前沿研究工作，研究领域包括：元学习、AutoML、深度学习、强化学习、贝叶斯学习等；
+2、探索人工智能应用，构建智能系统，提供AI云服务；
+3、面向业务的AI服务化能力构建: 完成场景化的算法模块化开发、离线测试、A/B测试、模型的工程化部署和模型的持续迭代将机器学习算法落地到研发流程及产品，助力数字化转型。协同学术界/工业界专家资源，探索具备高度适应性的高能效AI算法、架构与平台 。 岗位要求 任职要求：
+1、计算机科学、机器学习、统计学、应用数学等相关专业；熟悉Linux操作系统，对常见的数据结构和算法有一定的了解
+2、有良好的研究背景和成果，对算法研究兴趣浓厚，业务抽象能力强；具备创造性思维，能够将全新想法转化为工程应用；对研究工作充满热情，具备良好的团队合作精神和沟通能力；
+3、具备较强的编程能力，精通主流编程语言，如C/C++ /Java /Python等；能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和学术期刊发表过相关论文，或有高水平竞赛获奖经历加分。
+【福利待遇】：
+1、底薪(15-25k)+绩效(2-5k) (根据技术面试能力定级定薪)
+2、试用期不打折，年终奖2-4个月
+3、入职缴纳五险一金，公积金按底薪全额缴纳
+4、入职就有导师一对一，带教半年
+5、优质华为研究所办公环境和技术氛围
+6、加班费、交通报销、免费宵夜、班车、健身房、下午茶，团建，带薪年假","定级定薪不卡涨幅
+岗位职责：
+1、从事机器学习算法和理论的前沿研究工作，研究领域包括：元学习、AutoML、深度学习、强化学习、贝叶斯学习等；
+2、探索人工智能应用，构建智能系统，提供AI云服务；
+3、面向业务的AI服务化能力构建: 完成场景化的算法模块化开发、离线测试、A/B测试、模型的工程化部署和模型的持续迭代将机器学习算法落地到研发流程及产品，助力数字化转型。协同学术界/工业界专家资源，探索具备高度适应性的高能效AI算法、架构与平台 。 岗位要求 任职要求：
+1、计算机科学、机器学习、统计学、应用数学等相关专业；熟悉Linux操作系统，对常见的数据结构和算法有一定的了解
+2、有良好的研究背景和成果，对算法研究兴趣浓厚，业务抽象能力强；具备创造性思维，能够将全新想法转化为工程应用；对研究工作充满热情，具备良好的团队合作精神和沟通能力；
+3、具备较强的编程能力，精通主流编程语言，如C/C++ /Java /Python等；能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和学术期刊发表过相关论文，或有高水平竞赛获奖经历加分。
+【福利待遇】：
+1、底薪(15-25k)+绩效(2-5k) (根据技术面试能力定级定薪)
+2、试用期不打折，年终奖2-4个月
+3、入职缴纳五险一金，公积金按底薪全额缴纳
+4、入职就有导师一对一，带教半年
+5、优质华为研究所办公环境和技术氛围
+6、加班费、交通报销、免费宵夜、班车、健身房、下午茶，团建，带薪年假",,"1、从事机器学习算法和理论的前沿研究工作，研究领域包括：元学习、AutoML、深度学习、强化学习、贝叶斯学习等；
+2、探索人工智能应用，构建智能系统，提供AI云服务；
+3、面向业务的AI服务化能力构建: 完成场景化的算法模块化开发、离线测试、A/B测试、模型的工程化部署和模型的持续迭代将机器学习算法落地到研发流程及产品，助力数字化转型。协同学术界/工业界专家资源，探索具备高度适应性的高能效AI算法、架构与平台 。 岗位要求 任职要求：
+1、计算机科学、机器学习、统计学、应用数学等相关专业；熟悉Linux操作系统，对常见的数据结构和算法有一定的了解
+2、有良好的研究背景和成果，对算法研究兴趣浓厚，业务抽象能力强；具备创造性思维，能够将全新想法转化为工程应用；对研究工作充满热情，具备良好的团队合作精神和沟通能力；
+3、具备较强的编程能力，精通主流编程语言，如C/C++ /Java /Python等；能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和学术期刊发表过相关论文，或有高水平竞赛获奖经历加分。
+【福利待遇】：
+1、底薪(15-25k)+绩效(2-5k) (根据技术面试能力定级定薪)
+2、试用期不打折，年终奖2-4个月
+3、入职缴纳五险一金，公积金按底薪全额缴纳
+4、入职就有导师一对一，带教半年
+5、优质华为研究所办公环境和技术氛围
+6、加班费、交通报销、免费宵夜、班车、健身房、下午茶，团建，带薪年假",机器视觉|图像算法|智能驾驶|Python|C++|C语言|本科|1-3年|人工智能|云计算|计算机软件|年终奖|五险一金|公积金|加班费|交通报销|班车|健身房|下午茶|团建|带薪年假|加班补助|交通补助|免费班车|免费健身|定期团建|带薪假期,Python|机器学习|Java|C++|深度学习|A/B测试|Linux,,Python|机器学习|Java|C++|深度学习|A/B测试|Linux,Python=>编程语言 || 机器学习=>人工智能 || Java=>编程语言 || C++=>编程语言 || 深度学习=>人工智能 || A/B测试=>实验分析 || Linux=>操作系统,"Python=>作精神和沟通能力；
+3、具备较强的编程能力，精通主流编程语言，如C/C++ /Java /Python等；能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和学术期刊发表过相关 || 机器学习=>定级定薪不卡涨幅
+岗位职责：
+1、从事机器学习算法和理论的前沿研究工作，研究领域包括：元学习、AutoML、深度学习、强化学习、贝叶斯学 || Java=>良好的团队合作精神和沟通能力；
+3、具备较强的编程能力，精通主流编程语言，如C/C++ /Java /Python等；能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平国际会议和学 || C++=>热情，具备良好的团队合作精神和沟通能力；
+3、具备较强的编程能力，精通主流编程语言，如C/C++ /Java /Python等；能够开发基于实时数据的高性能分布式算法者优先
+4、在高水平 || 深度学习=>岗位职责：
+1、从事机器学习算法和理论的前沿研究工作，研究领域包括：元学习、AutoML、深度学习、强化学习、贝叶斯学习等；
+2、探索人工智能应用，构建智能系统，提供AI云服务；
+3、面向 || A/B测试=>供AI云服务；
+3、面向业务的AI服务化能力构建: 完成场景化的算法模块化开发、离线测试、A/B测试、模型的工程化部署和模型的持续迭代将机器学习算法落地到研发流程及产品，助力数字化转型。协同 || Linux=>平台 。 岗位要求 任职要求：
+1、计算机科学、机器学习、统计学、应用数学等相关专业；熟悉Linux操作系统，对常见的数据结构和算法有一定的了解
+2、有良好的研究背景和成果，对算法研究兴趣浓",job_description,
+4,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,机器学习工程师,上海,538,40994226204,http://jobs.zhaopin.com/CCL1451204680J40994226204.htm,2026-06-29T09:04:51,4be8aa99e17ee25e,1211976a8e0c3b10,机器学习算法工程师,九章(济南)量子科技有限公司,上海,浦东,2-4万,20000,40000,12,硕士,硕士,经验不限,经验不限,,,不限,全职,专用设备制造,20-99人,股份制企业,2026-05-20,2026-05-20 00:00:00,,,not_provided,,,,未说明,,not_specified,岗位正文未识别到明确专业要求,"岗位职责： 负责产业中的预测类问题建模与求解
+应用机器学习、深度学习方法构建预测模型
+支持数据处理、特征工程与算法优化
+探索将量子计算引入机器学习流程的新方法
+专业背景
+硕士及以上，具有以下背景之一：
+计算机科学与技术
+人工智能/数据科学
+物理学（含量子信息方向）
+
+任职要求
+熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问题、时序建模或分类回归问题有实践经验
+具备数学建模能力和数据处理能力
+有科研/项目开发经验者优先；编程竞赛或 Kaggle 优胜者优先
+我们能提供
+与国际领先的量子计算科研团队共同工作机会
+接触前沿的量子计算实验平台与产业应用
+具有竞争力的薪酬和完善的科研支持
+助力个人在量子计算 + 算法/AI/云计算交叉领域快速成长
+所属单位
+九章（济南）量子科技有限公司
+由中国科学技术大学陆朝阳教授领衔的量子计算科研团队组建，团队核心成员参与“九章”系列光量子计算原型机的研发，致力于推动高维玻色子采样和光学量子计算实验平台建设及其产业应用。","岗位职责： 负责产业中的预测类问题建模与求解
+应用机器学习、深度学习方法构建预测模型
+支持数据处理、特征工程与算法优化
+探索将量子计算引入机器学习流程的新方法
+专业背景
+硕士及以上，具有以下背景之一：
+计算机科学与技术
+人工智能/数据科学
+物理学（含量子信息方向）
+
+任职要求
+熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问题、时序建模或分类回归问题有实践经验
+具备数学建模能力和数据处理能力
+有科研/项目开发经验者优先；编程竞赛或 Kaggle 优胜者优先
+我们能提供
+与国际领先的量子计算科研团队共同工作机会
+接触前沿的量子计算实验平台与产业应用
+具有竞争力的薪酬和完善的科研支持
+助力个人在量子计算 + 算法/AI/云计算交叉领域快速成长
+所属单位
+九章（济南）量子科技有限公司
+由中国科学技术大学陆朝阳教授领衔的量子计算科研团队组建，团队核心成员参与“九章”系列光量子计算原型机的研发，致力于推动高维玻色子采样和光学量子计算实验平台建设及其产业应用。","熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问题、时序建模或分类回归问题有实践经验
+具备数学建模能力和数据处理能力
+有科研/项目开发经验者优先；编程竞赛或 Kaggle 优胜者优先
+我们能提供
+与国际领先的量子计算科研团队共同工作机会
+接触前沿的量子计算实验平台与产业应用
+具有竞争力的薪酬和完善的科研支持
+助力个人在量子计算 + 算法/AI/云计算交叉领域快速成长
+所属单位
+九章（济南）量子科技有限公司
+由中国科学技术大学陆朝阳教授领衔的量子计算科研团队组建，团队核心成员参与“九章”系列光量子计算原型机的研发，致力于推动高维玻色子采样和光学量子计算实验平台建设及其产业应用。","负责产业中的预测类问题建模与求解
+应用机器学习、深度学习方法构建预测模型
+支持数据处理、特征工程与算法优化
+探索将量子计算引入机器学习流程的新方法
+专业背景
+硕士及以上，具有以下背景之一：
+计算机科学与技术
+人工智能/数据科学
+物理学（含量子信息方向）",机器学习|Python|硕士|快速成长,Python|机器学习|C++|scikit-learn|TensorFlow|PyTorch|深度学习,Python|机器学习|C++|scikit-learn|TensorFlow|PyTorch|深度学习,Python|机器学习|C++|scikit-learn|TensorFlow|PyTorch|深度学习,Python=>编程语言 || 机器学习=>人工智能 || C++=>编程语言 || scikit-learn=>机器学习框架 || TensorFlow=>深度学习框架 || PyTorch=>深度学习框架 || 深度学习=>人工智能,"Python=>熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlo || 机器学习=>熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等） || C++=>熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorc || scikit-learn=>少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问题、时序建模或分类回归问题有实践经验
+具备数学建模能力和数据处理能力
+有 || TensorFlow=>掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问题、时序建模或分类回归问题有实 || PyTorch=>或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问题、时序建模或分类回归问题有实践经验
+具备数学 || 深度学习=>熟练掌握 Python、C 或 C++ 至少一门编程语言
+熟悉经典机器学习与深度学习框架（如 TensorFlow、PyTorch、Scikit-learn 等）
+对预测类问",requirement_text,
+5,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,机器学习工程师,上海,538,40786607305,http://jobs.zhaopin.com/CCL1480117890J40786607305.htm,2026-06-29T09:04:51,855f5b4cbaf73e12,6cc8143852c2c775,AI算法/机器学习/大模型（算法工程师）,外企德科数字技术有限公司,上海,青浦,2-4万·14薪,20000,40000,14,本科,本科,经验不限,经验不限,,,不限,全职,软件/IT服务,10000人以上,合资,2026-06-29,2026-06-29 00:28:49,,,not_provided,,,,未说明,,not_specified,岗位正文未识别到明确专业要求,"方向open，核心业务
+【岗位职责】
+1.参与模型微调，提升大模型的语义理解、指令循、Agent调用等通用能力
+2.负责NLP大模型端到端落地技术方案的设计和持续优化
+3.负责行业数据集自动化构建、预处理工作。
+【岗位要求】
+本科及以上学历
+1.熟练使用Python，了解至少一种深度学习框架比如TenorFlow,PyTorch等
+2.具备NLP算法训练或推理经验，熟悉prompt调优3.有良好的学习能力和创新思维，求知欲强,能够与团队良好合作和沟通，工作积极主动，自驱力强。
+【福利待遇】
+1、初中高级都在招聘、薪资open+14-16薪
+2、入职全额六险一金+双休，双倍加班费+加班餐补+加班打车 报销
+3、上下班有班车，园区有饭堂、免费健身房
+4、资深导师一对一带教
+【其他】
+其他业务线：
+a)机器学习方向:
+1、熟悉数据分析、特征工程等相关数据挖掘流程，同时熟悉回归，聚类，分类，推荐等机器学习算法实现，对常见的算法理解透彻；
+2、从事机器学习算法和理论前沿研究及应用。研究领域包括但不限于：监督学习、半监督学习、联邦学习、时序预测、异常检测、元学习、AutoML、深度学习、强化学习及模式识别等;
+b)自然语言处理/语音语义方向：
+1、从事但不限于文本分析、情感分析、实体抽取及关联抽取、语言消歧、机器翻译、对话和问答系统、深度自然语言处理、多模态语义理解、知识图谱等方向的应用研究和开发工作;
+2、负责自然语言处理核心算法及平台的设计与研发,提升自然语言相关产品的核心竞争力和用户体验;
+c)运筹优化方向：
+1、负责运筹优化方向的算法研究和开发，包括但不限于资源分配、路径优化、调度优化、智能分货、库存管理、定价策略及仿真平台构建等相关项目；
+2、熟悉组合优化、动态规划、启发式优化、随机优化、博弈论等算法能力;
+d）推荐搜索方向：
+1、从事但不限于包括用户画像、用户建模、精准营销、lookalike、目标人群选择，个性化的推荐，CTR预估等相关项目的算法研究与实现;
+2、洞察推荐系统和信息检索技术在工业级产品的有效解决方案；洞察学术界推荐系统和信息检索的最新研究成果，满足业务需求;
+e) AI平台/性能优化方向:
+1、算法优化：负责AI算法中计算在CPU/GPU/NPU等处理器上的计算性能优化，基础库设计；负责CNN/RNN/RL等模型的效果评估分析；负责持续跟踪业界最优实现，超越并创新；
+2、系统平台：负责AI相关系统平台的设计、开发和优化工作，在性能和易用性等指标上做好平衡；负责持续跟踪业界最优实现，超越并创新；负责和上下游客户对接，持续提升平台的性能和表现。","方向open，核心业务
+【岗位职责】
+1.参与模型微调，提升大模型的语义理解、指令循、Agent调用等通用能力
+2.负责NLP大模型端到端落地技术方案的设计和持续优化
+3.负责行业数据集自动化构建、预处理工作。
+【岗位要求】
+本科及以上学历
+1.熟练使用Python，了解至少一种深度学习框架比如TenorFlow,PyTorch等
+2.具备NLP算法训练或推理经验，熟悉prompt调优3.有良好的学习能力和创新思维，求知欲强,能够与团队良好合作和沟通，工作积极主动，自驱力强。
+【福利待遇】
+1、初中高级都在招聘、薪资open+14-16薪
+2、入职全额六险一金+双休，双倍加班费+加班餐补+加班打车 报销
+3、上下班有班车，园区有饭堂、免费健身房
+4、资深导师一对一带教
+【其他】
+其他业务线：
+a)机器学习方向:
+1、熟悉数据分析、特征工程等相关数据挖掘流程，同时熟悉回归，聚类，分类，推荐等机器学习算法实现，对常见的算法理解透彻；
+2、从事机器学习算法和理论前沿研究及应用。研究领域包括但不限于：监督学习、半监督学习、联邦学习、时序预测、异常检测、元学习、AutoML、深度学习、强化学习及模式识别等;
+b)自然语言处理/语音语义方向：
+1、从事但不限于文本分析、情感分析、实体抽取及关联抽取、语言消歧、机器翻译、对话和问答系统、深度自然语言处理、多模态语义理解、知识图谱等方向的应用研究和开发工作;
+2、负责自然语言处理核心算法及平台的设计与研发,提升自然语言相关产品的核心竞争力和用户体验;
+c)运筹优化方向：
+1、负责运筹优化方向的算法研究和开发，包括但不限于资源分配、路径优化、调度优化、智能分货、库存管理、定价策略及仿真平台构建等相关项目；
+2、熟悉组合优化、动态规划、启发式优化、随机优化、博弈论等算法能力;
+d）推荐搜索方向：
+1、从事但不限于包括用户画像、用户建模、精准营销、lookalike、目标人群选择，个性化的推荐，CTR预估等相关项目的算法研究与实现;
+2、洞察推荐系统和信息检索技术在工业级产品的有效解决方案；洞察学术界推荐系统和信息检索的最新研究成果，满足业务需求;
+e) AI平台/性能优化方向:
+1、算法优化：负责AI算法中计算在CPU/GPU/NPU等处理器上的计算性能优化，基础库设计；负责CNN/RNN/RL等模型的效果评估分析；负责持续跟踪业界最优实现，超越并创新；
+2、系统平台：负责AI相关系统平台的设计、开发和优化工作，在性能和易用性等指标上做好平衡；负责持续跟踪业界最优实现，超越并创新；负责和上下游客户对接，持续提升平台的性能和表现。",,"方向open，核心业务
+【岗位职责】
+1.参与模型微调，提升大模型的语义理解、指令循、Agent调用等通用能力
+2.负责NLP大模型端到端落地技术方案的设计和持续优化
+3.负责行业数据集自动化构建、预处理工作。
+【岗位要求】
+本科及以上学历
+1.熟练使用Python，了解至少一种深度学习框架比如TenorFlow,PyTorch等
+2.具备NLP算法训练或推理经验，熟悉prompt调优3.有良好的学习能力和创新思维，求知欲强,能够与团队良好合作和沟通，工作积极主动，自驱力强。
+【福利待遇】
+1、初中高级都在招聘、薪资open+14-16薪
+2、入职全额六险一金+双休，双倍加班费+加班餐补+加班打车 报销
+3、上下班有班车，园区有饭堂、免费健身房
+4、资深导师一对一带教
+【其他】
+其他业务线：
+a)机器学习方向:
+1、熟悉数据分析、特征工程等相关数据挖掘流程，同时熟悉回归，聚类，分类，推荐等机器学习算法实现，对常见的算法理解透彻；
+2、从事机器学习算法和理论前沿研究及应用。研究领域包括但不限于：监督学习、半监督学习、联邦学习、时序预测、异常检测、元学习、AutoML、深度学习、强化学习及模式识别等;
+b)自然语言处理/语音语义方向：
+1、从事但不限于文本分析、情感分析、实体抽取及关联抽取、语言消歧、机器翻译、对话和问答系统、深度自然语言处理、多模态语义理解、知识图谱等方向的应用研究和开发工作;
+2、负责自然语言处理核心算法及平台的设计与研发,提升自然语言相关产品的核心竞争力和用户体验;
+c)运筹优化方向：
+1、负责运筹优化方向的算法研究和开发，包括但不限于资源分配、路径优化、调度优化、智能分货、库存管理、定价策略及仿真平台构建等相关项目；
+2、熟悉组合优化、动态规划、启发式优化、随机优化、博弈论等算法能力;
+d）推荐搜索方向：
+1、从事但不限于包括用户画像、用户建模、精准营销",深度学习|本科|人工智能|14-16薪|六险一金|双倍加班费|加班餐补|上下班有班车|免费健身房|导师一对一带教|年终奖|加班补助|免费班车|免费健身|大牛带队,Python|机器学习|PyTorch|深度学习|数据挖掘|大语言模型|NLP|推荐算法,,Python|机器学习|PyTorch|深度学习|数据挖掘|大语言模型|NLP|推荐算法,Python=>编程语言 || 机器学习=>人工智能 || PyTorch=>深度学习框架 || 深度学习=>人工智能 || 数据挖掘=>数据分析方法 || 大语言模型=>人工智能 || NLP=>人工智能 || 推荐算法=>算法,"Python=>化
+3.负责行业数据集自动化构建、预处理工作。
+【岗位要求】
+本科及以上学历
+1.熟练使用Python，了解至少一种深度学习框架比如TenorFlow,PyTorch等
+2.具备NLP算法训练 || 机器学习=>上下班有班车，园区有饭堂、免费健身房
+4、资深导师一对一带教
+【其他】
+其他业务线：
+a)机器学习方向:
+1、熟悉数据分析、特征工程等相关数据挖掘流程，同时熟悉回归，聚类，分类，推荐等机器 || PyTorch=>本科及以上学历
+1.熟练使用Python，了解至少一种深度学习框架比如TenorFlow,PyTorch等
+2.具备NLP算法训练或推理经验，熟悉prompt调优3.有良好的学习能力和创新思维， || 深度学习=>化构建、预处理工作。
+【岗位要求】
+本科及以上学历
+1.熟练使用Python，了解至少一种深度学习框架比如TenorFlow,PyTorch等
+2.具备NLP算法训练或推理经验，熟悉pro || 数据挖掘=>师一对一带教
+【其他】
+其他业务线：
+a)机器学习方向:
+1、熟悉数据分析、特征工程等相关数据挖掘流程，同时熟悉回归，聚类，分类，推荐等机器学习算法实现，对常见的算法理解透彻；
+2、从事机 || 大语言模型=>方向open，核心业务
+【岗位职责】
+1.参与模型微调，提升大模型的语义理解、指令循、Agent调用等通用能力
+2.负责NLP大模型端到端落地技术方案的设计 || NLP=>职责】
+1.参与模型微调，提升大模型的语义理解、指令循、Agent调用等通用能力
+2.负责NLP大模型端到端落地技术方案的设计和持续优化
+3.负责行业数据集自动化构建、预处理工作。
+【岗 || 推荐算法=>kalike、目标人群选择，个性化的推荐，CTR预估等相关项目的算法研究与实现;
+2、洞察推荐系统和信息检索技术在工业级产品的有效解决方案；洞察学术界推荐系统和信息检索的最新研究成果，满足",job_description,
+6,zhaopin,2026-06-25.1,2026-06-18.1;2026-06-22.1+sha256:b9b87316,2026-06-18.1;2026-06-22.1+sha256:4b6deb61,机器学习工程师,上海,538,40816107807,http://jobs.zhaopin.com/CC000439650J40816107807.htm,2026-06-29T09:04:51,77151866a5e30234,9722dad45c54fa10,AI算法工程师（机器学习/深度学习方向）(J13012),中芯国际集成电路制造(上海)有限公司,上海,浦东,3-4.5万·15薪,30000,45000,15,硕士,硕士,经验不限,经验不限,,,不限,全职,半导体/芯片,10000人以上,上市公司,2026-04-22,2026-04-22 09:26:39,,,not_provided,计算机|自动化|人工智能,计算机类|自动化|人工智能,计算机类=>工学 || 自动化=>工学 || 人工智能=>工学,相关专业优先,"计算机类=>任职要求: 硕士及以上学历，计算机、人工智能、电子工程、自动化等相关专业
+加分项： 有制造业、半导体等智能化场景落地经验 || 自动化=>任职要求: 硕士及以上学历，计算机、人工智能、电子工程、自动化等相关专业
+加分项： 有制造业、半导体等智能化场景落地经验 || 人工智能=>任职要求: 硕士及以上学历，计算机、人工智能、电子工程、自动化等相关专业
+加分项： 有制造业、半导体等智能化场景落地经验",description,仅依据岗位正文中的专业要求语境抽取,岗位职责: 负责机器学习、深度学习模型的设计、训练与优化，支撑智能制造、质量分析、设备预测等场景； 参与大模型（LLM）能力在制造、知识问答、文档解析等方向的应用研究与效果评估； 根据业务需求构建算法解决方案（如异常检测、预测控制、图像识别、时间序列建模等）； 参与公司级AI平台算法能力建设，沉淀模型评估与复用标准； 撰写算法方案文档，参与项目评审、需求对接与持续优化。 任职要求: 硕士及以上学历，计算机、人工智能、电子工程、自动化等相关专业； 5年及以上机器学习、深度学习算法研发经验； 精通至少一种主流深度学习框架（PyTorch等）； 熟悉常见模型与算法（Yolo、Transformer、GNN、强化学习、异常检测、聚类等）； 熟悉特征工程、模型评估、超参优化与模型压缩部署流程； 精通 Python / Java / SQL 等至少一种编程语言； 具备良好的代码规范、科研阅读与工程实现能力。 加分项： 有制造业、半导体等智能化场景落地经验； 熟悉 RAG、知识图谱、Agent、模型微调（Fine-tuning / LoRA / Distillation）等方向； 了解 MLOps、模型服务化框架（TorchServe、vLLM、Triton Inference Server 等）。,岗位职责: 负责机器学习、深度学习模型的设计、训练与优化，支撑智能制造、质量分析、设备预测等场景； 参与大模型（LLM）能力在制造、知识问答、文档解析等方向的应用研究与效果评估； 根据业务需求构建算法解决方案（如异常检测、预测控制、图像识别、时间序列建模等）； 参与公司级AI平台算法能力建设，沉淀模型评估与复用标准； 撰写算法方案文档，参与项目评审、需求对接与持续优化。 任职要求: 硕士及以上学历，计算机、人工智能、电子工程、自动化等相关专业； 5年及以上机器学习、深度学习算法研发经验； 精通至少一种主流深度学习框架（PyTorch等）； 熟悉常见模型与算法（Yolo、Transformer、GNN、强化学习、异常检测、聚类等）； 熟悉特征工程、模型评估、超参优化与模型压缩部署流程； 精通 Python / Java / SQL 等至少一种编程语言； 具备良好的代码规范、科研阅读与工程实现能力。 加分项： 有制造业、半导体等智能化场景落地经验； 熟悉 RAG、知识图谱、Agent、模型微调（Fine-tuning / LoRA / Distillation）等方向； 了解 MLOps、模型服务化框架（TorchServe、vLLM、Triton Inference Server 等）。,,负责机器学习、深度学习模型的设计、训练与优化，支撑智能制造、质量分析、设备预测等场景； 参与大模型（LLM）能力在制造、知识问答、文档解析等方向的应用研究与效果评估； 根据业务需求构建算法解决方案（如异常检测、预测控制、图像识别、时间序列建模等）； 参与公司级AI平台算法能力建设，沉淀模型评估与复用标准； 撰写算法方案文档，参与项目评审、需求对接与持续优化。 任职要求: 硕士及以上学历，计算机、人工智能、电子工程、自动化等相关专业； 5年及以上机器学习、深度学习算法研发经验； 精通至少一种主流深度学习框架（PyTorch等）； 熟悉常见模型与算法（Yolo、Transformer、GNN、强化学习、异常检测、聚类等）； 熟悉特征工程、模型评估、超参优化与模型压缩部署流程； 精通 Python / Java / SQL 等至少一种编程语言； 具备良好的代码规范、科研阅读与工程实现能力。 加分项： 有制造业、半导体等智能化场景落地经验； 熟悉 RAG、知识图谱、Agent、模型微调（Fine-tuning / LoRA / Distillation）等方向； 了解 MLOps、模型服务化框架（TorchServe、vLLM、Triton Inference Server 等）。,深度学习|机器学习|大模型算法|硕士,Python|SQL|机器学习|Java|PyTorch|深度学习|大语言模型|RAG|计算机视觉,,Python|SQL|机器学习|Java|PyTorch|深度学习|大语言模型|RAG|计算机视觉,Python=>编程语言 || SQL=>查询语言 || 机器学习=>人工智能 || Java=>编程语言 || PyTorch=>深度学习框架 || 深度学习=>人工智能 || 大语言模型=>人工智能 || RAG=>人工智能应用 || 计算机视觉=>人工智能,Python=>化学习、异常检测、聚类等）； 熟悉特征工程、模型评估、超参优化与模型压缩部署流程； 精通 Python / Java / SQL 等至少一种编程语言； 具备良好的代码规范、科研阅读与工程实现能 || SQL=>悉特征工程、模型评估、超参优化与模型压缩部署流程； 精通 Python / Java / SQL 等至少一种编程语言； 具备良好的代码规范、科研阅读与工程实现能力。 加分项： 有制造业 || 机器学习=>岗位职责: 负责机器学习、深度学习模型的设计、训练与优化，支撑智能制造、质量分析、设备预测等场景； 参与大模型（L || Java=>聚类等）； 熟悉特征工程、模型评估、超参优化与模型压缩部署流程； 精通 Python / Java / SQL 等至少一种编程语言； 具备良好的代码规范、科研阅读与工程实现能力。 加分项 || PyTorch=>化等相关专业； 5年及以上机器学习、深度学习算法研发经验； 精通至少一种主流深度学习框架（PyTorch等）； 熟悉常见模型与算法（Yolo、Transformer、GNN、强化学习、异常检测、 || 深度学习=>岗位职责: 负责机器学习、深度学习模型的设计、训练与优化，支撑智能制造、质量分析、设备预测等场景； 参与大模型（LLM）能力 || 大语言模型=>责机器学习、深度学习模型的设计、训练与优化，支撑智能制造、质量分析、设备预测等场景； 参与大模型（LLM）能力在制造、知识问答、文档解析等方向的应用研究与效果评估； 根据业务需求构建算法 || RAG=>规范、科研阅读与工程实现能力。 加分项： 有制造业、半导体等智能化场景落地经验； 熟悉 RAG、知识图谱、Agent、模型微调（Fine-tuning / LoRA / Distill || 计算机视觉=>文档解析等方向的应用研究与效果评估； 根据业务需求构建算法解决方案（如异常检测、预测控制、图像识别、时间序列建模等）； 参与公司级AI平台算法能力建设，沉淀模型评估与复用标准； 撰写算法方,job_description,

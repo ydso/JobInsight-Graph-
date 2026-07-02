@@ -1,0 +1,8 @@
+batch_crawler.py：批量爬取多个城市和多个岗位
+crawler_51job.py：爬取单个城市、单个岗位，包含清洗、技能抽取和质量检查
+fingerprints.dbSQLite： 去重数据库，记录已采岗位，避免重复采集
+major_dictionary.csv：专业名称词典，例如将“计算机科学与技术”等归一到“计算机类”
+skill_dictionary.csv：技能词典，用于识别 Python、SQL、Spark、ETL 等技能
+spark_load_51job.py：帮助 Spark 正确读取包含多行岗位描述的 CSV
+test_crawler_51job.py：测试薪资解析、技能抽取、专业识别、CSV 输出等功能
+前程无忧爬取方案.md：记录爬取范围、参数、字段、合规和技术方案
